@@ -1,0 +1,239 @@
+66
+
+* Rare pitch sounds while playing notes #3943
+* TamTamMini starts with instrument selected but doesn't respond to keyboard #3756
+* TamTamMini doesn't update display when scrolling with keyboard #3711
+* Update translation
+
+65
+
+* Replace global scroll bars with down scaled images on <=800 pixels screens
+* Update translation
+
+64
+
+* Fix launching on sugars <0.96
+
+63
+
+* Update translation
+
+62
+
+* Avoid creating empty .xo files in setup.py with sugar-toolkit-0.94+
+* Adjust layout to support 800x480 screens of Olidata laptops
+
+61
+
+* TamTam* appears untranslated #3202
+* Update translation
+
+60
+
+* TamTamSuite names for all TamTam activities #3058
+* Better heart icon for beats (Manuel Quiñones)
+* Add new instrument, Solomon Islands pipe (Sean Linton)
+* Update translation
+
+59
+
+* Migrate to the singular sources hierarchy
+* Release scheme is the same for all TamTam activities
+* Tons of i18n fixes #2670 #2693 #2189 #2956 #2881 (Chris Leonard)
+* New activity toolbars (Walter Bender)
+* Icons for new activity toolbars (Manuel Quiñones)
+* Binaries for ARM architecture (Gonzalo Odiard)
+* Continuing pep8 fixes (Rafael Ortiz)
+
+58
+
+* Fix (again) tooltip of Drumsets. - SL #2189 Gonzalo Odiard
+
+57
+
+* Add binaries to support Debian based distributions on x86 platform
+* Various i18n cleanups #2646
+
+56
+
+* [Mini] Add connection to keyboard events in TamTamMini
+
+55
+
+* Enable experimental feature to export sounds to .ogg files
+* Add binaries to support Debian based distributions on x86 platform
+* Various i18n cleanups #2646
+* Fix issue with not working TamTam suite on recent Fedora releases
+
+54
+
+* Fix issue with not working TamTam suite on recent Fedora releases
+* [Mini] Reorg main window on screen rotation
+
+53
+
+* Palettes don't popup on 0.82 #1947
+* Add tooltip to the instruments.
+* fix drum kit tooltips, SL #2189
+
+52
+
+* Add blobs for debian based distros on x86_64
+
+51
+
+* Added GPL license
+* [Mini] #924 #285 Tamtam Mini control bars get really small
+* Add new instruments: Nepali madal, sarangi and temple bells (Vrishank Khanal)
+
+50
+
+* Various compatibility fixes
+* [Edit] Added GPL license
+
+49
+
+* [Edit] Various compatibility fixes
+* [Jam] Removed lab sounds (Olipet)
+* [Jam] Mic recording and loop settings clean up (Olipet)
+* [Jam] Jam follows security model (Olipet)
+* [Mini Added GPL license
+* [SynthLab] Extended duration and save OGG files in the journal (Olipet)
+* [SynthLab] SynthLab follows security model (Olipet)
+
+48
+
+* TamTamEdit saves OGG files in the journal (Olipet)
+* Removed mic and lab sounds (Olipet)
+* Edit follows security model (Olipet)
+* Updated po files (Flipo)
+* [Mini] Various compatibility fixes
+
+47
+
+* Updated po files (Flipo)
+* [Mini] Removed mic and lab sounds (Olipet)
+* [Mini] Mini follows security model (Olipet)
+
+46
+
+* Updated po files (Flipo)
+* [Jam] Fixed keep error problem (Lync)
+* [SynthLab] Swapped trackpad icons (Olipet)
+* [SynthLab] Corrected output volume (Olipet)
+* [SynthLab] Fixed a bug that prevented sound samples from loading (Olipet)
+
+45
+
+* Updated po files (Flipo)
+* [Jam] Fixed a spacing issue on the Toolbar preventing the Sync icon from appearing (Flipo)
+* [Jam] Swapped TamTamMini icon and TamTamJam (Flipo)
+
+44
+
+* Updated po files (Flipo)
+* [Edit] Added missing icons (Olipet)
+* [Edit] Fixed startup problem (lync)
+* [Jam] Instrument saving bug (lync)
+* [Jam] Microphone fix (Olipet)
+* [Mini] Swapped TamTamMini icon and TamTamJam (Flipo)
+* [SynthLab] Instrument fixes (Olipet)
+
+43
+
+* Added new sounds (Olipet)
+* Adjusted slider range (Olipet)
+* [Jam] Loading bug fix (Lync, LeJames)
+* [Jam[ Desktop sounds fix (Olipet)
+
+42
+
+* [Edit] Optimized the instrument panel (Flipo)
+* [Jam] Added microphone recording (Olipet)
+* [Mini] Removed toolbars and simplified (Olipet)
+* [SynthLab] Small bug fixes
+
+41
+
+* Added spanish translation (Flipo)
+
+40
+
+* Proper activity split (Flipo, Olipet)
+* [Edit] New instrument picker (Flipo)
+* [Jam] Numerous bug fixes (lync)
+* [Jam] Removed extra categories (Olipet, Flipo)
+* [Jam] Added more loops (JM, Olipet)
+
+
+39
+
+* New activity : TamTamJam (lync)
+* Activities are now separate (TamTamJam, TamTamEdit, TamTamSynthLab)
+* No sound when set to language other than english fixed (#3165) (J5, marcopg, tomeu, Flipo, ethrop)
+
+38
+
+* Adapt to new Palette API (Flipo)
+
+37
+
+* Small layout change in edit (Flipo)
+* Temporary fix for Palettes causing the audio to stop (Flipo)
+
+36
+
+* Major image cleanup, 700k saved (Flipo)
+* Tune generation back (see leftmost icon on generate tab) (Olipet)
+
+35
+
+* TamTam Edit Toolbars enhancements (Flipo, Olipet)
+* TamTam Edit layout changes (lync)
+* Dual instruments for tracks in Edit (Olipet, lync)
+
+34
+
+* Synthlab sugar integration (olipet, Flipo)
+* Toolbars in edit draft, hit alt-t to show the toolbar, alt-y to hide (Flipo)
+* Bug that prevented sound from working fixed (LeJames)
+
+33
+
+* Added Sugar Toolbar to miniTamTam and Synthlab (Flipo)
+* Network now working in miniTamTam, use the share button on the activity toolbar (lync)
+* Added help subsystem (ethrop, LeJames)
+
+32
+
+* Important microphone fix (Olipet)
+
+31
+
+* Working network (create a FORCE_SHARE file in the / dir) (lync)
+* New tune generator in Edit, click the dice in the tune view (Olipet)
+* Fine tuning of the algorythmic generator and orchestras (Olipet)
+* TamTamJam (miniTamTam) integration with the journal (Flipo)
+* Title according to subactivity displayed in the journal (Flipo)
+
+30
+
+* Clicking the close button in Edit and Synthlab goes back to Sugar. (Flipo)
+* Fix to the Journal load and save. (Flipo, lync)
+* Ogg player on the welcome page. (lync)
+* Demo tune instruments and tempo are randomly generated (Olipet)
+* lab placeholder files were reduced in size by 95% (Olipet)
+
+29
+
+* WelcomeScreen: Removed Typing Game icon. (Flipo)
+* General: Added sounds. (ethrop, Olipet)
+* General: Journal integration. (Flipo, lync)
+* TamTamJam: Microphone semi-working. (James)
+* TamTamEdit: Beats per page setting. (lync, Olipet)
+* TamTamEdit: Mute/Solo controls on tracks. (Flipo)
+* TamTamEdit: Paint tool. (Olipet)
+* TamTamEdit: Properties automation. (Olipet)
+* TamTamEdit: Pages can have different colors. (lync)
+* TamTamEdit: Realtime keyboard recording. (Olipet)
+* TamTamEdit: Export song to ogg file. (Olipet)

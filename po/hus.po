@@ -1,0 +1,2076 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2012-03-02 05:14+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr "Tam Tam Suite"
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr ""
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "Tsab k'wajba' / t'ok'bay we'"
+
+# Parar=kuba' o kubla'
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+msgid "Stop"
+msgstr "Kubla'"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+msgid "Select tool"
+msgstr "Tákul ayixtaláb"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "T'iplab ayindhanél"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "Mukux ayindhanél"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "Kwaya'liy"
+
+# Generar= inkiy, ts'ejka'
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "Inkiy an k'ani'láb"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "Wa'tsindhom"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "Ts'at'a' in janídh an kambidh-t'enemtaláb"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "Ts'at'a' al an ogg"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "Kawídh / K'ij"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "In inkíl"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "1/12"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "1 / 6"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "1 / 4"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "1/3"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "1/2"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "1"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "2"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+msgid "Volume"
+msgstr "Kawídh"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+msgid "Tempo"
+msgstr "k'ij"
+
+#: Edit/EditToolbars.py:386
+msgid "Rhythm"
+msgstr "áy an k'ani'láb"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "Álémtaláb"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "Nuk'at"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "Álwá' an janidhtaláb"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "Pulik xakab"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "Owát"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "Owém an tsakam dhuchlab"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "Álém an ts'ibataláb"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "Tsalpantált'iplab: "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "Alwá': "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "Wílel"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+msgid "Drone and Jump"
+msgstr "Sununúl ani t'ikwnal"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+msgid "Repeater"
+msgstr "Wichk'ox"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "Tsab t'aja' an kits'lab"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "Mani jún"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Lowpass"
+msgstr "Wat'él tsa'at"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Bandpass"
+msgstr "Wat'el pejach"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Highpass"
+msgstr "Wat'él t'ek'at"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "Kits'lab"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "Tamkulom mukuxtaláb"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "Yaxu'"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "Tok'i'"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "Manu'"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "K'e'adh ti mudhe': "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "Mukuxtal an walxeklek: "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "T'i'podhwat'baxtaláb: "
+
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "Jun pok'e': "
+
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+msgid "Reverb"
+msgstr "Nuk'at janídhtaláb"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "In owát ti taktól"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+msgid "Decay duration"
+msgstr "Owát an tsa'at tsapláb"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "Junkubél i dhikab: "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "Junkubél"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "We'kats"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "K'adhpidh"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "Yab exbadh"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "Kawídh in bélil an janidhtaláb 1"
+
+# Axé xi tsalap u  punuwal antsana' kom an kaw Pista le' kin uluw "belil an janídhtaláb" po jayetsej walám "belil an k'ani'láb
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "Inkíl in belil an janidhtaláb 5"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+msgid "Generate"
+msgstr "Ts'ejka'"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+msgid "Record"
+msgstr "Ts'at'a'"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr "Ayindhanél"
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "Ts'ejkáb"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "S"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "Ts'pik'anchij in belil in belil an janidhtaláb"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "1P"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "Kwetém belil an janidhtaláb"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "Inkíl in belil an janidhtaláb %s"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+msgid "Left click to mute, right click to solo"
+msgstr "Kw'atbej ka ni'chij abal ka tsi'ibk'an, wimbej ka ni'inchij abal kwetem"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "Inkíl an ayindhanél"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "Inkíl an kwenél t'enemtaláb"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "Inkíl an wilk'intaláb"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "Ka punchij an tsinat bijláb"
+
+# An kaw tocar tsab ti ka exbay, jun jats tocar de taka'.
+# ani xi jun jats tocar de T'eney
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "T'eney"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr "Áy an k'aniláb"
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "Waldhuchumtáb"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "Tsab wichk'ow"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr "Kwenél i mulkux tsapláb"
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr "Wenk'owtaláb"
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr "T'iplab"
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "Jun pok'e':"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "Lejbaxtalab k'al an k'aniláb (ájatláb):"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "Junkubataláb:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+msgid "Master volume"
+msgstr "Kawídhtaláb xi Exobchix"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr "Kuba' an wenk'owtaláb"
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr "Ts'ibk'a' an wnk'owtaláb"
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "Bawchij an lejab k'ani'lab"
+
+#: Jam/Toolbars.py:202
+msgid "Synch to:"
+msgstr "Junat k'ij k'al:"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "1 ni'chij (pulsar)"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "2 ni'chijchik"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "3 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "4 ni'chijchik tin áy an k'aniláb"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "5 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "6 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "7 ni'chijchik tin áy an k'aniláb"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "8 ni'chijchik tin áy an k'aní'láb"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "9 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "10 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "11 ni'chijchik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "12 ni'chichik tin áy an k'ani'láb"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "Waldhuchumtaláb 1"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "Waldhuchumtaláb %d"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+msgid "Record microphone into slot 1"
+msgstr "Ts'at'a' an kawidhmedhomtaláb ti an jólát 1"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+msgid "Record microphone into slot 2"
+msgstr "Ts'at'a' an kawidhmedhomtaláb ti al an jólát 2"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+msgid "Record microphone into slot 3"
+msgstr "Ts'at'a' an kawidhmedhomtaláb ti al an jólát 3"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+msgid "Add new Sound"
+msgstr "Punk'uy ít iJanidhtaláb"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "Janidhtaláb: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "Dhucha': "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+msgid "Play"
+msgstr "Tsab wat'ba'"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "Tam Tam"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+msgid "Balance"
+msgstr "Junkudhtaláb"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "Ni'chij abal ka ts'at'a' juni wenk'oxtaláb"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "Punk'unchij juni wenk'oxtaláb"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "Pakuw patal an wenk'xtaláb"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "Inkintal"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "T'ajnél"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "Ábatnom"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "Kaldhanchij in janídh"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "OBF"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "Owém"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "Áytal Wilk'idh"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "In álwá' an Ik' bél"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "Seno"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "Ox ts'upi'"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "Bi-Tse' in walté'"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "Uni-Tse'walté'"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "Katmadhkotox"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "Pa'a'ál katmadhjotox"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "Tadhk'inal"
+
+# Oscilación= wiwk'a'
+# Onda= ik' bél
+# Frecuencia= Áytalwilk'idh
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"Tam ka k'ayúm wiwk'a'in in áytalwilk'idh (OBF) pel juni ik'bél xi yab ats'at "
+"ani u eynal abal ka jalk'unchat in alwá' k'e'at i janidhtaláb."
+
+# efecto: t'ajnél
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr ""
+"In kawídh an ik'bél OBF. Juni i pulik kawidhtaláb lé' kin uluw juni pulik "
+"t'ajnél."
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "In ádhík an ik'bél."
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "Junkubél ik'bél a xi ne'ets ka ayidháj abal an OBF."
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr "In jalbíl a xi ts'at'atits ti al in owém an OBF."
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "Íláb"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "Áy an ajixtaláb xi yab takudh kin wilk'ow an Abatnom Pat'al."
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "We'ekats i ajixtaláb ti binadh an k'ij"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "Yan i ajixtaláb ti binádh an k'ij."
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "In adhík an áyláb."
+
+# Generador: Ts'ejkom
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "An Ájixtaláb abal kin tujuw an ts'ejkom ajixtalábchik"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "Dhu'banél"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "Taktoma'"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "Tsa'at tsapláb"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "Tsáplixtaláb"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "Koyataláb"
+
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr ""
+"Juni dhu'banél ADSR jats in alwá' in kawídh an janidhtaláb ti al an k'ij."
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(A) In ádhík jant'ini' ka ulits in janidh k'al patal in kawídh."
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr ""
+"(D) In Adhík Jant'ini' tu k'ibel an janidhtaláb tam ok'xidh ka takchikat."
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "In kawídh an janídhtaláb ma ka wilan an dhuchadh k'ani'láb."
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "In adhík jant'ini' ti ts'ibk'anal in janídh."
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "Trackpad X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "Lejbaxjanidhtaláb"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr "Kilodh tin bólídh"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr "Logaritmica"
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "K'ij Konowixtaláb"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr ""
+"An trackpad in ejtowal ka éyan abal ka tsab ítmedhaj an janidhtaláb. Axe' "
+"belal ta k'watab abal ta winab."
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "In lej tsa'at jalbíl xi ne'ets kin abna' an Trackpad."
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "In lej pulik jalbíl xi ne'ets kin abna' an trackpad."
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr ""
+"In alwá' jant'ini' ti kw'ajat buk'udh in jalbíl. Tin bolidh an kits'lab o "
+"max í pulichladh."
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "In k'elbadh jolát an k'ij ti al an i t'ajnélchik xi tál ti Trackpad."
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "Trackpad Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr ""
+"An Trackpad XO ina ejtowal ka éyab abal kin tsab jalk'uy an janídhtaláb. A "
+"Axe´u belal ti ébál abal alál."
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "FM"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "Áytal Wilk'idh xi kital"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "Áytal Wilk'idh xi t'ojojox jununúl"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "Nik'at bijdhuchlab"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "Ok'chikatlowál"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"An tsakam tejwamedhomtaláb tin ébal an wilk'idháytaláb, in ts'ejkál juni "
+"janidhtaláb k'al an k'amal, junti u xaluxinal an wilk'idháytaláb xi in "
+"áyindhál tsáb i ik' bél."
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "An wilk'idh áytaláb ti al an ik' bél xi lej exbadh."
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr ""
+"An wilk'idháytaláb ti al an ik'bél ayindhach abal ka tsab wenk'owat an "
+"ik'bél xi kital."
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "Jalk'ú' an wilk'idháytaláb ti al an ik' bél xi kital."
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "Kawídh an Janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "Ts'iliytaláb"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "Yanél an juchub t'enemtaláb"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "Eméltal an dhikab"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "Juni ts'ilíy pel juni alabél janidhtaláb k'al yani juchub t'enemtaláb."
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "In álwá' an Janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "In k'ochól janídh an juchub t'enemtaláb."
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "In alabental an janídhtaláb."
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "OCV"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "Pek'madh tse' ts'upi'"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"Juni wiwk'ontaláb xi abatnadh k'al in tsáp an k'amal (OCV) in ts'ejkál juni "
+"kawidhtaláb kál an k'amal junti xaluxlinal in éy k'al tsáb i ik'bél."
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "An ik'bél a xi ne'ets ka itmedháj k'al an OCV."
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "In alwá' an ikbél OCV."
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "Tukmichikiy"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "Janidh dhiyoyoltaláb"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr ""
+"Juni t'enemtaláb xi in kwa'al in ts'ajlíl xi tsaplidh k'al an k'amal (ejtil "
+"an Pulik ájab)."
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "In alwá' in janídh an t'enemtaláb."
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "Ts'iliytaláb"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "Dhakni'"
+
+# Rosa= Dhuyu'  ani iko'
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "Dhuyu'"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "Gauss"
+
+#: SynthLab/SynthLabConstants.py:267
+msgid "Bandwidth"
+msgstr "Ts'ikwél"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr ""
+"An Ts'ilíy pel juni janidhtaláb k'al in tsáp xi in ne'dhál patal an "
+"Wilk'idháytaláb."
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr ""
+"In T'ipól xu éynal k'al an ts'il'iy (dhakni'=mak'ik'íl, dhalbadh "
+"dhuyu'=yikw'ax, gauss=witsichik)."
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "In k'ochém an janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "T'iplab k'al an janídhtaláb"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "Ajix tejwamedhomtaláb"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "Bij an t'iplab"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr ""
+"Juni t'iplab pel juni tejwa' janídhtaláb a xi k'wajat ts'at'badhits ani "
+"ne'ets ka ejtowat tsab kw'ajba'."
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "In tejwamedhomtal in álwá' an janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "Xi éynal ti tejwamedhomtaláb."
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "Nuk' janidhtaláb"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "Nuk' janidhtaláb"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "Juni kawintaláb xi pat'alidh."
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "In alwá' an janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "An janidhtaláb xi u inkinal k'al an nuk'ajinidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "Ichlab"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"An t'ajn'el ichlab in t'ijax mu'uwal an janidhtaláb xi ne'ets ka ejtowat ka "
+"t'jojoyat al an k'iij."
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "In alwá' an janidhtaláb an ichlab."
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "Yantolom in alwá' in janidh an ichlabchik."
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "An tsakam punk'uxtaláb"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "Buk'eltaláb"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr ""
+"An tsakam punk'uxtaláb in ts'ejkál juni alabél janidhtaláb tam kin xaluxliy "
+"yantolom i pilchik ik'bél."
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "An pilchik ik'bél owemdhachik ti kw'ajat."
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "In alwá' an ik'bél."
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "In otskantal an kawidhomtaláb"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "In nakél an ók'dhaykol"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "ajixtaláb k'al in ok'dhaykol"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "Adhík an wilk'ixtaláb"
+
+#: SynthLab/SynthLabConstants.py:326
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr ""
+"In otskantal an kawidhomtaláb u ts'at'báb al juni ts'ejeltal ok'dhaykol abal "
+"ka wilililáts (ni'inchij winbéj ti al an t'iplab abal ka ts'at'ey an "
+"janidhtaláb)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "Axé' xi lejbantaláb yab u jalk'unal"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr ""
+"In owát an wilk'ixtaláb in jalk'uwal in owát ani in janídh an ts'iliytaláb"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "Jilk'ontaláb"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "Tsablejkixtaláb"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr ""
+"An jilk'ontaláb (ik'letsbax) pel in tsilíy an janidhtaláb xi wilk'inal juníl "
+"ani junilik'ij."
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "In adhík an ik'letsbax."
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "An k'ij xi in yejenchal abal ka ts'ibk'an an ts'ilíy."
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "Yab in tekédh"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "Janiníltaláb"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "In puwél a xi yab tekedh"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr ""
+"Xi yab in tekédh pel kom odhpinal juni ik'bél a xi ts'ejkom k'al an wits'iy "
+"janitdhtaláb."
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "In alwá' an janidhtaláb xi yab in kwa'al in tekedh."
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "In yanél an dhiyoyóltaláb xi al an ayindhanél xi in kwetém tomts'oyal."
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "In kawídh an janidhtaláb xi yab in kwa'al in tekedh."
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "Dhikab"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"Juni dhikab tin ébál an ots'bixtaláb kw'ajat ts'ejkadh abal kin leyoymedha', "
+"kin yikw'axmedha' o kin kwa'anchij in k'jidh juni janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "T'ipts'odh junti an janidhtaláb u dhiknal."
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "In puwél an pejach junti odhnach k'al an dhikap."
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr ""
+"Junkubél an dhikab xi ne'ets ka éyan: Wat'el tin álam=yikwax, wat'el t'ek'at "
+"= mak'ik'íl, pasa banda=xi k'ijidh in janídh."
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "T´ojojox k'al an kwecho'"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "Xaluxtaláb"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr ""
+"In t'ojojoxtal an kwecho' pel in t'ojlabil an ots'bixtaláb a xi in ts'ejkál "
+"an pat'ál janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "An janidhtaláb in alwá' k'al an t'ojojoxtaláb tin ébál an kwecho'."
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "In kawídh an janidhtaláb xi t'ojojox."
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "In alwá' an ik'bél xi ayindhach abal ka t'ojojoxin."
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "Nakél"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "Wichat nuk'at janidhtaláb"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr ""
+"An nuk'at janidhtaláb jats in nakél jun i janidhtaláb xi u kw'aj'il altaj al "
+"jun i atáj."
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "Puwéltal an koydhomaltáj."
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "In alabental in janídh an nuk'atjanidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "Yanél an nuk'at janidhtaláb xi ayindháb."
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "Harmonizer"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "Waynek jik'ónél"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "Jun i junkuxtaláb in tsapchiyal in janídh an kíjidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "In alwá' an janidhtaláb xi ts'abpunk'udh."
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "In jolát an k'ij abal ka tujchij in lejtal an janidhtaláb."
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr ""
+"Ka kwajiy ts'ejladh k'al xi in lejtal an janidhtaláb ani a xi tsabpunk'udh."
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "T'ojojox k'al tsé tsawiwíl wat'el"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "K'a'al atlowál xi tsawiwíl wat'él"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "Tsabchíl atlowál a xi tsawiwíl wat'el"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "Oxchíl atlowál a xi tsawiwíl wat'él"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "Tse'chíl atlowál a xi tsawiwíl wat'él"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr ""
+"Jun i t'ojojox xi in kwa'al 4 i tsawiwíl wat'el in takuyal an putudhkits'lab "
+"(tsawiwíl wat'el) ti al an janidhtaláb ani in t'ajal abal ka lej tsapikmej "
+"o ka paluwmej."
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "In kawídh k'al an tsawiwíl wat'el 1 (tsa'at)."
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "In kawídh an tsawiwíl wat'el 2 (ts'ejel-tsa'at)."
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "In kawídh an tsawiwíl wat'el 3 (ts'ejel-tsapik)."
+
+# Cuando se refiere a musica la palabra alto se dice k'adhat y cuando se refiere a lo fisico es yejnek
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "In kawídh an tsawiwíl wat'el 4 ( k'adhat)."
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "Kwenélajat"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "Lupém OBF"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "Junkubat OBF"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr ""
+"In ts'ilíy an kwenélajat in tsab k'otbiyal kwetem juníl an janidhtaláb tokot "
+"u jalk'unal we'."
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "In kawídh an tsólóm OBF."
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "In alwá' in janidh an tsólóm OBF."
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "In yanél xi jilk'onenek tin ts'ejeltal al tsab i tsólóm."
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "Ok'xidh t'ojojoxtaláb"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "K'a'al exbadh"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": ábatnom k'al an kadhaxtaláb"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr "kaltal an janidhtaláb"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr "otseltal an janídhtaláb"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "Abnom janidhtaláb al an kaljanidhtaláb"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "In Owát:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " s."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "Tsab tujuw an junkudh t'ojláb"
+
+#: SynthLab/SynthLabToolbars.py:137
+msgid "Record Synth sound into slot"
+msgstr "In dhuchadh janídh ti abatnom janidhtaláb al in k'e'pantal"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+msgid "Preset"
+msgstr "Ok'xidh t'ojojoxtalabchik"
+
+#: common/Tooltips.py:9
+msgid "Draw tool"
+msgstr "T'ipox ayixtaláb"
+
+#: common/Tooltips.py:10
+msgid "Paint tool"
+msgstr "Mukux ayixtaláb"
+
+#: common/Tooltips.py:12
+msgid "Generate new tune"
+msgstr "Ts'ejkom ít ajatláb"
+
+#: common/Tooltips.py:14
+msgid "Generate page"
+msgstr "Kaldha' an wal xeklek"
+
+#: common/Tooltips.py:15
+msgid "Page properties"
+msgstr "In alwá' an walxeklek"
+
+# Eliminar=pakluw
+#: common/Tooltips.py:16
+msgid "Delete page(s)"
+msgstr "Pakluw walxeklek (chik)"
+
+#: common/Tooltips.py:17
+msgid "Duplicate page(s)"
+msgstr "Tsabchiy walxeklek (chik)"
+
+#: common/Tooltips.py:18
+msgid "Add page"
+msgstr "Punk'uy walxeklek"
+
+#: common/Tooltips.py:19
+msgid "Beats per page"
+msgstr "T'ik't'ol k'alejk'ij an walxeklek"
+
+#: common/Tooltips.py:20
+msgid "Save tune"
+msgstr "Dhaya' an k'ani'láb"
+
+#: common/Tooltips.py:21
+msgid "Load tune"
+msgstr "In dhayál an junkubat janidhtaláb"
+
+#: common/Tooltips.py:23
+msgid "Generate track"
+msgstr "In ts'ejkál an bél k'ani'láb"
+
+# propiedades= inkíl
+#: common/Tooltips.py:24
+msgid "Track properties"
+msgstr "Inkíl an k'ani'láb"
+
+#: common/Tooltips.py:25
+msgid "Clear track"
+msgstr "K'wit'iy an k'ani'láb"
+
+# Pista= janidhtaláb=k'ani'láb
+#: common/Tooltips.py:26
+msgid "Duplicate track"
+msgstr "Kwaya'liy in belil an janidtaláb (k'ani'láb)"
+
+#: common/Tooltips.py:28
+msgid "Note(s) properties"
+msgstr "In inkílchik an dhuche'(chik) k'ani'lab"
+
+#: common/Tooltips.py:29
+msgid "Delete note(s)"
+msgstr "Pakuw in inkíl an dhuche' k'ani'lab (chik)"
+
+#: common/Tooltips.py:30
+msgid "Duplicate note(s)"
+msgstr "Kwayá'liy an dhuche' k'ani'lab (chik)"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+msgid "Move note in time"
+msgstr "Ka tadhk'iy an dhuche' k'ani'lab al an kíj"
+
+#: common/Tooltips.py:33
+msgid "Lower pitch"
+msgstr "Tsa'kanchij an janidhtaláb"
+
+#: common/Tooltips.py:34
+msgid "Raise pitch"
+msgstr "K'adhbanchij an janidhtaláb"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+msgid "Modify duration"
+msgstr "Jalk'unchij in owát"
+
+#: common/Tooltips.py:37
+msgid "Lower volume"
+msgstr "Tsa'kanchij in kawídh"
+
+#: common/Tooltips.py:38
+msgid "Raise volume"
+msgstr "K'adhbanchij in kawídh"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "T'ok'bay"
+
+#: common/Tooltips.py:43
+msgid "Keyboard recording"
+msgstr "Ts'at'a' in k'ani'labil an kambidh t'enemtaláb"
+
+#: common/Tooltips.py:44
+msgid "Save as .ogg"
+msgstr "Ka dhaya' jant'ni'.ogg"
+
+#: common/Tooltips.py:45
+msgid "Rewind"
+msgstr "Tsabt'aliy"
+
+#: common/Tooltips.py:46
+msgid "Save to journal and quit"
+msgstr "Dhaya' al an chudhél dhuchlab ani kit kalej"
+
+#: common/Tooltips.py:58
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr "-- Álémtal in áy an k'ani'lab, | Jununultal in áy an k'ani'lab"
+
+#: common/Tooltips.py:59
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr "-- Jununúl janidhtaláb, | Ma junti wichat in alwá' an janidhtaláb"
+
+#: common/Tooltips.py:60
+msgid "-- Average duration, | Silence probability"
+msgstr "-- Owát álmudhe', | Walam ts'ibat"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+msgid "Major scale"
+msgstr "Pakdha' bajudh"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+msgid "Harmonic minor scale"
+msgstr "We' bajudh juchub t'enemtaláb"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+msgid "Natural minor scale"
+msgstr "Pel in éy tsipkats ts'ejkadh ti baujdh"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+msgid "Phrygian scale"
+msgstr "Bajudh frigia"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+msgid "Dorian scale"
+msgstr "Bajudh dórica"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+msgid "Lydian scale"
+msgstr "Bajudh lidia"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+msgid "Mixolydian scale"
+msgstr "Bajudh mixolidia"
+
+#: common/Tooltips.py:79
+msgid "Save preset"
+msgstr "An k'ejab t'ojojoxtaláb ka dhaya'"
+
+#: common/Tooltips.py:80
+msgid "Load preset"
+msgstr "Ka balchiy an k'ejab t'ojojoxtaláb"
+
+# Cerrar= mapuy
+# Encerrar= mápuy
+#: common/Tooltips.py:82
+msgid "Close"
+msgstr "Mapuy"
+
+#: common/Tooltips.py:85
+msgid "Transpose up"
+msgstr "Ka k'adhba' an t'ipodhwat'baxtaláb"
+
+#: common/Tooltips.py:86
+msgid "Transpose down"
+msgstr "T'ipodhwat'baxtaláb alál"
+
+#: common/Tooltips.py:87
+msgid "Volume up"
+msgstr "K'adhbanchal in kawídh"
+
+#: common/Tooltips.py:88
+msgid "Volume down"
+msgstr "Tsa'kanchal in kawídh"
+
+#: common/Tooltips.py:89
+msgid "Panoramization"
+msgstr "Tejwamedhomtaláb"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "Dhikab ti tsa'at xakab"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+msgid "Highpass filter"
+msgstr "Dhikab ti t'ek'at xakab"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+msgid "Bandpass filter"
+msgstr "Tsawiwílwat'el pejach k'al an dhikab"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "Jayíl ti kotnal an dhikab xi"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+msgid "Open algorithmic generator"
+msgstr "Japiy an inkix algorítmico"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "Lej tsipiti' in jalbíl"
+
+#: common/Tooltips.py:114
+msgid "Maximum value"
+msgstr "Lej pulik in jalbíl"
+
+#: common/Tooltips.py:115
+msgid "Specific parameter"
+msgstr "Takudh lejbantaláb"
+
+#: common/Tooltips.py:116
+msgid "Apply generator"
+msgstr "Puchij an tujundhom"
+
+#: common/Tooltips.py:117
+msgid "Cancel"
+msgstr "T'apiy"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr "Tin Yanél"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr "Ko'nelchik"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr "Eyixtaláb"
+
+# corrección: Teclado antes se había considerado como kambidh t'enemtaláb pero después de analizar queda mejor como: NI'ÍMT'ENEMTALA´B
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr "Ni'ímt'enemtaláb"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr "Atiklabchik"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr "Kwadhacht'enemtaláb"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr "Ts'aj"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+msgid "Winds"
+msgstr "Kwechmadh"
+
+# Stop= kubla'
+#: common/Tooltips.py:146
+msgid "Play / Stop"
+msgstr "Tsab k'wajba' | Kubla'"
+
+#: common/Tooltips.py:148
+msgid "Left click to record, right click to record on top"
+msgstr ""
+"Ka ni'chij ta k'watab abal ka ts'at'a', Ka ni'chij ta winab ebalk'ij abal ka "
+"ts'at'a'"
+
+#: common/Tooltips.py:150
+msgid "Complexity of beat"
+msgstr "In k'ibát an lejbax k'ij"
+
+# Compás = lejbax k'ij
+#: common/Tooltips.py:151
+msgid "Beats per bar"
+msgstr "Ajixtal an lejbax k'ij"
+
+#: common/Tooltips.py:153
+msgid "Record with the microphone"
+msgstr "Ts'at'a' k'al an Kawidhmedhomtaláb"
+
+#: common/Tooltips.py:154
+msgid "Open SynthLab to create noise"
+msgstr "Japiy SynthLab abal ka ts'ejkan an ts'iliytaláb"
+
+#: common/Tooltips.py:155
+msgid "Record microphone into slot 4"
+msgstr "Ts'at'a' an kawidhmedhomtaláb ba' an b'el 4"
+
+# Conejillo de Indias= ko'nél takaxtaláb
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr "Ko'nél takaxtaláb"
+
+# Conjunto de intrumentos musicales
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr "Gamelan"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr "Pulik ájab xi t'enedh k'al i ka'amal"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr "Koto"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr "Banyo"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr "T'enemtaláb xi eynal k'al i ts'aj"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr "Clavicémbalo"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+msgid "Clarinet"
+msgstr "Pulik nakat juchub"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+msgid "Flute"
+msgstr "Tsúl"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr "Ni'ím t'enemtaláb"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr "Pik'o'"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr "Tsakam koxol (pita')"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr "Pak'wak'w"
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr "Tsakwaliláb"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr "Ik' t'enemtaláb"
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr "Olchix k'ij"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr "Ts'itsin"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr "T'ím"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr "Mitsu'"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr "Pakax"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr "Ts'ili'"
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr "Limete"
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr "Pet'na'"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr "Odhtalab"
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr "Ow"
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr "Hey"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr "K'udhmadhko'nél"
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr "Ja'"
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr "Ley Tsok"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr "Trompeta"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr "Junkubél i juchub"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr "Dhet'eb-its'am"
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr "Foghom"
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr "Dhopk'achik"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr "Marimba"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr "Pek'adh t'enemtaláb"
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr "Te'ental"
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr "Te'ental an t'ele'"
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr "T'ele' Uh-oh"
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr "Ts'at'k'a'"
+
+# Bicicleta=tsabtoli'
+# Campana= t'int'il
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr "Tsabtoli' t'int'íl"
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr "Wi'leb"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr "Paye't'enemtaláb"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr "Ik' Pulik-ájab"
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr "Akakpek'midh"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr "Didjeridu"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr "Armonio"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr "Bichim"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr "Kalimba"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr "Mandolina"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr "Ocarina"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr "Ni'ím k'ani'láb Rhoes"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr "Saxófono"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr "Saxofón Soprano"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+msgid "Shehnai"
+msgstr "Shehnai"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr "Sitar"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr "Tuba"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr "Widhach t'enemtaláb"
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr "K'ot'bixwalek"
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr "Tolilíl pat'al"
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr "Dhajantal an tolilíl pat'al"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr "Chelo"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr "Boli' t'int'il"
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr "Tómlóx"
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr "Ts'itsin pat'ál"
+
+# Bofetada= ch'apladh
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr "Ch'apladh (Ch'apadh)"
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr "T'int'ilal an tiopan"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr "Sarangi"
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr "'au tahana"
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+msgid "Jazz / Rock Kit"
+msgstr "Tsakam kwenél k'al an Jass/Rock"
+
+#: common/Util/Instruments.py:670
+msgid "African Kit"
+msgstr "Tsakam kwenél Africano"
+
+#: common/Util/Instruments.py:672
+msgid "Arabic Kit"
+msgstr "Tsakam kwenél Árabe"
+
+#: common/Util/Instruments.py:674
+msgid "Electronic Kit"
+msgstr "Tsakam kwenél pat'ál k'amal"
+
+#: common/Util/Instruments.py:676
+msgid "South American Kit"
+msgstr "Tsakam kwenél Sudamericano"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr "Jun i k'wajíl xi ti Nepal"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "Jalk'ux Tam Tam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "Tam TamJam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "Tsakam Tam Tam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "Tam TamSynthLab"
+
+#~ msgid "%(component_name)s"
+#~ msgstr "%(component_name)s"

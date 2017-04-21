@@ -1,0 +1,18 @@
+Overview
+========
+TamTam is a suite of four music and sound related activities for Sugar.
+TamTam is written in python with some C functions for speed-critical services.
+The audio engine for TamTam is Csound. 
+
+Distribution
+============
+
+Run `./setup.py dist_xo` to create .xo bundles for all activities at once.
+Run `./setup.py dist_sources` to create sources tarball.
+Run `DESTDIR=<dest-dir> ./setup.py install` to install activities using optional
+DESTDIR prefix.
+
+Resources
+=========
+http://wiki.sugarlabs.org/go/Activities/TamTam
+http://git.sugarlabs.org/tamtam/

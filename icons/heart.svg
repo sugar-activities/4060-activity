@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+  <!ENTITY fill_color "#FFFFFF">
+  <!ENTITY stroke_color "#010101">
+]>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="55"
+   height="55"
+   id="svg4895">
+  <g
+     transform="matrix(0.76916786,0,0,0.76916786,-0.7305023,-759.38915)"
+     id="layer1">
+    <path
+       d="m 47.842815,1011.7669 c -1.863453,-3.3269 -5.632021,-5.807 -9.945331,-5.7133 -3.354797,0.072 -7.020494,1.7002 -10.383652,5.7133 -3.363157,-4.013 -7.059083,-5.6404 -10.41388,-5.7133 -4.31331,-0.094 -8.081878,2.3864 -9.9453315,5.7133 -6.34173186,11.3222 7.0971915,20.8263 20.3592115,33.2216 13.262021,-12.3953 26.670715,-21.8994 20.328983,-33.2216 z"
+       id="rect5369"
+       style="fill:&fill_color;;stroke:none" />
+  </g>
+  <path
+     d="M 44.478126,6.5847973 C 51.500218,13.53614 53.29217,22.174076 51.091456,31.266081"
+     id="path3780"
+     style="fill:none;stroke:&fill_color;;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="m 38.733206,12.91975 c 5.37763,4.189418 6.42856,9.719954 4.215527,15.732561"
+     id="path3028"
+     style="fill:none;stroke:&fill_color;;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+</svg>

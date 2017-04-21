@@ -1,0 +1,2029 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2012-09-21 22:41+0200\n"
+"Last-Translator: hariru <hariruroa@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr ""
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "Pūrei / Tatari"
+
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+msgid "Stop"
+msgstr "Tū"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+msgid "Select tool"
+msgstr "Tīpako utauta"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "Utauta Tuhituhi"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "Utauta Peita"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "Tārite"
+
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "Waihanga Rangi"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "Waihanganga"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "Hopu papapātuhi"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "Hopu ki ogg"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "Rōrahi oro / Rōrahi taki"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "Āhuatanga"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "1/12"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "1/6"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "1/4"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "1/3"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "1/2"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "1"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "2"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+msgid "Volume"
+msgstr "Rōrahi Oro"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+msgid "Tempo"
+msgstr "Rōrahi Taki"
+
+#: Edit/EditToolbars.py:386
+msgid "Rhythm"
+msgstr "Manawataki"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "Rōrahi"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "Taki tūturu"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "Rangi"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "Hipanga rahinga"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "Roanga"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "Roanga note"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "Rōrahinga ngū"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "Tauine: "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "Aratau: "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "Haurangi"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+msgid "Drone and Jump"
+msgstr "Rōria me te Hūpeke"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+msgid "Repeater"
+msgstr "Pūtārua"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "Koromekengia ngā wāhanga"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "Kore"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Lowpass"
+msgstr "Hipapoto"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Bandpass"
+msgstr "Hipawhakaae"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Highpass"
+msgstr "Hipateitei"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "Raina"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "Waiporoporo"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "Kākāriki"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "Kikorangi"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "Kōwhai"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "Wāhanga mātiti: "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "Tae whārangi: "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "Tūngarawhiti: "
+
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "Roiroi: "
+
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+msgid "Reverb"
+msgstr "Pāoro"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "Roanga tukituki"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+msgid "Decay duration"
+msgstr "Roanga popo"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "Momo Tātari: "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "Momo"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "Mōkito"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "Mōrahi"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "Tupurangi"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "Oro 1 Rōrahi Oro"
+
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "Oro 5 Āhuatanga"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+msgid "Generate"
+msgstr "Waihanga"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+msgid "Record"
+msgstr "Hopu"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr "Ngā Utauta"
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "Tito"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "M"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "Whakangū oro"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "S"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "Oro takitahi"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "Oro %s Āhuatanga"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+msgid "Left click to mute, right click to solo"
+msgstr "Pāwhiri mauī hei whakangū, pāwhiri matau hei takitahi"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "Āhuatanga Pūoro"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "Āhuatanga Pū Pahū"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "Āhuatanga Koromeke"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "Tautapa Pātuhi"
+
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "Whakatangitangi"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr "Taki"
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "Papamahi"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "Pūrei anō"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr "Ngā Pū Pahū"
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr "Ngā Koromeke"
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr "Koromeke"
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "Roiroi:"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "Ngā Taki:"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "Taki Tūturu:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+msgid "Master volume"
+msgstr "Rōrahi oro matua"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr "Whakatū i ngā Koromeke"
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr "Whakangū i ngā Koromeke"
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "Hūpeke Ki Taki"
+
+#: Jam/Toolbars.py:202
+msgid "Synch to:"
+msgstr "Tukutahi ki:"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "1 Taki"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "2 Ngā Taki"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "3 Ngā Taki"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "4 Ngā Taki"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "5 Ngā Taki"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "6 Ngā Taki"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "7 Ngā Taki"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "8 Ngā Taki"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "9 Ngā Taki"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "10 Ngā Taki"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "11 Ngā Taki"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "12 Ngā Taki"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "Papamahi 1"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "Papamahi %d"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+msgid "Record microphone into slot 1"
+msgstr "Hopu hopureo ki te wāhi 1"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+msgid "Record microphone into slot 2"
+msgstr "Hopu hopureo ki te wāhi 2"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+msgid "Record microphone into slot 3"
+msgstr "Hopu hopureo ki te wāhi 3"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+msgid "Add new Sound"
+msgstr "Tāpiri Oro hōu"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "Oro: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "Rēhita: "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+msgid "Play"
+msgstr "Tākaro"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "TamTam"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+msgid "Balance"
+msgstr "Tautika"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "Pāwhiri ki te hopu koromeke"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "Pāwhiri ki te tāpiri koromeke"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "Pāwhiri ki te ūkui i ngā koromeke katoa"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "Pūtake"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "Pānga"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "Mana"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "Huaputa Oro"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "LFO"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "Pūrahi Ngaru"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "Auautanga"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "Pukangaru"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "Aho"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "Tapatoru"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "Taparite-Rua"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "Taparite-Tahi"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "Nihotaniwha"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "Nihotaniwha-raro"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "Wāhikē"
+
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"Ko te huringa hokihoki auautanga iti nei (Low Frequency Oscillation, LFO) he "
+"momo oro tē rangona, ā, he ngaru e whakamahia ana hei huri i tētahi atu "
+"oro."
+
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr ""
+"Te rōrahi oro o te ngaru LFO. Ki te rahi ake te rōrahi oro ka rahi ake te "
+"pānga."
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "Te terenga o te ngaru."
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "Te momo ngaru ka whakamahia mō te LFO."
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr "Te uara kua tāpiri ake ki te LFO."
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "Kākano"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "He raupapa tau, tārua kore kua kōwhiria e te rorohiko."
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "Te tau iti e whakaaetia ana"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "Te tau nui e whakaaetia ana."
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "Te terenga o te raupapa."
+
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "Te tau hei waitohu i te kaiwaihanga tau"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "Pūhera"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "Kōkiri"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "Popo"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "Whakaū"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "Tuku"
+
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr "Ko te pūhera ADSR te āhua o te rōrahi oro i te wā tangi oro."
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(A) te terenga o te eke ki te rahinga rōrahi oro."
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr "(D) te tere taka o te oro whai muri i te kōkiri."
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "(S) te rōrahi o te oro tae noa ki te tukunga o te note."
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "(R) te tere o te oro kore."
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "Papaaroturuki X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "Tauinetanga"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr "Paerangi"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr "Ā-Taupū Kōaro"
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "Wā pou"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr ""
+"E taea ana te whakamahi i te papaaroturuki hei whakakē i te oro. Mai i mauī "
+"ki matau."
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "Te uara mōkito ka tukua e te papaaroturuki."
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "Te uara mōrahi ka tukua e te papaaroturuki."
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr ""
+"Te āhua o te uara whakawehe anō. Hei rārangi tōtika (tōtika) hei ānau rānei "
+"(ā-taupū kōaro)."
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "Ngā wātea wā i waenga i ia takahanga mai i te papaaroturuki."
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "Papaaroturuki Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr ""
+"E taea ana te whakamahi i te papaaroturuki hei whakakē i te oro. Mai i runga "
+"ki raro."
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "FM"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "Auautanga Kaikawe"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "Auautanga Kaiwehe"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "Taupū"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "Whai"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"Ko te frequency modulation synthesis (FM) ka waihanga oro hiko mā te "
+"honohono i te auautanga o ngā ngaru e rua (te kaikawe me te kaiwehe)."
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "Te auautanga ngaru matua."
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr "Te auauatanga o te ngaru ka whakakē i te ngaru Kaikawe."
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "Ngā rerekētanga o ngā auautanga o te ngaru Kaikawe."
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "Te rōrahi o te oro."
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "Pī"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "Te tau o ngā rangi maha"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "Tātari Whakaheke"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "Ko te pī he oro kaha me ngā oro rangi maha."
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "Te rangi o te oro pī."
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "Te whānuitanga o te oro rangi maha."
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "Te tiahotanga o te oro."
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "VCO"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "Pūtake rua"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"Ka waihanga te voltage-controlled oscillator (VCO) i te oro hiko mā te "
+"honohono i te āhua o ngā ngaru e rua."
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "Te ngaru ka whakakētia e te VCO."
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "Te auaha o te ngaru VCO."
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "Huti"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "Reo tōiri"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr "He pūwhakatangi tuaina hiko (pērā i te kitā)."
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "Te rangi o te pūwhakatangi."
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "Hoihoi"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "Mā"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "Māwhero"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "Autō"
+
+#: SynthLab/SynthLabConstants.py:267
+msgid "Bandwidth"
+msgstr "Hōkaiipurangi"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr "Ko te hoihoi he oro pūkaha kei ia auautanga."
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr ""
+"Te auaha o ngā hoihoi hei whakamahinga (mā = tiaho, māwhero = pōuri, autō = "
+"karakara)."
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "Te whānuitanga o te oro."
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "Tauira Oro"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "Tau Tauira"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "Ingoa tauira"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr "Ko te tauira he oro tūturu ka taea te hopu, ka taea hoki te pūrei anō."
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "Te rangi o te tauira."
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "Te tauira hei whakamahinga."
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "Reo"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "Oropūare"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "He reo hiko."
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "Te rangi o te oro."
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "Te auaha o te oro e ai ki ngā oropūare."
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "Ripa"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"Ko te pānga ripa ka whakawehe i te oro kia moroiti nei, ā, kia taea te huri "
+"haere i roto i te wā tika."
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "Te rangi o ngā ripa."
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "Te rerekētanga o te rangi i ngā ripa."
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "Raweketanga Tāpiringa"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "Hora"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr ""
+"Ko te mahi o te raweketanga tāpiringa he waihanga kounga oro waiata mā te "
+"honohono i ngā ngaru rerekē."
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "Te wehenga i waenga i ngā ngaru rerekē."
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "Te auaha o te ngaru."
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "Tāurunga hopureo"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "Te roanga o te pūmahara"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "tau pūmahara"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "Terenga pūrei anō"
+
+#: SynthLab/SynthLabConstants.py:326
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr ""
+"Ko te tāurunga hopureo kua hopu ki te pūreirei hei pūrei anō (pāwhiri-matau "
+"i te ahanoa hei hopu oro)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "Kāore e taea te whakakē i tēnei tawhā"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr "Ko te terenga pūrei anō ka huri i te roanga me te rangi o te oro"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "Takaware"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "Urupare"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr "Ko te takaware he pānga ororongo ka tārua i te oro."
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "Te terenga o te takaware."
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "Te roanga o te oro kia pau rawa atu."
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "Whakahawenga"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "Tōiringa"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "Taumata whakahawenga"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr "Ko te whakahawenga he whakakoki i te ngaru ka puta ngā oro ngangā."
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "Te rangi o te oro whakahawe."
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "Te nui o te tōiri o te pūwhakatangi i a ia anō."
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "Te rōrahi oro o te oro whakahawe."
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "Tātari"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"Ko te mahi a te tātari ororongo he whakatiaho, he whakapōuri, he "
+"whakakarakara rānei i te oro."
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "Te wāhi o te oro ka tātarihia."
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "Te rahinga o te rohe kua whai pāngia e te tātari."
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr ""
+"Te momo tātari ka whakamahia: hipapoto = pōuri, hipateitei = tiaho, "
+"hipawhakaae = karakara."
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "Whakakāwai Porohita"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "Ranu"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr ""
+"Ko te whakakāwai porowhita tētahi pānga ororongo e taea ana te waihanga oro "
+"maitai."
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "Te rangi o te whakakāwai porohita."
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "Te rōrahi oro o te oro kua whakakāwaitia."
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "Te auaha o te ngaru kua whakamahia mō te whakakāwaitanga."
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "Roa"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "Taumata Pāorooro"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr "Ko te pāorooro te roa ka noho te oro ki roto i tētahi rūma."
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "Te rahi o te rūma."
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "Te tīahotanga o te oro pāorooro."
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "Te nui o te pāoro hei hoatu."
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "Whakarangi maha"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "Takaware maroke"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "Ko te whakarangi maha, ka tārua i te oro ā-waiata nei."
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "Te rangi o te oro tārua."
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "Te wā tīmata o te oro taketake."
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr "Te papatahitanga o te oro taketake me te oro tārua."
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "Pūwhārite 4 ngā hōkai"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "Pikinga ngaruirirangi tahi"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "Pikinga ngaruirirangi rua"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "Pikinga ngaruirirangi toru"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "Pikinga ngaruirirangi whā"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr ""
+"Ko te mahi a te pūwhārite ngaruirirangi 4 he kōwhiri wāhanga (ngaruirirangi) "
+"i roto i te oro, ka whakakaha, whakangāwari rānei."
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "Te rōrahi o te ngaruirirangi 1 (poto)."
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "Te rōrahi o te ngaruirirangi 2 (poto-waenga)."
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "Te rōrahi o te ngaruirirangi 3 (teitei-waenga)."
+
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "Te rōrahi o te ngaruirirangi 4 (teitei)."
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "Kōrihi"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "Hōhonutanga LFO"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "Auautanga LFO"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr ""
+"Ko te mahi a te pānga kōrihi he whakatangi i ngā tārua o te oro ōrite heoi "
+"he rerekētanga iti noa."
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "Te rōrahi o te tohu LFO."
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "Te rangi o te tohu LFO."
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "Te rahi o te takaware i waenga i ngā tohu e rua."
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "Ngā Tatūkē"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "Matua"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": huaputa pūwhakahaere"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr ": huaputa oro"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr ": tāurunga oro"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "Tuku oro ki ngā tukuoro"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "Roanga:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " s."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "Tautuhi anō i te tēpumahi"
+
+#: SynthLab/SynthLabToolbars.py:137
+msgid "Record Synth sound into slot"
+msgstr "Hopu oro raweke ki roto i te kōkuhunga"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+msgid "Preset"
+msgstr "Tatūkē"
+
+#: common/Tooltips.py:9
+msgid "Draw tool"
+msgstr "Utauta tuhituhi"
+
+#: common/Tooltips.py:10
+msgid "Paint tool"
+msgstr "Utauta peita"
+
+#: common/Tooltips.py:12
+msgid "Generate new tune"
+msgstr "Waihanga waiata hōu"
+
+#: common/Tooltips.py:14
+msgid "Generate page"
+msgstr "Waihanga whārangi"
+
+#: common/Tooltips.py:15
+msgid "Page properties"
+msgstr "Ngā āhuatanga whārangi"
+
+#: common/Tooltips.py:16
+msgid "Delete page(s)"
+msgstr "Muku whārangi(s)"
+
+#: common/Tooltips.py:17
+msgid "Duplicate page(s)"
+msgstr "Tārua whārangi(s)"
+
+#: common/Tooltips.py:18
+msgid "Add page"
+msgstr "Tāpiri whārangi"
+
+#: common/Tooltips.py:19
+msgid "Beats per page"
+msgstr "Taki ia whārangi"
+
+#: common/Tooltips.py:20
+msgid "Save tune"
+msgstr "Tiaki waiata"
+
+#: common/Tooltips.py:21
+msgid "Load tune"
+msgstr "Utaina waiata"
+
+#: common/Tooltips.py:23
+msgid "Generate track"
+msgstr "Waihanga oro"
+
+#: common/Tooltips.py:24
+msgid "Track properties"
+msgstr "Ngā āhuatanga oro"
+
+#: common/Tooltips.py:25
+msgid "Clear track"
+msgstr "Ūkui oro"
+
+#: common/Tooltips.py:26
+msgid "Duplicate track"
+msgstr "Tārua oro"
+
+#: common/Tooltips.py:28
+msgid "Note(s) properties"
+msgstr "Āhuatanga tuhipoka"
+
+#: common/Tooltips.py:29
+msgid "Delete note(s)"
+msgstr "Muku note(s)"
+
+#: common/Tooltips.py:30
+msgid "Duplicate note(s)"
+msgstr "Tārua note(s)"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+msgid "Move note in time"
+msgstr "Nuku note i te wā tika"
+
+#: common/Tooltips.py:33
+msgid "Lower pitch"
+msgstr "Whakapoto rangi"
+
+#: common/Tooltips.py:34
+msgid "Raise pitch"
+msgstr "Whakapiki rangi"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+msgid "Modify duration"
+msgstr "Whakakē roanga"
+
+#: common/Tooltips.py:37
+msgid "Lower volume"
+msgstr "Whakapoto rōrahi"
+
+#: common/Tooltips.py:38
+msgid "Raise volume"
+msgstr "Whakapiki rōrahi"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "Tatari"
+
+#: common/Tooltips.py:43
+msgid "Keyboard recording"
+msgstr "Hopukanga piano"
+
+#: common/Tooltips.py:44
+msgid "Save as .ogg"
+msgstr "Tiaki hei .ogg"
+
+#: common/Tooltips.py:45
+msgid "Rewind"
+msgstr "Whakahoki"
+
+#: common/Tooltips.py:46
+msgid "Save to journal and quit"
+msgstr "Tiaki ki te tuhitaka ka waiho"
+
+#: common/Tooltips.py:58
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr "-- Manawataki whānui, | Manawataki tere tika"
+
+#: common/Tooltips.py:59
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr "-- Rangi tika, | Rangi hipanga whānui"
+
+#: common/Tooltips.py:60
+msgid "-- Average duration, | Silence probability"
+msgstr "-- Roanga nuinga, | Tūponotanga ngū"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+msgid "Major scale"
+msgstr "Raupapanga oro matua"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+msgid "Harmonic minor scale"
+msgstr "Raupapa oro ririki rangi maha"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+msgid "Natural minor scale"
+msgstr "Raupapa oro ririki tūturu"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+msgid "Phrygian scale"
+msgstr "Raupapa oro Phrygian"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+msgid "Dorian scale"
+msgstr "Raupapa oro Dorian"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+msgid "Lydian scale"
+msgstr "Raupapa oro Lydian"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+msgid "Mixolydian scale"
+msgstr "Raupapa oro Mixolydian"
+
+#: common/Tooltips.py:79
+msgid "Save preset"
+msgstr "Tiaki tatūkē"
+
+#: common/Tooltips.py:80
+msgid "Load preset"
+msgstr "Utaina tatūkē"
+
+#: common/Tooltips.py:82
+msgid "Close"
+msgstr "Kati"
+
+#: common/Tooltips.py:85
+msgid "Transpose up"
+msgstr "Oroneke runga"
+
+#: common/Tooltips.py:86
+msgid "Transpose down"
+msgstr "Oroneke raro"
+
+#: common/Tooltips.py:87
+msgid "Volume up"
+msgstr "Rōrahi whakarunga"
+
+#: common/Tooltips.py:88
+msgid "Volume down"
+msgstr "Rōrahi whakararo"
+
+#: common/Tooltips.py:89
+msgid "Panoramization"
+msgstr "Whakawhānuitanga"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "Tātari hipapoto"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+msgid "Highpass filter"
+msgstr "Tātari hipateitei"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+msgid "Bandpass filter"
+msgstr "Tātari hipawhakaae"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "Whakawete tātari"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+msgid "Open algorithmic generator"
+msgstr "Whakatūwhera pūwaihanga hātepe"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "Uara mōkito"
+
+#: common/Tooltips.py:114
+msgid "Maximum value"
+msgstr "Uara mōrahi"
+
+#: common/Tooltips.py:115
+msgid "Specific parameter"
+msgstr "Tawhā tautuhi"
+
+#: common/Tooltips.py:116
+msgid "Apply generator"
+msgstr "Hoatu pūwaihanga"
+
+#: common/Tooltips.py:117
+msgid "Cancel"
+msgstr "Whakakore"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr "Katoa"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr "Ngā Kararehe"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr "Ngā Ahanoa"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr "Papapātuhi"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr "Tāngata"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr "Ngā Pahū"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr "Ngā Aho"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+msgid "Winds"
+msgstr "Ngā Hau"
+
+#: common/Tooltips.py:146
+msgid "Play / Stop"
+msgstr "Pūrei / Tū"
+
+#: common/Tooltips.py:148
+msgid "Left click to record, right click to record on top"
+msgstr "Pāwhiri mauī ki te hopu, pāwhiri matau ki te whakatakoto ki runga"
+
+#: common/Tooltips.py:150
+msgid "Complexity of beat"
+msgstr "Whiwhinga o te taki"
+
+#: common/Tooltips.py:151
+msgid "Beats per bar"
+msgstr "Ngā taki ia pae"
+
+#: common/Tooltips.py:153
+msgid "Record with the microphone"
+msgstr "Hopu me te hopureo"
+
+#: common/Tooltips.py:154
+msgid "Open SynthLab to create noise"
+msgstr "Whakatūwhera TaiwhangaRaweke hei waihanga hoihoi"
+
+#: common/Tooltips.py:155
+msgid "Record microphone into slot 4"
+msgstr "Hopu hopureo ki te kōkuhu 4"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr "Poaka Kini"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr "Tākaroaho"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr "Kitā hiko"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr "Koto"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr "Paaho"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr "Ukarere"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr "Harpsichord"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+msgid "Clarinet"
+msgstr "Karanete"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+msgid "Flute"
+msgstr "Pōrutu"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr "Piano"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr "Kurī"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr "Heihei"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr "Rakiraki"
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr "Rāpere"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr "Hāmonika"
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr "Pūoho"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr "Manu"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr "Poroka"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr "Ngeru"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr "Kau"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr "Pihareinga"
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr "Pātara"
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr "Para"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr "Patupere"
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr "Ow"
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr "Ei"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr "Hipi"
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr "Wai"
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr "Pū Hihī"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr "Tētere"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr "Patō"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr "Flugelhorn"
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr "Hoana"
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr "Ngā Miru"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr "Marima"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr "Patuperemati"
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr "Katakata"
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr "Katakata Pēpi"
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr "Auē Pēpi"
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr "Piri"
+
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr "Pere pahikara"
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr "Kūaha"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr "Ngū Hiko"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr "Kitā"
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr "Whangaono"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr "Didjeridu"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr "Hamōniō"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr "Hōiho"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr "Karipa"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr "Manatorini"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr "Okarina"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr "Rautu"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr "Pūtohe"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr "Pūtohe Oroteitei"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+msgid "Shehnai"
+msgstr "Henai"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr "Titā"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr "Tūpa"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr "Whira"
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr "Kāmera"
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr "Motokā"
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr "Hoana Motokā"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr "Tiero"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr "Tingatinga"
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr "Tuki"
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr "Pereina"
+
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr "Paki"
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr "Pere Temepara"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr "Harangi"
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr "'au tahana"
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+msgid "Jazz / Rock Kit"
+msgstr "Kete Jazz / Rock"
+
+#: common/Util/Instruments.py:670
+msgid "African Kit"
+msgstr "Kete Awherika"
+
+#: common/Util/Instruments.py:672
+msgid "Arabic Kit"
+msgstr "Kete Ārapi"
+
+#: common/Util/Instruments.py:674
+msgid "Electronic Kit"
+msgstr "Kete Pūoro Hiko"
+
+#: common/Util/Instruments.py:676
+msgid "South American Kit"
+msgstr "Kete Amerika ki te Tonga"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr "Nepari"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "WhakatikaTamTam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "WhakatangitangiTamTam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "RirikiTamTam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "TaiwhangaRawekeTamTam"
+
+#~ msgid "%(component_name)s"
+#~ msgstr "%(component_name)s"

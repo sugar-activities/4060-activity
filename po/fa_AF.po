@@ -1,0 +1,2893 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2008-01-28 04:00-0500\n"
+"Last-Translator: Sohaib Obaidi <ebtihaj_obaidi@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.0.2\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr ""
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "نواختن / مکث"
+
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+msgid "Stop"
+msgstr "توقف"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+#, fuzzy
+msgid "Select tool"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار انتخاب\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار انتخاب کردن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار انتخاب\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار انتخاب"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "ابزار کشیدن"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "ابزار نقاشی"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "دو نسخه ای- مثنی"
+
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "ساختن صدا"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "تولید کردن- ساختن"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "صفحه کلید را ضبط کن"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "ضبط کن به فایلهای صوتی"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "درجه صدا / میزان سرعت"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "ویژگی- خصوصیات"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "1/12"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "1/6"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "1/4"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "1/3"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "1/2"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "1"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "2"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+#, fuzzy
+msgid "Volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"درجه صدا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"درجه صدا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدا"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+#, fuzzy
+msgid "Tempo"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ميزان‌ سرعت‌\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"میزان سرعت\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ميزان‌ سرعت‌\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ميزان‌ سرعت‌"
+
+#: Edit/EditToolbars.py:386
+#, fuzzy
+msgid "Rhythm"
+msgstr "ساز"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "تراکم"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "ترتیب"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "سطح"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "گام نهایی"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "مدت"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "مدت یادداشت"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "تراکم خاموشی"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "مقیاس: "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "حالت: "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "مست"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+#, fuzzy
+msgid "Drone and Jump"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"وزوز کن و بپر\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"وزوزکردن و پریدن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"وزوزکن و بپر\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"وزوز کردن و پریدن"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+#, fuzzy
+msgid "Repeater"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تکرار کننده\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تکرارکننده\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تکرار کننده\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تکرار کننده"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "بندهای حلقه"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "هیچ"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Lowpass"
+msgstr "پائین گذار"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Bandpass"
+msgstr "باند گذار"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+#, fuzzy
+msgid "Highpass"
+msgstr ""
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند گذار\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا گذار"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "خط"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "رنگ ارغوانی"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "رنگ سبز"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "رنگ آبی"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "رنگ زرد"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "تقسیم رشته ها: "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "رنگ صفحه: "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "فراگذاریی: "
+
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "قاب: "
+
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+msgid "Reverb"
+msgstr "انعکاس"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "مدت حمله"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+#, fuzzy
+msgid "Decay duration"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مدت تجزئیه\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مدت تجزیه\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مدت تجزئیه\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مدت تجزیه"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "نوعیت صافی: "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "نوعیت"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "کمترین"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "بیشترین"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "تصادفی"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "درجه صدای شیار 1"
+
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "خصوصیات شیار 5"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+#, fuzzy
+msgid "Generate"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بساز\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+#, fuzzy
+msgid "Record"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط کردن"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr ""
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "تصنیف"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "M"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "شیار خاموش"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "S"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "شیار انفرادی"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "خصوصیات شیار %s"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+#, fuzzy
+msgid "Left click to mute, right click to solo"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک چپ برای خاموش، تیک راست برای تک نواز\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک چپ برای خاموشی ، تیک راست برای تک نوازی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک پچ برای خاموشی، تیک راست برای تک نوازی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"برای بی صدا تیک چپ، برای تک نوازی تیک راست"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "خصوصیات ابزار"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "خصوصیات بسته لوازم طبله"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "خصوصیات حلقه"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "اختصاص دادن کلید"
+
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "گیر کرده / مربا"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr ""
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "میزکار"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "بازنواختن"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr ""
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr ""
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr ""
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "پیوستگی:"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "ضربان ها:"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "با قاعدگی:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+msgid "Master volume"
+msgstr "صدای اصلی"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr ""
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr ""
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "به ضربه بپر"
+
+#: Jam/Toolbars.py:202
+#, fuzzy
+msgid "Synch to:"
+msgstr "کارکتر همگام به:"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "1 ضربه"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "2 ضربات"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "3 ضربات"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "4 ضربات"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "5 ضربات"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "6 ضربات"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "7 ضربات"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "8 ضربات"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "9 ضربات"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "10 ضربات"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "11 ضربات"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "12 ضربات"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "میز کار 1"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "میزکار %d"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+#, fuzzy
+msgid "Record microphone into slot 1"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلندگو را به شکاف 1 ضبط کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدای بلندگو را در شکاف 1 ضبط کنید"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+#, fuzzy
+msgid "Record microphone into slot 2"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلندگو را به شکاف 2 ضبط کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدای بلندگو را در شکاف 2 ضبط کنید"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+#, fuzzy
+msgid "Record microphone into slot 3"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلندگو را به شکاف 3 ضبط کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدای بلندگو را در شکاف 3 ضبط کنید"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+#, fuzzy
+msgid "Add new Sound"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اضافه صدای جدید\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدای جدیدی را اضافه کن"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "صدا: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "ثبت: "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+msgid "Play"
+msgstr "نواختن"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "تمتم"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+msgid "Balance"
+msgstr "توازن"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "برای ضبط یک حلقه تیک نمائید"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "برای اضافه یک حلقه تیک نمائید"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "برای حذف همه حلقه ها تیک نمائید"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "منبع"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "تاثیر"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "کنترل"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "مجرای بیرونی صدا"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "LFO"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "دامنه"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "فریکانس"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "موجی شکل"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "ساین"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "مثلث"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "مربع دوتایی"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "مربع یکتایی"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "دندانه دار"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "دندانه-پائین"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "حاشيه صحافى"
+
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"یک نوسان کوتاه فریکانس (LFO) غیر قابل شنوائی است، موج تپشی است که برای تغییر "
+"موج دیگر بکار میرود."
+
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr "حجم موج LFO. حجم زیاد بمعنی تاثیر زیاد."
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "سرعت موج"
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "نوعیت موج که برای LFO استعمال میگردد."
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr ""
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "بذر"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "یک سلسله ای از اعداد که بدون تکرار توسط کمپوتر انتخاب گردیده."
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "کوچکترین شماره قابل قبول"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "بزرگترین شماره قابل قبول."
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "سرعت تسلسل."
+
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "شماره که شماره ساز را شماره اولیه میدهد"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "پاکت"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "حمله"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "پوسیدگی"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "نگهداشتن"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "رها کردن"
+
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr "پاکت ADSR یک شکلی از برچسب صدا با گذشت زمان است."
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(A) به چه سرعت صدا به اوج خود میرسد."
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr "(D) به چه سرعت صدا بعد از حمله سقوط میکند."
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "(S) حجم صدا تا اینکه نوت پخش میشود."
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "(R) به چه سرعت صدا دور میشود."
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "لای شیار X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "پیمایش"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr ""
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr ""
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "زمان رای گیری"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr "لای شیار برای تعدیل صدا استفاده میشود. این از چپ به راست است."
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "کمترین مقداریکه لای شیار ارسال میکند."
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "بیشترین مقداریکه لای شیار ارسال میکند."
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr "شکل برگشت مقدار. بشکل یک خط مستقیم(خطی) یا یک خط منحنی (لوگاریتمی)."
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "فاصله زمانی میان آمدن هر رویدادی از لای شیار."
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "لای شیار Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr "لای شیار برای تعدیل صدا استفاده میشود. این از بالا به پائین است."
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "FM"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "فریکانس حامل"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "فریکانس تلفيق کننده"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "شاخص"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "نفع"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"اختلاط تلفيق فرایکانس (FM) با یکجا نمودن فریکانس دو امواج (حامل و تلفیق "
+"کننده) یک صدای برقی میسازد."
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "فریکانس موج اصلی."
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr "فریکانس موج که موج حامل را تعدیل میکند."
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "بی ثباتی در فریکانسی موج حامل."
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "درجه صدا."
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "وزوز کردن"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "تعداد هم آهنگ ها"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "میل صافی"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "وزوز یک صدای روشن ودارای چندین همساز است."
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "اوج صدای وزوز."
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "ضخامت هم آهنگ صدا."
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "درخشندگی صدا."
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "VCO"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "مربع"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"ارتعاش‌ سنج کنترول شده ولتاژ (VCO) با یکجا نمودن اشکال دو موج یک صدای برقی "
+"میسازد."
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "موج توسط VCO تعدیل خواهد شد."
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "شکل موج VCO."
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "انقباض"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "صدای اهتزاز"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr "یک ابزار نوازشی برقی (چون گیتار)."
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "استقرار ابزار- سطح ابزار."
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "سروصدا"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "سفید"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "صورتی"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "واحد شدت‌ ميدان‌ مغناط‌يسی"
+
+#: SynthLab/SynthLabConstants.py:267
+#, fuzzy
+msgid "Bandwidth"
+msgstr "پهنای باند"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr "سرو صدا یک صدای دارای انرژی در هر فریکانس است."
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr ""
+"شکل صدای که استفاده میشود (سفید = روشن، رنگ صورتی = تاریک، گاوس = رنگه)."
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "ضخامت صدا."
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "صدای نمونه ای"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "شماره ای نمونه"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "اسم نمونه"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr "نمونه یک صدای اصلیست که ثبت شده است و دوباره نواخته میشود."
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "سطح نمونه."
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "نمونه که استعمال میشود."
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "صدا"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "صدا دار"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "یک آواز برقی."
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "زیروبم صدا."
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "شکل صدا مبنی بر صدا های آن."
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "دانه"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"تاثیر دانه صدا را به بیتهای ریز دوبخش میکند که میتوان هر زمانی با آراسته "
+"شود."
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "سطح دانه."
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "ناپايداری در سطح دانه ها."
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "امتزاج افزایشی"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "پخش شدن"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr "امتزاج افزایشی با یکجا نمودن چندین امواج طنین موسیقی دار میسازد."
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "جدائی میان امواج مختلف."
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "شکل‌ موج‌."
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "ورودی میکروفون"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "درازی حافظه"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "شماره حافظه"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "سرعت بازنواخت"
+
+#: SynthLab/SynthLabConstants.py:326
+#, fuzzy
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr ""
+"ورودی میکروفون در یک حافظه ميانجى برای بازنواختن ضبط میشود (بروی شئ راست تیک "
+"نمائید تا صدا ضبط شود)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "پارامتر اصلاح نمیشود"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr "بازنواختی سریع مدت و زیروبمی صدا را تغییر میدهد"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "تاخیر"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "بازخورد"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr "تاخیر یک تاثیر صدایی است که صدا را باربار تکرار میکند."
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "سرعت تاخیر."
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "مدت زمانی که صدا برای دور شدن در بر میگیرد."
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "تحریف"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "طنین"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "سطح طنین"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr "تحریف تغيير شکل موج است که صداهای خشن برمی آورد."
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "زيروبم صدای تحریف شده."
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "مقدار ارتعاش که ابزار بر مقابل خود دارد."
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "درجه‌ صدای تحریف شده."
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "صافی"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"صافی صدا برای روشن سازی، تاریکسازی و یا رنگه نمودن صدا طراحی گردیده است."
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "نقطه از صدا که باید تصفیه شود."
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "اندازه منطقه ای که توسط صافی متاثر گردیده است."
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr ""
+"نوعیت صافی که استعمال میگردد: پائین گذار = تاریک، بلندگذار = روشن، باندگذار "
+"= رنگه."
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "تعدیل کننده زنگ"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "آمیخته"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr "تعدیل زنگ یک تاثیر صدا است که صداهای فلزی میسازد."
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "زیروبم تعدیل کننده زنگ."
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "درجه صدای تعدیل شده."
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "شکل موجی که برای تعدیل استعمال میشود."
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "طول"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "سطح انعکاس"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr "انعکاس آن طولیست که صدا در یک اطاق میباشد."
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "اندازه اطاق."
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "درخشندگی صدای طنین دار."
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "مقدار انعکاس که انداخته شود."
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "هم آهنگ ساز"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "تاخیر خشک شدن"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "هم آهنگساز صدا را بطور خوشگوار دوگانه میسازد."
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "زیروبم صدای دوگانه شده."
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "وقت شروع صدای اصلی."
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr "توازن میان صدای اصلی و صدای دوگانه شده."
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "برابر کننده 4 باند"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "تقویت باند یک"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "تقویت باند دو"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "تقویت باند سه"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "تقویت باند چهار"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr ""
+"یک برابرکننده 4 بانده قسمت ها (باندها) را در صدا طوری انتخاب میکند که آنها "
+"را بلندتر میسازد ویا هم پست تر."
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "درجه باند 1 (پست)."
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "درجه باند 2 (پست درمیانی)."
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "درجه باند 3 (بلند درمیانی)."
+
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "درجه باند 4 (بلند)."
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "همسرایان"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "عمق LFO"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "فریکانس LFO"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr "تاثیر همسرایی نقل های همان صدا را با کمی اختلاف می نوازد."
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "درجه علامت LFO."
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "زیروبم علامت LFO."
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "مقدار تاخیر میان دو علامت."
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "پیش نشانده ها"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "اصلی"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": بیرون مجرای کنترول کننده"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr ": بیرون مجرای صدا"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr ": درون مجرای صدا"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "صدا را به بلندگوها ارسال کن"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "مدت:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " s."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "میزکار را بازنشانی کن"
+
+#: SynthLab/SynthLabToolbars.py:137
+#, fuzzy
+msgid "Record Synth sound into slot"
+msgstr "صدای آمیزش را به شکاف 1 ضبط کن"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+#, fuzzy
+msgid "Preset"
+msgstr "پیش نشانده ها"
+
+#: common/Tooltips.py:9
+#, fuzzy
+msgid "Draw tool"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار کشیدن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار کشیدن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار کشیدن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار نقاشی"
+
+#: common/Tooltips.py:10
+#, fuzzy
+msgid "Paint tool"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار رسامی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار نقاشی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار رسامی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ابزار رسامی"
+
+#: common/Tooltips.py:12
+#, fuzzy
+msgid "Generate new tune"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوای جدید بساز\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن نوای جدید\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوای جدید بساز\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوای جدیدی بساز"
+
+#: common/Tooltips.py:14
+#, fuzzy
+msgid "Generate page"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفجه بساز\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن صفحه\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفحه بساز\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفحه بساز"
+
+#: common/Tooltips.py:15
+msgid "Page properties"
+msgstr "خصوصیات صفحه"
+
+#: common/Tooltips.py:16
+#, fuzzy
+msgid "Delete page(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف صفحه (ات)\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفحه (صفحات) را ختم کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف صفحه (ات)\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف صفحه(ات)"
+
+#: common/Tooltips.py:17
+#, fuzzy
+msgid "Duplicate page(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی صفحه (ات)\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفحه (صفحات) را دوتایی کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی صفحه (ات)\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی صفحه(ات)"
+
+#: common/Tooltips.py:18
+#, fuzzy
+msgid "Add page"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اضافه صفحه\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صفحه اضافه کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اضافه صفحه\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اضافه کردن صفحه"
+
+#: common/Tooltips.py:19
+#, fuzzy
+msgid "Beats per page"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربه در هر صفحه\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربه فی صفحه\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربه در هر صفحه\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربان در هر صفحه"
+
+#: common/Tooltips.py:20
+#, fuzzy
+msgid "Save tune"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت نوا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوا را ثبت کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت نوا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوا را ثبت کن"
+
+#: common/Tooltips.py:21
+#, fuzzy
+msgid "Load tune"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اجرای نوا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوا را اجرا کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اجرای نوا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوا را اجرا کن"
+
+#: common/Tooltips.py:23
+#, fuzzy
+msgid "Generate track"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن شیار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار بساز\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساختن شیار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار بساز"
+
+#: common/Tooltips.py:24
+msgid "Track properties"
+msgstr "خصوصیات شیار"
+
+#: common/Tooltips.py:25
+#, fuzzy
+msgid "Clear track"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صاف کردن شیار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار را پاک کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صاف کردن شیار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار را صاف کن"
+
+#: common/Tooltips.py:26
+#, fuzzy
+msgid "Duplicate track"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی شیار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار را دوگانه کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی شیار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"شیار را دوگانه کن"
+
+#: common/Tooltips.py:28
+#, fuzzy
+msgid "Note(s) properties"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خصوصیات نوت (ها)\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خصوصیات یادداشت (ها)\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خصوصیات نوت (ها)\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خصوصیات نوت (ها)"
+
+#: common/Tooltips.py:29
+#, fuzzy
+msgid "Delete note(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف نوت (ها)\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"یادداشت (ها) را حذف کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف نوت (ها)\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"حذف نوت (ها)"
+
+#: common/Tooltips.py:30
+#, fuzzy
+msgid "Duplicate note(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی نوت (ها)\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"یادداشت (ها) را دوگانه کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی نوت (ها)\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"دوگانگی نوت (ها)"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+#, fuzzy
+msgid "Move note in time"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوت را در وقت ببرید\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"یادداشت را در وقت معین بردن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوت را در وقت ببرید\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوت را در وقت ببرید"
+
+#: common/Tooltips.py:33
+#, fuzzy
+msgid "Lower pitch"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"کم کردن تراکم کاراکترها\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پایین بردن سطح\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن زیروبم\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"کم کردن تراکم کاراکترها"
+
+#: common/Tooltips.py:34
+#, fuzzy
+msgid "Raise pitch"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا بردن تراکم کاراکترها\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا بردن سطح\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند کردن زیروبم\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا بردن تراکم کاراکترها"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+#, fuzzy
+msgid "Modify duration"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تعدیل مدت\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اصلاح ِ مدت\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تعدیل مدت\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تعدیل مدت"
+
+#: common/Tooltips.py:37
+#, fuzzy
+msgid "Lower volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن صدا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن صدا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن صدا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدا را پائین کن"
+
+#: common/Tooltips.py:38
+#, fuzzy
+msgid "Raise volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زیاد کردن صدا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند کردن صدا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند کردن صدا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدا را زیاد کن"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "مکث"
+
+#: common/Tooltips.py:43
+#, fuzzy
+msgid "Keyboard recording"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"در حل ضبط صفحه کلید\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط صفحه کلید\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط صفحه کلید\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط صفحه کلید"
+
+#: common/Tooltips.py:44
+#, fuzzy
+msgid "Save as .ogg"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت بحیث فایل صوتی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت چون فایلهای صوتی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت بحیث فایل صوتی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضبط بحیث فایل صوتی"
+
+#: common/Tooltips.py:45
+#, fuzzy
+msgid "Rewind"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بازپیچی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بازپیچی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بازپيچى\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بازپیچی"
+
+#: common/Tooltips.py:46
+#, fuzzy
+msgid "Save to journal and quit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"در روزنامه ثبت کن و ترک کن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"به یادداشت ثبت کن و بیرون آی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"به یادداشت ثبت کن و بند کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"به یادداشت ثبت کن و بند کن"
+
+#: common/Tooltips.py:58
+#, fuzzy
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- تراکم ساز، /   باقاعدگی ساز\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- تراکم ساز،  ترتیب ساز\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- تراکم ساز، /  باقاعدگی ساز\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- تراکم ساز،  ترتیبِ ساز"
+
+#: common/Tooltips.py:59
+#, fuzzy
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- باقاعدگی تراکم کارکترها، / قدم نهایی ترکم کارکترها\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- ترتیب سطح، / گام نهایی سطح\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- باقاعدگی زیروبم، / بیشترین مرحله زیروبم\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- ترتیب سطح، / گام نهایی سطح"
+
+#: common/Tooltips.py:60
+#, fuzzy
+msgid "-- Average duration, | Silence probability"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- مدت اوسط، / احتمال خاموشی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- جریان متوسط، / احتمال خاموشی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- مدت اوسط، / احتمال خاموشی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- جریان متوسط، / احتمال خاموشی"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+msgid "Major scale"
+msgstr "مقیاس بزرگ"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+#, fuzzy
+msgid "Harmonic minor scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک هم آهنگ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس هم آهنگ کوچک\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک موزون\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک هم آهنگ"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+#, fuzzy
+msgid "Natural minor scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک طبیعی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس طبیعی کوچک\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک طبیعی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس کوچک طبیعی"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+#, fuzzy
+msgid "Phrygian scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس فرگیان\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس فرگیان\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس فریگیان\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس فرگیان"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+msgid "Dorian scale"
+msgstr "مقیاس دوریان"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+msgid "Lydian scale"
+msgstr "مقیاس لیدیان"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+#, fuzzy
+msgid "Mixolydian scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس مکسلودیان\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس میکسلودین\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس مکسلودیان\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مقیاس میکسلودین"
+
+#: common/Tooltips.py:79
+#, fuzzy
+msgid "Save preset"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ذخیره پیش نشانده\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ثبت پیش نشانده\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیش نشانده را ذخیره کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیش نشان را ثبت کن"
+
+#: common/Tooltips.py:80
+#, fuzzy
+msgid "Load preset"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اجرای پیش نشانده\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اجرای پیش نشانده\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیش نشانده را اجراء کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیش نشان را اجرا کن"
+
+#: common/Tooltips.py:82
+#, fuzzy
+msgid "Close"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بند کردن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بند کردن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بند کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بند کردن"
+
+#: common/Tooltips.py:85
+#, fuzzy
+msgid "Transpose up"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهانی پائین\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهادن بالا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهانی بالا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهادن بالا"
+
+#: common/Tooltips.py:86
+#, fuzzy
+msgid "Transpose down"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهانی بالا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهادن پائین\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهانی پائین\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ترانهادن پائین"
+
+#: common/Tooltips.py:87
+#, fuzzy
+msgid "Volume up"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند کردن صدا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا بردن صدا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلند کردن صدا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بالا بردن صدا"
+
+#: common/Tooltips.py:88
+#, fuzzy
+msgid "Volume down"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن صدا\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پائین بردن صدا\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پست کردن صدا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پائین بردن صدا"
+
+#: common/Tooltips.py:89
+#, fuzzy
+msgid "Panoramization"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"چشم اندازی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"منظره سازی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"چشم انداز\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"منظره سازی"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "صافی پائین گذار"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+#, fuzzy
+msgid "Highpass filter"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی بالا گذار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی بالا گذار\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی بلندگذار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی بالا گذار"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+#, fuzzy
+msgid "Bandpass filter"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی باند گذار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی باند گذار\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی باندگذار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صافی باند گذار"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "قطع صافی"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+#, fuzzy
+msgid "Open algorithmic generator"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده الگوریتمی باز\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده الگوریتمی را بازکن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده الگوریتمی را باز کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده الگوریتمی را بازکن"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "کمترین مقدار"
+
+#: common/Tooltips.py:114
+#, fuzzy
+msgid "Maximum value"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بیشترین مقدار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زیادترین مقدار\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بیشترین مقدار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زیادترین مقدار"
+
+#: common/Tooltips.py:115
+#, fuzzy
+msgid "Specific parameter"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نسبت های معین\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پارامتر مشخص\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پارامتر معین\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پارامتر مشخص"
+
+#: common/Tooltips.py:116
+#, fuzzy
+msgid "Apply generator"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده را عملی کن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زاینده را اجرا کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سازنده را بکار ببر\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زاینده را اجرا کن"
+
+#: common/Tooltips.py:117
+msgid "Cancel"
+msgstr "لغو"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+msgid "Winds"
+msgstr ""
+
+#: common/Tooltips.py:146
+#, fuzzy
+msgid "Play / Stop"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پخش / توقف\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نواختن / توقف\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نواختن / توقف\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نواختن / توقف"
+
+#: common/Tooltips.py:148
+#, fuzzy
+msgid "Left click to record, right click to record on top"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک چپ برای ضبط، تیک راست بر بالا برای ضبط\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"برای ضبط راست تیک کنید، برای توقف ضبط چپ تیک نمائید\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک پچ برای ضبط، تیک راست برای ضبط در بالا\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"تیک چپ برای ضبط، تیک راست در بالا برای ضبط"
+
+#: common/Tooltips.py:150
+#, fuzzy
+msgid "Complexity of beat"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیچیدگی ضربه\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیچیدگی ضربان\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیچیدگی ضربان\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پیچیدگی ضربان"
+
+#: common/Tooltips.py:151
+#, fuzzy
+msgid "Beats per bar"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربه در هر نوار\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربان در هر نوار\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربه در هر نوار\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ضربان در هر نوار"
+
+#: common/Tooltips.py:153
+#, fuzzy
+msgid "Record with the microphone"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"توسط بلندگو ضبط کن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"توسط بلندگو ضبط کن\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"توسط میکروفون ضبط کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"توسط بلندگو ضبط کن"
+
+#: common/Tooltips.py:154
+#, fuzzy
+msgid "Open SynthLab to create noise"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"لابراتوار آمیزش صدا را برای ساختن سروصدا باز کن\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"برای تولید سروصدا آزمایشگاه آميزش را بساز\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بای تولید سروصدا آمیزشگاه را باز کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"برای تولید سروصدا آزمایشگاه آميزش را بساز"
+
+#: common/Tooltips.py:155
+#, fuzzy
+msgid "Record microphone into slot 4"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بلندگو را به شکاف 1 ضبط کن\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"صدای بلندگو را در شکاف 1 ضبط کنید"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+msgid "Clarinet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+msgid "Flute"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr ""
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr ""
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr ""
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr ""
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr ""
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr ""
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr ""
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr ""
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr ""
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr ""
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr ""
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr ""
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr ""
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr ""
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr ""
+
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr ""
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr ""
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+msgid "Shehnai"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr ""
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr ""
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr ""
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr ""
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr ""
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr ""
+
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr ""
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr ""
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr ""
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+#, fuzzy
+msgid "Jazz / Rock Kit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته‌ لوازم‌ موسیقی جاز/ راک\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم موسیقی جاز / راک\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم موسیقی جاز / راک\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم موسیقی جاز / راک"
+
+#: common/Util/Instruments.py:670
+#, fuzzy
+msgid "African Kit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته‌ لوازم‌ افریقایی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم افریقایی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم افریقایی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم افریقایی"
+
+#: common/Util/Instruments.py:672
+#, fuzzy
+msgid "Arabic Kit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته‌ لوازم‌ عربی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم عربی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم عربی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم عربی"
+
+#: common/Util/Instruments.py:674
+#, fuzzy
+msgid "Electronic Kit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته‌ لوازم‌ برقی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم برقی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم برقی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم برقی"
+
+#: common/Util/Instruments.py:676
+#, fuzzy
+msgid "South American Kit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته‌ لوازم‌ امریکای جنوبی\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم امریکای جنوبی\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم آمریکای جنوبی\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بسته لوازم امریکای جنوبی"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr ""
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "تمتم ویرایش"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "تمتم جام"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "تمتم کوچک"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "لابراتوار آمیزش صدای تمتم"
+
+#~ msgid "Volume:"
+#~ msgstr "صدا:"
+
+#~ msgid "Reverb:"
+#~ msgstr "انعکاس:"
+
+#~ msgid "pause"
+#~ msgstr "مکث"
+
+#~ msgid "Master Volume"
+#~ msgstr "صدای اصلی"
+
+#, fuzzy
+#~ msgid "Drone and jump"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "وزوز کن و بپر\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "وزوزکردن و پریدن\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "وزوز کن وبپر\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "وزوزکردن و پریدن"
+
+#, fuzzy
+#~ msgid "Record mic into slot 1"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 1 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 1 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای میکروفون را در شکاف 1 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 1 ضبط کن"
+
+#, fuzzy
+#~ msgid "Record mic into slot 2"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 2 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 2 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای میکروفون را در شکاف 2 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 2 ضبط کن"
+
+#, fuzzy
+#~ msgid "Record mic into slot 3"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 3 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 3 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای میکروفون را در شکاف 3 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 3 ضبط کن"
+
+#, fuzzy
+#~ msgid "Record mic into slot 4"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 4 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 4 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای میکروفون را در شکاف 4 ضبط کن\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "صدای بلندگو را در شکاف 4 ضبط کن"
+
+#~ msgid "Select Tool"
+#~ msgstr "ابزار انتخاب کردن"
+
+#~ msgid "Myxolidian scale"
+#~ msgstr "مقیاس میکسلودین"
+
+#~ msgid "Loop Segments"
+#~ msgstr "بندهای حلقه"
+
+#~ msgid "Volume: "
+#~ msgstr "درجه صدا: "
+
+#~ msgid "Reverb: "
+#~ msgstr "انعکاس: "
+
+#~ msgid "Attack duration: "
+#~ msgstr "مدت حمله: "
+
+#~ msgid "Decay duration: "
+#~ msgstr "مدت تبدیلی: "
+
+#~ msgid "Filter cutoff: "
+#~ msgstr "پایان صافی: "
+
+#~ msgid "Type: "
+#~ msgstr "نوعیت: "
+
+#~ msgid "Minimum: "
+#~ msgstr "کمترین: "
+
+#~ msgid "Maximum: "
+#~ msgstr "بیشترین: "
+
+#~ msgid "Random: "
+#~ msgstr "تصادفی: "
+
+#~ msgid "The time by which the LFO is delayed."
+#~ msgstr "زمانی که در آن LFO به تعویق می افتد."
+
+#~ msgid "Lin"
+#~ msgstr "پرتگاه"
+
+#~ msgid "Log"
+#~ msgstr "لوگاریتم"
+
+#~ msgid ""
+#~ "The shape of the value reapartition. In a straight line (linear) or a curved "
+#~ "line (logarithmic)."
+#~ msgstr "شکل برگشت مقدار. بشکل یک خط مستقیم(خطی) یا یک خط منحنی (لوگاریتمی)."
+
+#~ msgid "The maximum value de trackpad will send."
+#~ msgstr "بیشترین مقداریکه لای شیار ارسال میکند."
+
+#~ msgid "Lowpass Filter"
+#~ msgstr "صافی پائین گذار"
+
+#~ msgid "The sample to be used"
+#~ msgstr "نمونه که استعمال میشود"
+
+#~ msgid "The volume of the sound"
+#~ msgstr "درجه صدا"
+
+#~ msgid "lfo"
+#~ msgstr "نوسان بسامد پايين"
+
+#~ msgid "rand"
+#~ msgstr "کناره"
+
+#~ msgid "adsr"
+#~ msgstr "adsr"
+
+#~ msgid "trackpadX"
+#~ msgstr "صفحه شیار X"
+
+#~ msgid "trackpadY"
+#~ msgstr "صفحه شیار Y"
+
+#~ msgid "fm"
+#~ msgstr "تلفيق بسامدى"
+
+#~ msgid "buzz"
+#~ msgstr "صدای وزوز"
+
+#~ msgid "vco"
+#~ msgstr "متصدى اندازه گيرى تراز و ارتفاع"
+
+#~ msgid "pluck"
+#~ msgstr "انقباض"
+
+#~ msgid "noise"
+#~ msgstr "سروصدا"
+
+#~ msgid "sample"
+#~ msgstr "نمونه"
+
+#~ msgid "voice"
+#~ msgstr "آواز"
+
+#~ msgid "grain"
+#~ msgstr "دانه"
+
+#~ msgid "addSynth"
+#~ msgstr "اضافه ترکیب دهنده"
+
+#~ msgid "mic"
+#~ msgstr "بلندگو- میکروفون"
+
+#~ msgid "wguide"
+#~ msgstr "رهبرw"
+
+#~ msgid "distort"
+#~ msgstr "تحریف"
+
+#~ msgid "filter"
+#~ msgstr "صافی"
+
+#~ msgid "ring"
+#~ msgstr "حلقه"
+
+#~ msgid "reverb"
+#~ msgstr "انعکاس"
+
+#~ msgid "harmon"
+#~ msgstr "هارمون"
+
+#~ msgid "eq4band"
+#~ msgstr "برابر کننده 4 باند"
+
+#~ msgid "chorus"
+#~ msgstr "همسرایان"
+
+#~ msgid "Record Synth sound into slot 2"
+#~ msgstr "صدای آمیزش را به شکاف 2 ضبط کن"
+
+#~ msgid "Record Synth sound into slot 3"
+#~ msgstr "صدای آمیزش را به شکاف 3 ضبط کن"
+
+#~ msgid "Record Synth sound into slot 4"
+#~ msgstr "صدای آمیزش را به شکاف 4 ضبط کن"
+
+#~ msgid "Record Synth sound into slot 5"
+#~ msgstr "صدای آمیزش را به شکاف 5 ضبط کن"
+
+#~ msgid "Record Synth sound into slot 6"
+#~ msgstr "صدای آمیزش را به شکاف 6 ضبط کن"
+
+#~ msgid "Preset 1"
+#~ msgstr "پیش نشانده 1"
+
+#~ msgid "Preset 2"
+#~ msgstr "پیش نشانده 2"
+
+#~ msgid "Preset 3"
+#~ msgstr "پیش نشانده 3"
+
+#~ msgid "Preset 4"
+#~ msgstr "پیش نشانده 4"
+
+#~ msgid "Preset 5"
+#~ msgstr "پیش نشانده 5"
+
+#~ msgid "Preset 6"
+#~ msgstr "پیش نشانده 6"
+
+#~ msgid "Preset 7"
+#~ msgstr "پیش نشانده 7"
+
+#~ msgid "Preset 8"
+#~ msgstr "پیش نشانده 8"
+
+#~ msgid "Preset 9"
+#~ msgstr "پیش نشانده 9"
+
+#~ msgid "Preset 10"
+#~ msgstr "پیش نشانده 10"

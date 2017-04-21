@@ -1,0 +1,2248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2012-10-03 20:40+0200\n"
+"Last-Translator: whe <heppew@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr "TamTamSuite"
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr "Een muziek en geluid onderzoek applicatie voor Sugar"
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+"TamTam is een suite van vier muziek en geluid gerelateerde activiteiten voor "
+"Sugar. TamTam is geschreven in python met wat C functies voor snelheid-"
+"kritische services. De audio engine voor TamTam is Csound."
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "Afspelen / Pauze"
+
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+msgid "Stop"
+msgstr "Stop"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+msgid "Select tool"
+msgstr "Selectiegereedschap"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "Tekengereedschap"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "Verfgereedschap"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "Verdubbelen"
+
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "Melodie genereren"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "Generatie"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "Toetsenbord opnemen"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "Opnemen naar ogg"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "Volume / Tempo"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "Eigenschappen"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "1/12"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "1/6"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "1/4"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "1/3"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "1/2"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "1"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "2"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+msgid "Volume"
+msgstr "Volume"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+msgid "Tempo"
+msgstr "Tempo"
+
+#: Edit/EditToolbars.py:386
+msgid "Rhythm"
+msgstr "Ritme"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "Dichtheid"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "Gelijkmatigheid"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "Hoogte"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "Maximale stap"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "Duur"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "Noot lengte"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "Dichtheid stilte"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "Toonladder: "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "Mode: "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "Dronken"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+msgid "Drone and Jump"
+msgstr "Drone en Jump"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+msgid "Repeater"
+msgstr "Herhaler"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "Segmenten herhalen"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "Geen"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Lowpass"
+msgstr "Lowpass filter"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Bandpass"
+msgstr "Bandpass filter"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Highpass"
+msgstr "Highpass filter"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "Lijn"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "Paars"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "Groen"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "Blauw"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "Geel"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "Rasterverdeling: "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "Paginakleur: "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "Transpositie: "
+
+# Lastige, niet hetzelfde als stereobalans
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "Panorama: "
+
+# #-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# Of nagalm?
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+msgid "Reverb"
+msgstr "Galm"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "Aanslagduur"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+msgid "Decay duration"
+msgstr "Vervalduur"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "Filter Type: "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "Soort"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "Maximum"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "Willekeurig"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "Volume spoor 1"
+
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "Eigenschappen spoor 5"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+msgid "Generate"
+msgstr "Genereer"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+msgid "Record"
+msgstr "Opnemen"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr "Werktuigen"
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "Componeer"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "M"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "Demp spoor"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "S"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "Solo spoor"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "Spoor %s eigenschappen"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+msgid "Left click to mute, right click to solo"
+msgstr "Links-klikken voor dempen, rechts-klikken voor solo"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "Instrument Eigenschappen"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "Drumstel Eigenschappen"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "Lus Eigenschappen"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "Toewijzingstoets"
+
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "Jammen"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr "Slaan"
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "Bureaublad"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "Afspelen"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr "Drum Kits"
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr "Lussen"
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr "Lus"
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "Pan:"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "Slagen:"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "Gelijkmatigheid:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+msgid "Master volume"
+msgstr "Hoofdvolume"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr "Stop de loops"
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr "Loops dempen"
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "Spring naar muziekstuk"
+
+#: Jam/Toolbars.py:202
+msgid "Synch to:"
+msgstr "Synchroniseer met:"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "1 Slag"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "2 Slagen"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "3 Slagen"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "4 Slagen"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "5 Slagen"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "6 Slagen"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "7 Slagen"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "8 Slagen"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "9 Slagen"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "10 Slagen"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "11 Slagen"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "12 Slagen"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "Werkblad 1"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "Werkblad %d"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+msgid "Record microphone into slot 1"
+msgstr "Microfoon naar slot 1 opnemen"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+msgid "Record microphone into slot 2"
+msgstr "Microfoon naar slot 2 opnemen"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+msgid "Record microphone into slot 3"
+msgstr "Microfoon naar slot 3 opnemen"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+msgid "Add new Sound"
+msgstr "Voeg nieuw Geluid toe"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "Geluid: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "Registreer: "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+msgid "Play"
+msgstr "Afspelen"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "TamTam"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+msgid "Balance"
+msgstr "Balans"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "Klik om een lus op te nemen"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "Klik om een lus toe te voegen"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "Klik om alle lussen te wissen"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "Bron"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "Effect"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "Besturing"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "Geluiduitvoer"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "LFO"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "Amplitude"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "Frequentie"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "Golfvorm"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "Sinus"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "Driehoek"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "Bi-kwadraat"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "Uni-kwadraat"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "Zaagtanden"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "Zaagtanden-omlaag"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "Uitlijning"
+
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"Een lage frequentie oscillatie (LFO) is een niet-hoorbare, pulserende golf "
+"die gebruikt wordt om een ander geluid te veranderen."
+
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr "Het volume van de LFO golf. Meer volume betekend meer effect."
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "De snelheid van de golf."
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "Het type golf dat voor de LFO gebruikt wordt."
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr "De waarde toegevoegd aan de amplitude van de LFO."
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "Initialisatienummer"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "Een serie nummers zonder herhaling gekozen door de computer."
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "Het kleinst toegestane nummer"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "Heet grootst toegestane nummer."
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "De snelheid van de serie."
+
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "Het nummer om de nummergenerator te initialiseren"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "Envelop"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "Aanslaan"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "Verval"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "Vasthouden"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "Loslaten"
+
+# ADSR staat voor Attack, Decay, Sustain, Release. Hier vertaald naar de Nederlandstalige versie van de woorden.
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr "Een AVVL envelop is de vorm van het volume van het geluid over de tijd."
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(A) hoe snel het geluid het volle volume bereikt."
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr "(V) hoe snel het geluid vervalt na het aanslaan."
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "(V) het volume van het geluid totdat de muzieknoot is losgelaten."
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "(L) hoe snel het geluid weggaat."
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "Touchpad X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "Schalen"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr "Lineair"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr "Logaritmisch"
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "Bemonsteringstijd"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr ""
+"Het touchpad kan worden gebruikt om het geluid aan te passen. Dit is van "
+"links naar rechts."
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "De minimale waarde die de touchpad zal zenden."
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "De maximale waarde die de touchpad zal zenden."
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr ""
+"De vorm van de waarde repartitie. In een rechte lijn (lineair) of kromme "
+"lijn (logaritmisch)."
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "De tijdsinterval tussen elke gebeurtenis die van de touchpad komt."
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "Touchpad Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr ""
+"De touchpad kan worden gebruikt om het geluid aan te passen. Dit is van "
+"boven naar beneden."
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "FM"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "Draaggolf frequentie"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "Modulator frequentie"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "Index"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "Versterking"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"Frequentie Modulatie (FM) synthese creëert een elektronisch geluid door het "
+"combineren van de frequentie van twee golven (de draaggolf en de modulatie)."
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "De basis golffrequentie."
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr "De frequentie van de golf die de draaggolf verandert."
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "De variatie in de frequentie van de draaggolf."
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "Het volume van het geluid."
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "Zoem"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "Hoeveelheid harmonie"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "Filterhelling"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "Een zoem is een helder geluid met veel harmonie."
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "De toonhoogte van de zoem."
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "De harmonische dikte van het geluid."
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "De helderheid van het geluid."
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "VCO"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "Blokgolf"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"Een Spanningsgestuurde Oscillator (VCO) creeert een electronisch geluid door "
+"het combineren van de vorm van twee golven."
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "De golf die aangepast wordt door de VCO."
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "De vorm van de golf van de VCO."
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "Pizz"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "Vibrato"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr "Een electronisch snaar instrument (zoals een gitaar)."
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "De toonhoogte van het instrument."
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "Ruis"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "Witte"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "Roze"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "Gauss"
+
+#: SynthLab/SynthLabConstants.py:267
+msgid "Bandwidth"
+msgstr "Bandbreedte"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr "Ruis is een geluid met energie op elke frequentie."
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr ""
+"De vorm van de te gebruiken ruis (wit=helder, roze=donker, gauss=gekleurd)."
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "De dikte van het geluid."
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "Geluidsopname"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "Opnamenummer"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "Opnamenaam"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr ""
+"Een opname is een echt geluid dat is opgenomen en dat weer afgespeeld kan "
+"worden."
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "De toonhoogte van de opname."
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "De te gebruiken opname."
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "Stem"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "Klinker"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "Een elektronische stem."
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "De toonhoogte van het geluid."
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "De vorm van het geluid gebaseerd op klinkers."
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "Granulatie"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"Het granulatie-effect splitst het geluid in kleine stukjes, welke in de tijd "
+"herorderd kunnen worden."
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "De toonhoogte van het granulatie-effect."
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "De variatie in de toonhoogte van het granulatie-effect."
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "Additieve synthese"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "Spreiding"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr ""
+"Additieve synthese maakt klankkleur door verschillende golven te combineren."
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "De scheiding tussen de verschillende golven."
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "De vorm van de golf."
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "Microfoon invoer"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "Lengte van het geheugen"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "geheugennummer"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "Afspeelsnelheid"
+
+#: SynthLab/SynthLabConstants.py:326
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr ""
+"Microfoon invoer is opgenomen in een buffer voor afspelen (rechts-klikken op "
+"het object om geluid op te nemen)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "Deze parameter kan niet gewijzigd worden"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr "Afspeelsnelheid verandert de duur en de toonhoogte van het geluid"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "Vertraging"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "Terugvoer"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr "Vertraging is een geluidseffect dat het geluid blijft herhalen."
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "De snelheid van de vertraging."
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "De tijd het duurt voordat het geluid weggaat."
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "Vervorming"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "Resonantie"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "Vervormingsniveau"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr ""
+"Vervorming is de oversturing van een golf waardoor scherpe klanken gemaakt "
+"worden."
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "De toonhoogte van het vervormde geluid."
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "De hoeveelheid vibratie het instrument op zichzelf heeft."
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "Het volume van het vervormde geluid."
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "Filter"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"Een geluidsfilter is ontworpen om een geluid lichter, donkerder of "
+"kleurrijker te maken."
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "Het punt in het geluid om te filteren."
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "De grootte van de regio beïnvloed door de filter."
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr ""
+"Het type filter om te gebruiken: lowpass = donker, highpass = helder, "
+"bandpass = gekleurd."
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "Ringmodulatie"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "Mixen"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr "Ringmodulatie is een geluidseffect dat metaalachtige geluiden maakt."
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "De toonhoogte van de ringmodulator."
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "Het volume van het gemoduleerde geluid."
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "De vorm van de golf om in de modulatie te gebruiken."
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "Lengte"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "Galmniveau"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr "Galm is de lengte dat een geluid in een ruimte blijft."
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "De grootte van de ruimte."
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "De helderheid van de galm."
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "De hoeveelheid galm die toegepast moet worden."
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "Harmonizer"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "Droge vertraging"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "Een harmonizer verdubbelt het geluid op een muzikale manier."
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "De toonhoogte van het verdubbelde geluid."
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "De starttijd van het originele geluid."
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr "De balans tussen het originele en verdubbelde geluid."
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "Equalizer 4 banden"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "Band een versterking"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "Band twee versterking"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "Band drie versterking"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "Band vier versterking"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr ""
+"Een 4 band equalizer kiest stukken (banden) in het geluid en maakt deze "
+"harder of zachter."
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "Het volume van band 1 (laag)."
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "Het volume van band 2 (middel-laag)."
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "Het volume van band 3 (middel-hoog)."
+
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "Het volume van band 4 (hoog)."
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "Koor"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "LFO diepte"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "LFO frequentie"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr ""
+"Het koor effect speelt meerdere kopieën van hetzelfde geluid met een kleine "
+"variatie."
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "Het volume van het LFO signaal."
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "De toonhoogte van het LFO signaal."
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "De hoeveelheid vertraging tussen de twee signalen."
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "Voorkeursinstellingen"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "Basis"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": besturingsuitvoer"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr ": geluiduitvoer"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr ": geluidinvoer"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "Zend geluid naar de speakers"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "Duur:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " s."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "Werktafel resetten"
+
+#: SynthLab/SynthLabToolbars.py:137
+msgid "Record Synth sound into slot"
+msgstr "Neem Synth geluid naar slot"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+msgid "Preset"
+msgstr "Voorkeursinstellingen"
+
+#: common/Tooltips.py:9
+msgid "Draw tool"
+msgstr "Tekengereedschap"
+
+#: common/Tooltips.py:10
+msgid "Paint tool"
+msgstr "Verfgereedschap"
+
+#: common/Tooltips.py:12
+msgid "Generate new tune"
+msgstr "Genereer nieuwe melodie"
+
+#: common/Tooltips.py:14
+msgid "Generate page"
+msgstr "Pagina aanmaken"
+
+#: common/Tooltips.py:15
+msgid "Page properties"
+msgstr "Pagina-eigenschappen"
+
+#: common/Tooltips.py:16
+msgid "Delete page(s)"
+msgstr "Pagina(s) verwijderen"
+
+#: common/Tooltips.py:17
+msgid "Duplicate page(s)"
+msgstr "Pagina(s) verdubbelen"
+
+#: common/Tooltips.py:18
+msgid "Add page"
+msgstr "Pagina toevoegen"
+
+#: common/Tooltips.py:19
+msgid "Beats per page"
+msgstr "Slagen per pagina"
+
+#: common/Tooltips.py:20
+msgid "Save tune"
+msgstr "Melodie opslaan"
+
+#: common/Tooltips.py:21
+msgid "Load tune"
+msgstr "Melodie laden"
+
+#: common/Tooltips.py:23
+msgid "Generate track"
+msgstr "Spoor aanmaken"
+
+#: common/Tooltips.py:24
+msgid "Track properties"
+msgstr "Spooreigenschappen"
+
+#: common/Tooltips.py:25
+msgid "Clear track"
+msgstr "Spoor wissen"
+
+# #-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# 'dupliceer' lijkt me een te moeilijk woord
+#: common/Tooltips.py:26
+msgid "Duplicate track"
+msgstr "Spoor verdubbelen"
+
+#: common/Tooltips.py:28
+msgid "Note(s) properties"
+msgstr "Muzieknoot(en) eigenschappen"
+
+#: common/Tooltips.py:29
+msgid "Delete note(s)"
+msgstr "Muzieknoot(en) verwijderen"
+
+# #-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# 'dupliceer' lijkt me een te moeilijk woord
+#: common/Tooltips.py:30
+msgid "Duplicate note(s)"
+msgstr "Muzieknoot(en) verdubbelen"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+msgid "Move note in time"
+msgstr "Verplaats muzieknoot in tijd"
+
+#: common/Tooltips.py:33
+msgid "Lower pitch"
+msgstr "Verlaag toonhoogte"
+
+#: common/Tooltips.py:34
+msgid "Raise pitch"
+msgstr "Verhoog toonhoogte"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+msgid "Modify duration"
+msgstr "Tijdsduur wijzigen"
+
+#: common/Tooltips.py:37
+msgid "Lower volume"
+msgstr "Volume verlagen"
+
+#: common/Tooltips.py:38
+msgid "Raise volume"
+msgstr "Volume verhogen"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "Pauzeren"
+
+#: common/Tooltips.py:43
+msgid "Keyboard recording"
+msgstr "Toetsenbordopname"
+
+#: common/Tooltips.py:44
+msgid "Save as .ogg"
+msgstr "Opslaan als .ogg"
+
+#: common/Tooltips.py:45
+msgid "Rewind"
+msgstr "Terugspoelen"
+
+#: common/Tooltips.py:46
+msgid "Save to journal and quit"
+msgstr "Naar dagboek opslaan en afsluiten"
+
+#: common/Tooltips.py:58
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr "-- Ritme dichtheid, | Ritme gelijkmatigheid"
+
+#: common/Tooltips.py:59
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr "-- Toonhoogte gelijkmatigheid, | Toonhoogte maximale stap"
+
+#: common/Tooltips.py:60
+msgid "-- Average duration, | Silence probability"
+msgstr "-- Gemiddelde duur, | Stiltekans"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+msgid "Major scale"
+msgstr "Majeur"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+msgid "Harmonic minor scale"
+msgstr "Harmonische mineurladder"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+msgid "Natural minor scale"
+msgstr "Natuurlijke mineurladder"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+msgid "Phrygian scale"
+msgstr "Frygische toonladder"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+msgid "Dorian scale"
+msgstr "Dorische toonladder"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+msgid "Lydian scale"
+msgstr "Lydische toonladder"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+msgid "Mixolydian scale"
+msgstr "Mixolydische toonladder"
+
+#: common/Tooltips.py:79
+msgid "Save preset"
+msgstr "Voorkeursinstelling opslaan"
+
+#: common/Tooltips.py:80
+msgid "Load preset"
+msgstr "Voorkeursinstelling laden"
+
+#: common/Tooltips.py:82
+msgid "Close"
+msgstr "Sluiten"
+
+#: common/Tooltips.py:85
+msgid "Transpose up"
+msgstr "Omhoog transponeren"
+
+#: common/Tooltips.py:86
+msgid "Transpose down"
+msgstr "Omlaag transponeren"
+
+#: common/Tooltips.py:87
+msgid "Volume up"
+msgstr "Volume omhoog"
+
+#: common/Tooltips.py:88
+msgid "Volume down"
+msgstr "Volume omlaag"
+
+#: common/Tooltips.py:89
+msgid "Panoramization"
+msgstr "Panning"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "Laagdoorlatend filter"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+msgid "Highpass filter"
+msgstr "Hoogdoorlatend filter"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+msgid "Bandpass filter"
+msgstr "Bandpass filter"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "Filterafsnijding"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+msgid "Open algorithmic generator"
+msgstr "Open algoritmische generator"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "Minimale waarde"
+
+#: common/Tooltips.py:114
+msgid "Maximum value"
+msgstr "Maximale waarde"
+
+#: common/Tooltips.py:115
+msgid "Specific parameter"
+msgstr "Specifieke parameter"
+
+#: common/Tooltips.py:116
+msgid "Apply generator"
+msgstr "Generator toepassen"
+
+#: common/Tooltips.py:117
+msgid "Cancel"
+msgstr "Annuleren"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr "Alle"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr "Dieren"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr "Voorwerpen"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr "Toetsinstrument"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr "Mensen"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr "Slaginstrument"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr "Snaarinstrument"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+msgid "Winds"
+msgstr "Blaasinstrument"
+
+#: common/Tooltips.py:146
+msgid "Play / Stop"
+msgstr "Afspelen / Stoppen"
+
+#: common/Tooltips.py:148
+msgid "Left click to record, right click to record on top"
+msgstr "Links-klikken om op te nemen, rechts-klikken om eroverheen op te nemen"
+
+#: common/Tooltips.py:150
+msgid "Complexity of beat"
+msgstr "Complexiteit van de beat"
+
+#: common/Tooltips.py:151
+msgid "Beats per bar"
+msgstr "Beats per balk"
+
+#: common/Tooltips.py:153
+msgid "Record with the microphone"
+msgstr "Opnemen met microfoon"
+
+#: common/Tooltips.py:154
+msgid "Open SynthLab to create noise"
+msgstr "Open SynthLab om herrie te maken"
+
+#: common/Tooltips.py:155
+msgid "Record microphone into slot 4"
+msgstr "Microfoon naar slot 4 opnemen"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr "Huiscavia"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr "Gamelan"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr "Elektrische gitaar"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr "Koto"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr "Banjo"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr "Ukulele"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr "Klavecimbel"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+msgid "Clarinet"
+msgstr "Klarinet"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+msgid "Flute"
+msgstr "Fluit"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr "Piano"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr "Hond"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr "Kip"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr "Eend"
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr "Aardbei"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr "Mondharmonica"
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr "Alarm"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr "Vogel"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr "Kikker"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr "Kat"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr "Koe"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr "Krekels"
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr "Fles"
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr "Dump"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr "Bekken"
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr "Ow"
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr "Hee"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr "Schaap"
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr "Water"
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr "Straalgeweer"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr "Trompet"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr "Clavinet"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr "Flugelhorn"
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr "Misthoorn"
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr "Bellen"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr "Marimba"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr "Vingercymbalen"
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr "Lach"
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr "Baby Lach"
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr "Baby Uh-oh"
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr "Kling"
+
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr "Fietsbel"
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr "Deur"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr "Basgitaar"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr "Akoestische gitaar"
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr "Dobbelsteen"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr "Didgeridoo"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr "Harmonium"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr "Paard"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr "Duimpiano"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr "Mandoline"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr "Ocarina"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr "Rhodes"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr "Saxofoon"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr "Sopraansaxofoon"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+msgid "Shehnai"
+msgstr "Shehnai"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr "Sitar"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr "Tuba"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr "Viool"
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr "Fotocamera"
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr "Auto"
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr "Autotoeter"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr "Cello"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr "Buisklokken"
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr "Botsing"
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr "Vliegtuig"
+
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr "Slag"
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr "Tempelbel"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr "Sarangi"
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr "'au tahana"
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+msgid "Jazz / Rock Kit"
+msgstr "Jazz / Rock drums"
+
+#: common/Util/Instruments.py:670
+msgid "African Kit"
+msgstr "Afrikaanse drums"
+
+#: common/Util/Instruments.py:672
+msgid "Arabic Kit"
+msgstr "Arabische drums"
+
+#: common/Util/Instruments.py:674
+msgid "Electronic Kit"
+msgstr "Electronische drums"
+
+#: common/Util/Instruments.py:676
+msgid "South American Kit"
+msgstr "Zuid-Amerikaanse drums"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr "Nepali"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "TamTamBewerken"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "TamTamJam"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "TamTamMini"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "TamTamSynthLab"
+
+#~ msgid "%(component_name)s"
+#~ msgstr "%(component_name)s"
+
+#~ msgid "Volume:"
+#~ msgstr "Volume:"
+
+#~ msgid "Reverb:"
+#~ msgstr "Galm:"
+
+#~ msgid "Master Volume"
+#~ msgstr "Hoofdvolume"
+
+#, fuzzy
+#~ msgid "Drone and jump"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "Drone en jump\n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "Drone en jump\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "Drone en jump\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "Drone en Jump"
+
+#~ msgid "Record mic into slot 1"
+#~ msgstr "Microfoon naar slot 1 opnemen"
+
+#~ msgid "Record mic into slot 2"
+#~ msgstr "Microfoon naar slot 2 opnemen"
+
+#~ msgid "Record mic into slot 3"
+#~ msgstr "Microfoon naar slot 3 opnemen"
+
+#~ msgid "Record mic into slot 4"
+#~ msgstr "Microfoon naar slot 4 opnemen"
+
+#~ msgid "Select Tool"
+#~ msgstr "Selectiegereedschap"
+
+#~ msgid "Myxolidian scale"
+#~ msgstr "Myxolidische toonladder"
+
+#~ msgid "Loop Segments"
+#~ msgstr "Herhaal segmenten"
+
+#~ msgid "Volume: "
+#~ msgstr "Volume: "
+
+#~ msgid "Reverb: "
+#~ msgstr "Galm: "
+
+#~ msgid "Attack duration: "
+#~ msgstr "Aanslagduur: "
+
+#~ msgid "Decay duration: "
+#~ msgstr "Vervalduur: "
+
+#~ msgid "Filter cutoff: "
+#~ msgstr "Filterafsnijding: "
+
+#~ msgid "Type: "
+#~ msgstr "Type: "
+
+#~ msgid "Minimum: "
+#~ msgstr "Minimum: "
+
+#~ msgid "Maximum: "
+#~ msgstr "Maximum: "
+
+#~ msgid "Random: "
+#~ msgstr "Willekeurig: "
+
+#~ msgid "Lin"
+#~ msgstr "Lin"
+
+#~ msgid "Log"
+#~ msgstr "Log"
+
+#~ msgid ""
+#~ "The shape of the value reapartition. In a straight line (linear) or a curved "
+#~ "line (logarithmic)."
+#~ msgstr ""
+#~ "De vorm van de waarde repartitie. In een rechte lijn (lineair) of kromme "
+#~ "lijn (logaritmisch)."
+
+#~ msgid "The maximum value de trackpad will send."
+#~ msgstr "De maximale waarde die de touchpad zal zenden."
+
+#~ msgid "Lowpass Filter"
+#~ msgstr "Lowpass Filter"
+
+#~ msgid "The sample to be used"
+#~ msgstr "De te gebruiken opname."
+
+#~ msgid "The volume of the sound"
+#~ msgstr "Het volume van het geluid"
+
+#~ msgid "lfo"
+#~ msgstr "lfo"
+
+#~ msgid "rand"
+#~ msgstr "willekeurig"
+
+#~ msgid "adsr"
+#~ msgstr "adsr"
+
+#~ msgid "trackpadX"
+#~ msgstr "touchpadX"
+
+#~ msgid "trackpadY"
+#~ msgstr "touchpadY"
+
+#~ msgid "fm"
+#~ msgstr "fm"
+
+#~ msgid "buzz"
+#~ msgstr "zoem"
+
+#~ msgid "vco"
+#~ msgstr "vco"
+
+#~ msgid "pluck"
+#~ msgstr "pizz"
+
+#~ msgid "noise"
+#~ msgstr "ruis"
+
+#~ msgid "sample"
+#~ msgstr "sample"
+
+#~ msgid "voice"
+#~ msgstr "stem"
+
+#~ msgid "grain"
+#~ msgstr "granulatie"
+
+#~ msgid "addSynth"
+#~ msgstr "addSynth"
+
+#~ msgid "mic"
+#~ msgstr "microfoon"
+
+#~ msgid "wguide"
+#~ msgstr "wguide"
+
+#~ msgid "distort"
+#~ msgstr "vervorming"
+
+#~ msgid "filter"
+#~ msgstr "filter"
+
+#~ msgid "ring"
+#~ msgstr "ring"
+
+#~ msgid "reverb"
+#~ msgstr "galm"
+
+#~ msgid "harmon"
+#~ msgstr "harmon"
+
+#~ msgid "eq4band"
+#~ msgstr "eq4banden"
+
+#~ msgid "chorus"
+#~ msgstr "koor"
+
+#~ msgid "Record Synth sound into slot \"lab2\""
+#~ msgstr "Neem Synth geluid naar slot \"lab2\" op."
+
+#~ msgid "Record Synth sound into slot \"lab3\""
+#~ msgstr "Neem Synth geluid naar slot \"lab3\" op."
+
+#~ msgid "Record Synth sound into slot \"lab4\""
+#~ msgstr "Neem Synth geluid naar slot \"lab4\" op."
+
+#~ msgid "Record Synth sound into slot \"lab5\""
+#~ msgstr "Neem Synth geluid naar slot \"lab5\" op."
+
+#~ msgid "Record Synth sound into slot \"lab6\""
+#~ msgstr "Neem Synth geluid naar slot \"lab6\" op."
+
+#~ msgid "Preset 1"
+#~ msgstr "Voorkeursinstelling 1"
+
+#~ msgid "Preset 2"
+#~ msgstr "Voorkeursinstelling 2"
+
+#~ msgid "Preset 3"
+#~ msgstr "Voorkeursinstelling 3"
+
+#~ msgid "Preset 4"
+#~ msgstr "Voorkeursinstelling 4"
+
+#~ msgid "Preset 5"
+#~ msgstr "Voorkeursinstelling 5"
+
+#~ msgid "Preset 6"
+#~ msgstr "Voorkeursinstelling 6"
+
+#~ msgid "Preset 7"
+#~ msgstr "Voorkeursinstelling 7"
+
+#~ msgid "Preset 8"
+#~ msgstr "Voorkeursinstelling 8"
+
+#~ msgid "Preset 9"
+#~ msgstr "Voorkeursinstelling 9"
+
+#~ msgid "Preset 10"
+#~ msgstr "Voorkeursinstelling 10"
+
+#~ msgid "pause"
+#~ msgstr "Pauze"

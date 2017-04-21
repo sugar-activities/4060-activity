@@ -1,0 +1,2234 @@
+# #-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  TamTamSynthLab.activity.po (TamTamSynthLab.activity)  #-#-#-#-#
+# translation of TamTamSynthLab.activity.po to Sinhala
+# Rashan Anushka <rashan.uoc@gmail.com>, 2008.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# #-#-#-#-#  TamTamMini.activity.po (TamTamMini.activity)  #-#-#-#-#
+# translation of TamTamMini.activity.po to Sinhalese
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: TamTamMini.activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2011-11-07 05:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Sinhalese <en@li.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr ""
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "වයන්න / විරාමයක් දෙන්න"
+
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+msgid "Stop"
+msgstr "නවත්වන්න"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+msgid "Select tool"
+msgstr "මෙවලම තෝරන්න"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "ඇඳීමේ මෙවලම"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "පින්තාරු කිරීමේ මෙවලම"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "අනුපිටපත"
+
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "තනුව ජනනය කරන්න"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "ජනනය"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "යතුරු පුවරූව වාර්තා කරන්න"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "ogg ලෙස පටිගත කරන්න"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "පරිමාව / ලය"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "වත්කම්"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "1/12"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "1/6"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "1/4"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "1/3"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "1/2"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "1"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "2"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+msgid "Volume"
+msgstr "පරිමාව"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+msgid "Tempo"
+msgstr "ලය"
+
+#: Edit/EditToolbars.py:386
+#, fuzzy
+msgid "Rhythm"
+msgstr "තානම"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "ඝනත්වය"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "සම්මුතිය"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "තාරතාව"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "උපරිම අදියර"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "කාල සීමාව"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "සටහන් කාල සීමාව"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "නිශ්ශබ්දතා ඝනත්වය"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "සප්තකය: "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "මාත්‍රය: "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "මත් වූ"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+msgid "Drone and Jump"
+msgstr "අලස හා පිනුම්"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+msgid "Repeater"
+msgstr "පුනරාවර්තකය"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "පුඩු ඛණ්ඩ"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "කිසිසේත් නැත"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Lowpass"
+msgstr "අවම සමර්ථ"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Bandpass"
+msgstr "කලාප සමර්ථ"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+msgid "Highpass"
+msgstr "උපරිම සමර්ථ"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "මාර්ගය"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "දම්"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "කොළ"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "නිල්"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "කහ"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "කොටු බෙදීම: "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "පිටු වර්ණය: "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "තැන් පෙරළුම: "
+
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "ඇදීම: "
+
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+msgid "Reverb"
+msgstr "දෝකාර"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "පහර දීමේ කාල මාත්‍රාව"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+msgid "Decay duration"
+msgstr "ක්ෂය වීමේ කාල මාත්‍රාව"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "පෙරහන් වර්ගය: "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "වර්ගය"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "අවම"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "උපරිම"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "අහඹු"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "1 වෙනි පථයේ ශබ්ද පරිමාව"
+
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "5 වෙනි පථයේ වත්කම්"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+msgid "Generate"
+msgstr "ජනනය කරන්න"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+msgid "Record"
+msgstr "තැටිගත කරන්න"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr ""
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "රචනා කරන්න"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "M"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "පථය නිශ්ශබ්ද කරන්න"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "S"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "ඒකල පථය"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "%s වෙනි පථයේ වත්කම්"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+msgid "Left click to mute, right click to solo"
+msgstr "නිශ්ශබ්ද කිරීමට වමත් ක්ලික් කිරීම, ඒකල කිරීමට දකුණත් ක්ලික් කිරීම"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "උපකරණ වත්කම්"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "බෙර කට්ටල වත්කම්"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "ලූපයේ වත්කම්"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "යතුරක් පවරන්න"
+
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "ජෑම්"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr ""
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "වැඩතලය"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "වාදනය කරන්න"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr ""
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr ""
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr ""
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "ඇදීම:"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "නුගැසුම්:"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "සමමිතිය:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+msgid "Master volume"
+msgstr "ප්‍රධාන ශබ්ධ පරිමාව"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr "ලූපනය නවත්වන්න"
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr "ලූප නිශ්ශබ්ද කරන්න"
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "නුගැසුම වෙත පනින්න"
+
+#: Jam/Toolbars.py:202
+#, fuzzy
+msgid "Synch to:"
+msgstr "වෙත සමවැදෙන්න:"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "නුගැසුමක්"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "නුගැසුම් 2ක්"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "නුගැසුම් 3ක්"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "නුගැසුම් 4ක්"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "නුගැසුම් 5ක්"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "නුගැසුම් 6ක්"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "නුගැසුම් 7ක්"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "නුගැසුම් 8ක්"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "නුගැසුම් 9ක්"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "නුගැසුම් 10ක්"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "නුගැසුම් 11ක්"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "නුගැසුම් 12ක්"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "පළමු වැඩතලය"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "%d වෙනි වැඩතලය"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+msgid "Record microphone into slot 1"
+msgstr "1 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+msgid "Record microphone into slot 2"
+msgstr "2 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+msgid "Record microphone into slot 3"
+msgstr "3 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+msgid "Add new Sound"
+msgstr "නව නාදයක් එක් කරන්න"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "නාදය: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "ලියාපදිංචිය: "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+msgid "Play"
+msgstr "වයන්න"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "ටැම්ටැම්"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+msgid "Balance"
+msgstr "තුලනය"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "ලූපයක් තැටිගත කිරීමට ක්ලික් කරන්න"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "ලූපයක් එක් කිරීමට ක්ලික් කරන්න"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "සියළු ලූපයන් පැහැදිලි කිරීමට ක්ලික් කරන්න"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "මූලය"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "ආචරණ"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "පාලකය"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "නාද ප්‍රතිදානය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "LFO"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "විස්තාරය"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "සංඛ්‍යාතය"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "තරංග හැඩය"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "සයින්"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "ත්‍රිකෝණය"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "ද්වී-සමචතුරස්‍ර"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "ඒකල-සමචතුරස්‍ර"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "කියත් දත"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "කියත් දත පහළට"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "අනුලම්බය"
+
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"අව සංඛ්‍යාත දෝලනයක් (LFO) යනු වෙනත් ධ්වනියක් වෙනස් කිරීමට භාවිතා කරන කනට "
+"නොඇසෙන නුගැසුම් තරංගයකි."
+
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr "LFO තරංගයක ශබ්ද පරිමාව. වැඩි ශබ්ද පරිමාවක් යනු වැඩි බලපෑමකි."
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "තරංගයේ වේගය"
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "LFO සඳහා භාවිතා කරන තරංගයේ වර්ගය."
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr "LFO හි විස්තාරයට එකතු කළ යුතු අගය."
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "වීජ"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "පුනරාවර්තනය නොවන සේ පරිගණකය මඟින් තෝරාගන්නා ලද අංක අනුක්‍රමයක්."
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "ඉඩ දෙනු ලබන කුඩාම අංකය"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "ඉඩ දෙනු ලබන විශාලම අංකය."
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "අනුක්‍රමයේ වේගය."
+
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "අංක ජනකය ඇරඹිම සඳහා ු අංකය"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "කවරය"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "පහර දෙන්න"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "ක්ෂයවීම"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "උසුලන්න"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "මුදාහරින්න"
+
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr "ADSR කවරයක් යනු කාලානුරූපීව ධ්වනි පරිමාවේ හැඩයයි."
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(A) ධ්වනිය කෙතරම් වේගයකින් සම්පූර්ණ පරිමාවට ලඟාවේද."
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr "(D) ප්‍රහාරයෙන් පසු කෙතරම් වේගයකින් ශබ්ධය කඩාවැටේද."
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "(S) ස්වරය මුදාහරින තෙක් ශබ්දයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "(R) කෙතරම් වේගයකින් ශබ්ධය ඉවත යයිද."
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "පථපුවරුව X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "පරිමාණනය"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr ""
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr ""
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "විමසීම් කාලය"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr "ධ්වනිය වෙනස් කිරීම සඳහා පථපුවරුව යොදාගත හැක. මෙය වමේ සිට දකුණටවේ."
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "පථපුවරුව යවනු ලබන අවම අගය."
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "පථපුවරුව යවනු ලබන උපරිම අගය."
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr "අගයන් විභේදනයේ හැඩය. සරල රේඛාවක හෝ වක්‍ර රේඛාවක (ලඝුගණක)."
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "පථපුවරුවෙන් එන එක් එක් සිදුවීම අතර කාල පරාසය."
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "පථපුවරුව Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr "ධ්වනිය වෙනස් කිරීම සඳහා පථපුවරුව යොදාගත හැක. මෙය ඉහළ සිට පහළටවේ."
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "FM"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "වාහක සංඛ්‍යාතය"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "මූර්ඡක සංඛ්‍යාතය"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "සුචිය"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "ලාභය"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"සංඛයාත මූහුර්ජන සංස්ලේෂණය (FM) මඟින් තරංග දෙකක (වාහකය හා මුහුර්ජකය) සංඛ්‍යාත "
+"එක් කිරීම මඟින් ඉලෙක්ට්‍රොනික ශබ්දයක් සාදයි."
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "ප්‍රධාන තරංගයේ සංඛ්‍යාතය."
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr "වාහක තරංගය වෙනස් කරන තරංගයේ සංඛ්‍යාතය."
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "වාහක තරංගයේ සංඛ්‍යාත විචලනය."
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "ධ්වනියේ ශබ්ධ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "ගුමු දෙන්න"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "ප්‍රසංවාද ගණන"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "බෑවුම පෙරන්න"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "ගුමුවක් යනු ප්‍රසංවාද ගණනාවක් සහිත ඉතා දීප්තිමත් ධ්වනියකි."
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "ගුමු නාදයේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "ශබ්දයේ ප්‍රසංවාද ඝනකම."
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "නාදයේ දීප්තිය."
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "VCO"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "සමචතුරස්‍ර"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"වෝල්ටීයතා පාලක දෝලකයක් (VCO) මඟින් තරංග දෙකක හැඩයන් එක් කිරීම මඟින් "
+"ඉලෙක්ට්‍රොනික නාදයක් සාදයි."
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "VCO මඟින් වෙනස් කරනු ලබන තරංගය."
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "VCO හි තරංගයේ හැඩය."
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "කඩාලන්න"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "වේපථුව"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr "ඉල්ට්‍රොනික තත් භාණ්ඩයක් (ගිටාරයක් වැනි)."
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "භාණ්ඩයක තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "ඝෝෂාව"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "සුදු"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "රෝස"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "ගවුසියානු"
+
+#: SynthLab/SynthLabConstants.py:267
+#, fuzzy
+msgid "Bandwidth"
+msgstr "කලාප පළල"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr "ඝෝෂාවක් යනු සියළු සංඛ්‍යාතයන්හි ශක්තිය ඇති ශබ්දයකි."
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr ""
+"භාවිතාකළ යුතු ඝෝෂාවේ හැඩය (සුදු = දීප්තිමත්, රෝස = අඳුරු, ගව්සියානු = "
+"වර්ණවත්)."
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "ශබ්ධයේ ඝණකම."
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "ශබ්ධ නියැදිය"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "නියැදි අංකය"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "නියැදි නාමය"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr "නියැදියක් යනු සටහන් කර ඇති හා නැවත ප්‍රතිවාදනය කළ හැකි සැබෑ ශබ්ධයකි."
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "නියැදියේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "භාවිතා කළ යුතු නියැදිය."
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "කටහඬ"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "ස්වරය"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "ඉලෙක්ට්‍රොනික කටහඬක්"
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "ශබ්ධයේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "ස්වර මූලික ශබ්දයේ හැඩය."
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "කණිකාව"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"කණිකාව මඟින් කාලානුරූපීව නැවත සැකසිය හැකි සේ නාදය ඉතා කුඩා කොටස් වලට බෙදයි."
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "කණිකාවල තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "කණිකා තාරතාවල විචලනය."
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "ආකලන සංස්්ලේෂණය"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "විහිදුම"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr "ආකලන සංස්ලේෂණය වෙනස් තරංග එක් කිරීම මඟින් සංගීතමය ස්වරගුණයක් සාදයි."
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "වෙනස් තරංග අතර විභේදනය."
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "තරංගයේ හැඩය."
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "මයික්‍රොපෝන අදානය"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "මතකයේ දිග"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "මතක අංකය"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "යළි ධාවන වේගය"
+
+#: SynthLab/SynthLabConstants.py:326
+#, fuzzy
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr ""
+"මයික්‍රොපෝන අදානය ප්‍රතිවාදනය සඳහා බෆරයකට සටහන් කරනු ලැබේ (ශබ්ඳය සටහන් කිරීම "
+"සඳහා වස්තුව මත දකුණත්-ක්ලික් කරන්න)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "මෙම පරාමිතිය වෙනස් කළ නොහැක"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr "වේගවත් වාදනය මඟින් ශබ්ධයේ කාලය හා තාරතාව වෙනස් කෙරේ"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "ප්‍රමාදය"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "ප්‍රතිචාරය"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr "ප්‍රමාදය යනු ශබ්ධය නැවත නැවත ඇතිකරන ශ්‍රව්‍ය ආචරණයකි."
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "ප්‍රමාදයේ වේගය."
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "ශබ්දයට පිටව යෑම සඳහා ගතවන කාලය."
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "කුරූපණය"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "අනුනාදය"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "කුරූපණ මට්ටම"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr "කුරූපණය යනු කටුක ශබ්ද සෑදෙන ලෙස තරංගයක සිදුවන විරූපණයයි."
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "කුරූපිත ශබ්ධයේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "සංගීත භාණ්ඩයේ ඒ මත ඇති කරන කම්පනය."
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "කුරූපිත ශබ්ධයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "පෙරහන"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"ශබ්ධයක් දීප්තිමත්, අඳුරු හෝ වර්ණවත් කිරීම සඳහා ශ්‍රව්‍ය පෙරහනක් නිර්මාණය "
+"කරනු ලැබේ."
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "ශබ්දයේ පෙරිය යුතු ස්ථානය."
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "පෙරහන බලපාන කලාපයේ ප්‍රමාණය."
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr ""
+"භාවිත පෙරහනේ වර්ගය: අවම සමර්ථ = අඳුරු, උපරිම සමර්ථ = දීප්තිමත්, කලාප සමර්ථ = "
+"වර්ණවත්."
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "මුදු මූර්ඡකය"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "මිශ්‍ර කරන්න"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr "මුදු මූර්ඡකය යනු ලෝහක ශබ්ධ සාදන ශ්‍රව්‍ය ආචරනයකි."
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "මුදු මූර්ඡකයේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "මූර්ජිත ශබ්ධයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "මූර්ජනය සඳහා භාවිත තරංගයේ හැඩය."
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "දිග"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "දෝංකාර මට්ටම"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr "දෝංකාරය යනු ශබ්දය කාමරයේ සිටින කාලසීමාවයි."
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "කාමරයේ ප්‍රමාණය."
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "දෝංකාරිත ශබ්දයේ දීප්තිය."
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "යෙදිය යුතු දෝංකාර ප්‍රමාණය."
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "සුසංවාදකය"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "වියළි ප්‍රමාදය"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "සුසංවාදකය මඟින් ශබ්දය සංගීතමය ලෙස දෙගුණ කරයි."
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "දෙගුණ කළ ශබ්දයේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "මුල් ශබ්දයේ ආරම්භක වේලාව."
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr "මුල් හා දෙගුන කළ ශබ්ද අතර ඉතිරිය."
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "සමතකාරකය කලාප 4"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "පළමු කලාපය දියුණු කරන්න"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "දෙවෙනිු කලාපය දියුණු කරන්න"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "තෙවෙනිු කලාපය දියුණු කරන්න"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "සිව්වැනිු කලාපය දියුණු කරන්න"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr ""
+"කලාප 4 සමතකාරකය මඟින් ශබ්දයේ ස්තර (කලාප) තෝරා ඒවා ශබ්ද නගා හෝ සුමට කරයි."
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "පළමු (අවම) කලාපයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "දෙවන (මැදි-අවම) කලාපයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "තෙවනු මැදි-උපරිමම) කලාපයේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "සිව්වැනි  උපරිමම) කලාපයේ පරිමාව."
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "සමූහ ගායනා"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "LFO ගැඹුර"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "LFO සංඛ්‍යාතය"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr ""
+"සමූහ ගායනා ආචරනය මඟින් එකම ශබ්දයේ පිටපත් කුඩා වෙනස්කිරීමක් සහිතව වාදනය කෙරේ."
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "LFO සංඥාවේ පරිමාව."
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "LFO සංඥාවේ තාරතාව."
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "සංඥා දෙක අතර ප්‍රමාදය."
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "පෙරසැකසුම්"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "ප්‍රධාන"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": පාලක ප්‍රතිදානය"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr ": ශබ්ධ ප්‍රතිදානය"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr ": ශබ්ධ ආ‍රතිදානය"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "ශබ්දය ස්පීකර වෙත යවන්න"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "කාල සීමාව:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " s."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "වැඩවගුව යළිසිටුවම් කරන්න"
+
+#: SynthLab/SynthLabToolbars.py:137
+#, fuzzy
+msgid "Record Synth sound into slot"
+msgstr "සංස්ලේෂිත ශබ්දය \"lab1\" තව්ව වෙත සටහන් කරන්න"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+#, fuzzy
+msgid "Preset"
+msgstr "පෙරසැකසුම්"
+
+#: common/Tooltips.py:9
+msgid "Draw tool"
+msgstr "ඇඳීමේ මෙවලම"
+
+#: common/Tooltips.py:10
+msgid "Paint tool"
+msgstr "පින්තාරු මෙවලම"
+
+#: common/Tooltips.py:12
+msgid "Generate new tune"
+msgstr "නව තනුවක් ජනනය කරන්න"
+
+#: common/Tooltips.py:14
+msgid "Generate page"
+msgstr "පිටුවක් ජනනය කරන්න"
+
+#: common/Tooltips.py:15
+msgid "Page properties"
+msgstr "පිටු වත්කම්"
+
+#: common/Tooltips.py:16
+msgid "Delete page(s)"
+msgstr "පිටු(ව) මකා දමන්න"
+
+#: common/Tooltips.py:17
+msgid "Duplicate page(s)"
+msgstr "අනුපිටපත්  පිටු(ව)"
+
+#: common/Tooltips.py:18
+msgid "Add page"
+msgstr "පිටුවක් එක් කරන්න"
+
+#: common/Tooltips.py:19
+msgid "Beats per page"
+msgstr "පිටුවකට නුගැසුම් ගණන"
+
+#: common/Tooltips.py:20
+msgid "Save tune"
+msgstr "තනුව සුරකින්න"
+
+#: common/Tooltips.py:21
+msgid "Load tune"
+msgstr "තනුව ප්‍රවේශනය කරන්න"
+
+#: common/Tooltips.py:23
+msgid "Generate track"
+msgstr "පථය ජනනය කරන්න"
+
+#: common/Tooltips.py:24
+msgid "Track properties"
+msgstr "පථයේ වත්කම්"
+
+#: common/Tooltips.py:25
+msgid "Clear track"
+msgstr "පථය පැහැදිලි කරන්න"
+
+#: common/Tooltips.py:26
+msgid "Duplicate track"
+msgstr "පථ අනුපිටපත"
+
+#: common/Tooltips.py:28
+msgid "Note(s) properties"
+msgstr "ස්වර වත්කම්"
+
+#: common/Tooltips.py:29
+msgid "Delete note(s)"
+msgstr "ස්වර(ය) මකා දමන්න"
+
+#: common/Tooltips.py:30
+msgid "Duplicate note(s)"
+msgstr "ස්වර(ය) අනුපිටපත් කරන්න"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+msgid "Move note in time"
+msgstr "ස්වරය කාලයේ මාරු කරන්න"
+
+#: common/Tooltips.py:33
+msgid "Lower pitch"
+msgstr "තාරතාව අඩු කරන්න"
+
+#: common/Tooltips.py:34
+msgid "Raise pitch"
+msgstr "තාරතාව වැඩි කරන්න"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+msgid "Modify duration"
+msgstr "කාලමාත්‍රාව වෙනස් කරන්න"
+
+#: common/Tooltips.py:37
+msgid "Lower volume"
+msgstr "ශබ්ධ පරිමාව වෙනස් කරන්න"
+
+#: common/Tooltips.py:38
+msgid "Raise volume"
+msgstr "ශබ්ධ පරිමාව වැඩි කරන්න"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "විරාමයක්"
+
+#: common/Tooltips.py:43
+msgid "Keyboard recording"
+msgstr "යතුරු පුවරූ වාර්තා කිරීම"
+
+#: common/Tooltips.py:44
+msgid "Save as .ogg"
+msgstr ".ogg ලෙස සුරකින්න"
+
+#: common/Tooltips.py:45
+msgid "Rewind"
+msgstr "යළි ඔතන්න"
+
+#: common/Tooltips.py:46
+msgid "Save to journal and quit"
+msgstr "ජ'නලයට සුරැකීමෙන් පසු පිටවන්න"
+
+#: common/Tooltips.py:58
+#, fuzzy
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr "-- තානමේ ඝනත්වය, |  තානමේ සමමිතිය"
+
+#: common/Tooltips.py:59
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr "-- තාරතාවේ සමමිතිය, | තාරතාවේ උපරිම අදියර"
+
+#: common/Tooltips.py:60
+msgid "-- Average duration, | Silence probability"
+msgstr "-- සාමාන්‍ය කාලමාත්‍රාව, | නිශ්ශබ්දතා සම්භාවිතාව"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+msgid "Major scale"
+msgstr "උච්ච සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+msgid "Harmonic minor scale"
+msgstr "අනුවර්තී මන්ද සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+msgid "Natural minor scale"
+msgstr "ප්‍රකෘති මන්ද සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+msgid "Phrygian scale"
+msgstr "පයිජියන් සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+msgid "Dorian scale"
+msgstr "ඩෝරියන් සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+msgid "Lydian scale"
+msgstr "ලයිඩියන් සප්තකය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+#, fuzzy
+msgid "Mixolydian scale"
+msgstr "මික්සොලිදියන් සප්තකය"
+
+#: common/Tooltips.py:79
+msgid "Save preset"
+msgstr "පෙරසිටුවම සුරකින්න"
+
+#: common/Tooltips.py:80
+msgid "Load preset"
+msgstr "පෙරසිටුවම ප්‍රවේශනය කරන්න"
+
+#: common/Tooltips.py:82
+msgid "Close"
+msgstr "චසාදමන්න"
+
+#: common/Tooltips.py:85
+msgid "Transpose up"
+msgstr "උඩට තැන් පෙරළුම"
+
+#: common/Tooltips.py:86
+msgid "Transpose down"
+msgstr "පහළට තැන් පෙරළුම"
+
+#: common/Tooltips.py:87
+msgid "Volume up"
+msgstr "ශබ්දය වැඩි කරන්න"
+
+#: common/Tooltips.py:88
+msgid "Volume down"
+msgstr "ශබ්දය වැඩි කරන්න"
+
+#: common/Tooltips.py:89
+#, fuzzy
+msgid "Panoramization"
+msgstr "පරිදර්ශනීකරනය"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "අවම සමර්ථ පෙරහන"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+msgid "Highpass filter"
+msgstr "උපරිම සමර්ථ පෙරහන"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+msgid "Bandpass filter"
+msgstr "කලාප සමර්ථ පෙරහන"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "පෙරහන් කඩඉම"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+msgid "Open algorithmic generator"
+msgstr "රීති උත්පාදකය විවුත කරන්න"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "අවම අගය"
+
+#: common/Tooltips.py:114
+msgid "Maximum value"
+msgstr "උපරිම අගය"
+
+#: common/Tooltips.py:115
+msgid "Specific parameter"
+msgstr "විශේෂී පරාමිතිය"
+
+#: common/Tooltips.py:116
+msgid "Apply generator"
+msgstr "ජනකය යොදන්න"
+
+#: common/Tooltips.py:117
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr ""
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr ""
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+msgid "Winds"
+msgstr ""
+
+#: common/Tooltips.py:146
+msgid "Play / Stop"
+msgstr "වැයුම/නැවතුම"
+
+#: common/Tooltips.py:148
+msgid "Left click to record, right click to record on top"
+msgstr "වාර්තා කිරීමට වමත් ක්ලිකය, ඒ මත වාර්තා කිරීමට දකුණත් ක්ලිකය"
+
+#: common/Tooltips.py:150
+msgid "Complexity of beat"
+msgstr "නුගැසුමේ සංකීර්ණතාව"
+
+#: common/Tooltips.py:151
+msgid "Beats per bar"
+msgstr "ස්වර ඛණ්ඩයකට නුගැසුම් ගණන"
+
+#: common/Tooltips.py:153
+msgid "Record with the microphone"
+msgstr "මයික්‍රොපෝනයෙන් සටහන් කර ගන්න"
+
+#: common/Tooltips.py:154
+msgid "Open SynthLab to create noise"
+msgstr "ඝෝෂාවක් සෑදීම සඳහා SynthLab විවෘත කරන්න"
+
+#: common/Tooltips.py:155
+#, fuzzy
+msgid "Record microphone into slot 4"
+msgstr "1 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+msgid "Clarinet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+#, fuzzy
+msgid "Flute"
+msgstr "සංගීත භාණ්ඩ - බටනලාව"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr ""
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr ""
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr ""
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr ""
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr ""
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr ""
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr ""
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr ""
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr ""
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr ""
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr ""
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr ""
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr ""
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr ""
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr ""
+
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr ""
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr ""
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr ""
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+msgid "Shehnai"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr ""
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr ""
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr ""
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr ""
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr ""
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr ""
+
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr ""
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr ""
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr ""
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+msgid "Jazz / Rock Kit"
+msgstr "ජෑස් / රොක් කට්ටලය"
+
+#: common/Util/Instruments.py:670
+msgid "African Kit"
+msgstr "අප්‍රිකානු කට්ටලය"
+
+#: common/Util/Instruments.py:672
+msgid "Arabic Kit"
+msgstr "අරාබි කට්ටලය"
+
+#: common/Util/Instruments.py:674
+msgid "Electronic Kit"
+msgstr "ඉලෙක්ට්‍රොනික කට්ටලය"
+
+#: common/Util/Instruments.py:676
+msgid "South American Kit"
+msgstr "දකුණු ඇමෙරිකානු කට්ටලය"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr ""
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "ටැම්ටැම් සැකසීම"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "ටැම්ටැම්ජෑම්"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "ටැම්ටැම්මිනි"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "ටැම්ටැම් සින්ත් ලැබ්"
+
+#~ msgid "Volume:"
+#~ msgstr "ශබ්දය:"
+
+#~ msgid "Reverb:"
+#~ msgstr "දෝංකාරය: "
+
+#~ msgid "Master Volume"
+#~ msgstr "ප්‍රධාන ශබ්ධ පරිමාව"
+
+#~ msgid "Drone and jump"
+#~ msgstr "අලස හා පිනුම්"
+
+#~ msgid "Record mic into slot 1"
+#~ msgstr "1 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#~ msgid "Record mic into slot 2"
+#~ msgstr "2 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#~ msgid "Record mic into slot 3"
+#~ msgstr "3 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#~ msgid "Record mic into slot 4"
+#~ msgstr "4 වෙනි සිදුර වෙත මයික්‍රොපෝනය සටහන් කරන්න"
+
+#~ msgid "Select Tool"
+#~ msgstr "තේරීම් මෙවලම"
+
+#~ msgid "Myxolidian scale"
+#~ msgstr "මික්සොඩියන් සප්තකය"
+
+#~ msgid "Loop Segments"
+#~ msgstr "පුඩු ඛණ්ඩ"
+
+#~ msgid "Volume: "
+#~ msgstr "පරිමාව: "
+
+#~ msgid "Reverb: "
+#~ msgstr "දෝංකාරය: "
+
+#~ msgid "Attack duration: "
+#~ msgstr "ප්‍රහාර පවත්නා කාලය: "
+
+#~ msgid "Decay duration: "
+#~ msgstr "ක්ෂයවීම පවත්නා කාලය: "
+
+#~ msgid "Filter cutoff: "
+#~ msgstr "පෙරහන් කඩඉම: "
+
+#~ msgid "Type: "
+#~ msgstr "වර්ගය: "
+
+#~ msgid "Minimum: "
+#~ msgstr "අවම: "
+
+#~ msgid "Maximum: "
+#~ msgstr "උපරිම: "
+
+#~ msgid "Random: "
+#~ msgstr "අහඹු: "
+
+#~ msgid "Lin"
+#~ msgstr "Lin"
+
+#~ msgid "Log"
+#~ msgstr "Log"
+
+#~ msgid ""
+#~ "The shape of the value reapartition. In a straight line (linear) or a curved "
+#~ "line (logarithmic)."
+#~ msgstr "අගයන් විභේදනයේ හැඩය. සරල රේඛාවක හෝ වක්‍ර රේඛාවක (ලඝුගණක)."
+
+#~ msgid "The maximum value de trackpad will send."
+#~ msgstr "පථපුවරුව යවනු ලබන උපරිම අගය."
+
+#~ msgid "Lowpass Filter"
+#~ msgstr "අවම සමර්ථ පෙරහන"
+
+#~ msgid "The sample to be used"
+#~ msgstr "භාවිතා කළ යුතු නියැදිය"
+
+#~ msgid "The volume of the sound"
+#~ msgstr "ශබ්ඳයේ පරිමාව"
+
+#~ msgid "lfo"
+#~ msgstr "lfo"
+
+#~ msgid "rand"
+#~ msgstr "rand"
+
+#~ msgid "adsr"
+#~ msgstr "adsr"
+
+#~ msgid "trackpadX"
+#~ msgstr "trackpadX"
+
+#~ msgid "trackpadY"
+#~ msgstr "trackpadY"
+
+#~ msgid "fm"
+#~ msgstr "fm"
+
+#~ msgid "buzz"
+#~ msgstr "buzz"
+
+#~ msgid "vco"
+#~ msgstr "vco"
+
+#~ msgid "pluck"
+#~ msgstr "pluck"
+
+#~ msgid "noise"
+#~ msgstr "noise"
+
+#~ msgid "sample"
+#~ msgstr "sample"
+
+#~ msgid "voice"
+#~ msgstr "voice"
+
+#~ msgid "grain"
+#~ msgstr "grain"
+
+#~ msgid "addSynth"
+#~ msgstr "addSynth"
+
+#~ msgid "mic"
+#~ msgstr "mic"
+
+#~ msgid "wguide"
+#~ msgstr "wguide"
+
+#~ msgid "distort"
+#~ msgstr "distort"
+
+#~ msgid "filter"
+#~ msgstr "පෙරහන"
+
+#~ msgid "ring"
+#~ msgstr "ring"
+
+#~ msgid "reverb"
+#~ msgstr "reverb"
+
+#~ msgid "harmon"
+#~ msgstr "harmon"
+
+#~ msgid "eq4band"
+#~ msgstr "eq4band"
+
+#~ msgid "chorus"
+#~ msgstr "chorus"
+
+#~ msgid "Record Synth sound into slot \"lab2\""
+#~ msgstr "sසංස්ලේෂිත ශබ්දය \"lab2\" තව්ව වෙත සටහන් කරන්න"
+
+#~ msgid "Record Synth sound into slot \"lab3\""
+#~ msgstr "සංස්ලේෂිත ශබ්දය \"lab3\" තව්ව වෙත සටහන් කරන්න"
+
+#~ msgid "Record Synth sound into slot \"lab4\""
+#~ msgstr "සංස්ලේෂිත ශබ්දය \"lab4\" තව්ව වෙත සටහන් කරන්න"
+
+#~ msgid "Record Synth sound into slot \"lab5\""
+#~ msgstr "සංස්ලේෂිත ශබ්දය \"lab5\" තව්ව වෙත සටහන් කරන්න"
+
+#~ msgid "Record Synth sound into slot \"lab6\""
+#~ msgstr "සංස්ලේෂිත ශබ්දය \"lab6\" තව්ව වෙත සටහන් කරන්න"
+
+#~ msgid "Preset 1"
+#~ msgstr "පිරිසැකසුම් 1"
+
+#~ msgid "Preset 2"
+#~ msgstr "පිරිසැකසුම් 2"
+
+#~ msgid "Preset 3"
+#~ msgstr "පිරිසැකසුම් 3"
+
+#~ msgid "Preset 4"
+#~ msgstr "පිරිසැකසුම් 4"
+
+#~ msgid "Preset 5"
+#~ msgstr "පිරිසැකසුම් 5"
+
+#~ msgid "Preset 6"
+#~ msgstr "පිරිසැකසුම් 6"
+
+#~ msgid "Preset 7"
+#~ msgstr "පිරිසැකසුම් 7"
+
+#~ msgid "Preset 8"
+#~ msgstr "පිරිසැකසුම් 8"
+
+#~ msgid "Preset 9"
+#~ msgstr "පිරිසැකසුම් 9"
+
+#~ msgid "Preset 10"
+#~ msgstr "පිරිසැකසුම් 10"

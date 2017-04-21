@@ -1,0 +1,2661 @@
+# #-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:57-0400\n"
+"PO-Revision-Date: 2011-07-18 23:41+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "TamTamSuite"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+msgid "A music and sound exploration application for Sugar"
+msgstr ""
+
+#. TRANS: "description" option from activity.info file
+msgid ""
+"TamTam is a suite of four music and sound related activities for Sugar. "
+"TamTam is written in python with some C functions for speed-critical "
+"services. The audio engine for TamTam is Csound."
+msgstr ""
+
+#: Edit/EditToolbars.py:39
+msgid "Play / Pause"
+msgstr "बजाऊ / रोक"
+
+#: Edit/EditToolbars.py:46 common/Tooltips.py:42 common/Tooltips.py:147
+#, fuzzy
+msgid "Stop"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द गर\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रोक\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रोक\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द गर"
+
+#: Edit/EditToolbars.py:71 common/Tooltips.py:8
+#, fuzzy
+msgid "Select tool"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"छान्ने औजार\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"औजार छान\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"औजार छान\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"छान्ने औजार"
+
+#: Edit/EditToolbars.py:80
+msgid "Draw Tool"
+msgstr "कोर्ने औजार"
+
+#: Edit/EditToolbars.py:89
+msgid "Paint Tool"
+msgstr "रङ्गाउने औजार"
+
+#: Edit/EditToolbars.py:112
+msgid "Duplicate"
+msgstr "नक्कल"
+
+#: Edit/EditToolbars.py:139
+msgid "Generate Tune"
+msgstr "धुन सिर्जना"
+
+#: Edit/EditToolbars.py:142 Edit/EditToolbars.py:965
+msgid "Generation"
+msgstr "सिर्जना"
+
+#: Edit/EditToolbars.py:164
+msgid "Record keyboard"
+msgstr "किबोर्ड भर"
+
+#: Edit/EditToolbars.py:172 SynthLab/SynthLabToolbars.py:147
+msgid "Record to ogg"
+msgstr "ogg मा भर"
+
+#: Edit/EditToolbars.py:183
+msgid "Volume / Tempo"
+msgstr "आवाज / गति"
+
+#: Edit/EditToolbars.py:190
+msgid "Properties"
+msgstr "गुणहरु"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/12"
+msgstr "१/१२"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/6"
+msgstr "१/१६"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/4"
+msgstr "१/४"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/3"
+msgstr "१/३"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1/2"
+msgstr "१/२"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "1"
+msgstr "१"
+
+#: Edit/EditToolbars.py:211 Edit/EditToolbars.py:245 Edit/EditToolbars.py:279
+#: Edit/EditToolbars.py:292
+msgid "2"
+msgstr "२"
+
+#: Edit/EditToolbars.py:336 Edit/EditToolbars.py:860 Jam/Popup.py:119
+#: Jam/Popup.py:227 common/Tooltips.py:143
+msgid "Volume"
+msgstr "आवाज"
+
+#: Edit/EditToolbars.py:347 Jam/Toolbars.py:65 common/Tooltips.py:49
+#: common/Tooltips.py:152
+msgid "Tempo"
+msgstr "गति"
+
+#: Edit/EditToolbars.py:386
+msgid "Rhythm"
+msgstr "रिदम"
+
+#: Edit/EditToolbars.py:390
+msgid "Density"
+msgstr "घन्त्व"
+
+#: Edit/EditToolbars.py:394 Edit/EditToolbars.py:417
+msgid "Regularity"
+msgstr "निरनत्ता"
+
+#: Edit/EditToolbars.py:413
+msgid "Pitch"
+msgstr "पिच"
+
+#: Edit/EditToolbars.py:421
+msgid "Maximum step"
+msgstr "अधिक्तम कदम"
+
+#: Edit/EditToolbars.py:440 SynthLab/SynthLabToolbars.py:71
+msgid "Duration"
+msgstr "अवधि"
+
+#: Edit/EditToolbars.py:444
+msgid "Note duration"
+msgstr "नोट अवधि"
+
+#: Edit/EditToolbars.py:448
+msgid "Silence density"
+msgstr "शुन्य धन्त्व"
+
+#: Edit/EditToolbars.py:478
+msgid "Scale: "
+msgstr "ईस्केल "
+
+#: Edit/EditToolbars.py:490
+msgid "Mode: "
+msgstr "ढांचा: "
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:61
+#: common/Tooltips.py:109
+msgid "Drunk"
+msgstr "जंडयाहा जस्तो"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:62
+#: common/Tooltips.py:110
+msgid "Drone and Jump"
+msgstr "झर्केर उफ्रेको"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:63
+#: common/Tooltips.py:111
+msgid "Repeater"
+msgstr "दोहोरयाउने"
+
+#: Edit/EditToolbars.py:492 Edit/EditToolbars.py:794 common/Tooltips.py:64
+#: common/Tooltips.py:112
+msgid "Loop segments"
+msgstr "सुर्को अंश"
+
+#: Edit/EditToolbars.py:793 Jam/Popup.py:1398
+msgid "None"
+msgstr "कुनैपनि होइन"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+#, fuzzy
+msgid "Lowpass"
+msgstr ""
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लो-पास\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लोपास् छनौट"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+#, fuzzy
+msgid "Bandpass"
+msgstr ""
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"व्यान्ड-पास\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ब्यान्ड-पास छनौट"
+
+#: Edit/EditToolbars.py:793 SynthLab/SynthLabConstants.py:359
+#, fuzzy
+msgid "Highpass"
+msgstr ""
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हाइ-पास\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हाइ-पास छनौट"
+
+#: Edit/EditToolbars.py:794 common/Tooltips.py:108
+msgid "Line"
+msgstr "रेखा"
+
+#: Edit/EditToolbars.py:795
+msgid "Purple"
+msgstr "बैजनि"
+
+#: Edit/EditToolbars.py:795
+msgid "Green"
+msgstr "हरियो"
+
+#: Edit/EditToolbars.py:795
+msgid "Blue"
+msgstr "निलो"
+
+#: Edit/EditToolbars.py:795
+msgid "Yellow"
+msgstr "पहेँलो"
+
+#: Edit/EditToolbars.py:819
+msgid "Grid division: "
+msgstr "ग्रिड विभाजन "
+
+#: Edit/EditToolbars.py:830
+msgid "Page color: "
+msgstr "पानाको रङ्ग "
+
+#: Edit/EditToolbars.py:846
+msgid "Transposition: "
+msgstr "स्थनान्तरण "
+
+#: Edit/EditToolbars.py:874
+msgid "Pan: "
+msgstr "पान: "
+
+#: Edit/EditToolbars.py:890 Jam/Popup.py:155 Jam/Popup.py:245
+#: Mini/miniToolbars.py:76 SynthLab/SynthLabConstants.py:380
+#: common/Tooltips.py:90 common/Tooltips.py:145
+#, fuzzy
+msgid "Reverb"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रिभर्ब\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रिर्भब\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"कम्पायमान\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रिभर्ब"
+
+#: Edit/EditToolbars.py:906 common/Tooltips.py:91
+msgid "Attack duration"
+msgstr "संक्रमण अबधि"
+
+#: Edit/EditToolbars.py:922 common/Tooltips.py:92
+msgid "Decay duration"
+msgstr "मत्थर अबधि"
+
+#: Edit/EditToolbars.py:938
+msgid "Filter Type: "
+msgstr "छनेट प्रकार "
+
+#: Edit/EditToolbars.py:968 SynthLab/SynthLabConstants.py:264
+#: SynthLab/SynthLabConstants.py:358
+msgid "Type"
+msgstr "प्रकार"
+
+#: Edit/EditToolbars.py:978 SynthLab/SynthLabConstants.py:168
+msgid "Minimum"
+msgstr "न्युनत्तम"
+
+#: Edit/EditToolbars.py:990 SynthLab/SynthLabConstants.py:169
+msgid "Maximum"
+msgstr "अधिकतम"
+
+#: Edit/EditToolbars.py:1002 SynthLab/SynthLabConstants.py:167
+msgid "Random"
+msgstr "जुनसुकै"
+
+#: Edit/MainWindow.py:134
+msgid "Track 1 Volume"
+msgstr "ट्रयाक १ आवाज"
+
+#: Edit/MainWindow.py:280
+msgid "Track 5 Properties"
+msgstr "ट्रयाक ५ गुणहरु"
+
+#: Edit/MainWindow.py:421 common/Tooltips.py:81 common/Tooltips.py:149
+#, fuzzy
+msgid "Generate"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"सृजना गर\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उत्पन्न गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उत्पन्न\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"सृजना गर"
+
+#: Edit/MainWindow.py:429 Jam/JamMain.py:277 Jam/JamMain.py:309
+#: Mini/miniTamTamMain.py:174 SynthLab/SynthLabMain.py:86
+#: SynthLab/SynthLabMain.py:108
+msgid "Record"
+msgstr "रेकर्ड गर"
+
+#: Edit/MainWindow.py:438 Edit/MainWindow.py:458
+msgid "Tools"
+msgstr ""
+
+#: Edit/MainWindow.py:451
+msgid "Compose"
+msgstr "सम्योजन"
+
+#: Edit/MainWindow.py:2199
+msgid "M"
+msgstr "M"
+
+#: Edit/MainWindow.py:2203
+msgid "Mute track"
+msgstr "ट्रयाक मैन"
+
+#: Edit/MainWindow.py:2205
+msgid "S"
+msgstr "S"
+
+#: Edit/MainWindow.py:2209
+msgid "Solo track"
+msgstr "एकल ट्रयाक"
+
+#: Edit/MainWindow.py:2299
+#, python-format
+msgid "Track %s Properties"
+msgstr "%s ट्रयाकको गुणहरु"
+
+#: Edit/MainWindow.py:2331 common/Tooltips.py:51 common/Tooltips.py:52
+#: common/Tooltips.py:53 common/Tooltips.py:54 common/Tooltips.py:55
+#, fuzzy
+msgid "Left click to mute, right click to solo"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आवाज बन्द, दाँया क्लिक। एक्लै गाउन बाँया क्लिक\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मैन गर्न बाँया किल्क र एकल गर्न दाँया किल्क गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मैन गर्न बाँया किल्क र एकल गर्न दाँया किल्क गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आवाज बन्द, दाँया क्लिक। एक्लै गाउन बाँया क्लिक"
+
+#: Jam/Desktop.py:62
+msgid "Instrument Properties"
+msgstr "उपकरणका गुण"
+
+#: Jam/Desktop.py:63
+msgid "Drum Kit Properties"
+msgstr "ड्रम किटका गुण"
+
+#: Jam/Desktop.py:64
+msgid "Loop Properties"
+msgstr "सुर्कोका गुण"
+
+#: Jam/Desktop.py:65
+msgid "Assign Key"
+msgstr "कि राख्नुहोस"
+
+#: Jam/JamMain.py:252 Jam/JamMain.py:293
+msgid "Jam"
+msgstr "जाम"
+
+#: Jam/JamMain.py:260 Jam/JamMain.py:300
+msgid "Beat"
+msgstr ""
+
+#: Jam/JamMain.py:268 Jam/JamMain.py:304
+msgid "Desktop"
+msgstr "डेस्कटप"
+
+#: Jam/JamMain.py:296
+msgid "Playback"
+msgstr "पाशर्व"
+
+#: Jam/JamMain.py:352
+msgid "Drum Kits"
+msgstr "ड्रम किटहरु"
+
+#: Jam/JamMain.py:354
+msgid "Loops"
+msgstr "लुप्स"
+
+#: Jam/Picker.py:305
+msgid "Loop"
+msgstr "लुप"
+
+#: Jam/Popup.py:137
+msgid "Pan:"
+msgstr "प्यान:"
+
+#: Jam/Popup.py:266 Jam/Popup.py:374
+msgid "Beats:"
+msgstr "बिटहरु:"
+
+#: Jam/Popup.py:284 Jam/Popup.py:392
+msgid "Regularity:"
+msgstr "नियमितता:"
+
+#: Jam/Toolbars.py:41 common/Tooltips.py:48
+#, fuzzy
+msgid "Master volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ध्वनी\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ध्वनि\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ध्वनि\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ध्वनी"
+
+#: Jam/Toolbars.py:153
+msgid "Stop Loops"
+msgstr "सुर्को समाप्त गर"
+
+#: Jam/Toolbars.py:159
+msgid "Mute Loops"
+msgstr "सुर्कोलाई मौन गर"
+
+#: Jam/Toolbars.py:190 Jam/Toolbars.py:198
+msgid "Jump To Beat"
+msgstr "बिटमा जाऊ"
+
+#: Jam/Toolbars.py:202
+msgid "Synch to:"
+msgstr ":मा सिन्क गर"
+
+#: Jam/Toolbars.py:208
+msgid "1 Beat"
+msgstr "१ बिट"
+
+#: Jam/Toolbars.py:209
+msgid "2 Beats"
+msgstr "२ बिट"
+
+#: Jam/Toolbars.py:210
+msgid "3 Beats"
+msgstr "३ बिट"
+
+#: Jam/Toolbars.py:211
+msgid "4 Beats"
+msgstr "४ बिट"
+
+#: Jam/Toolbars.py:212
+msgid "5 Beats"
+msgstr "५ बिट"
+
+#: Jam/Toolbars.py:213
+msgid "6 Beats"
+msgstr "६ बिट"
+
+#: Jam/Toolbars.py:214
+msgid "7 Beats"
+msgstr "७ बिट"
+
+#: Jam/Toolbars.py:215
+msgid "8 Beats"
+msgstr "८ बिट"
+
+#: Jam/Toolbars.py:216
+msgid "9 Beats"
+msgstr "९ बिट"
+
+#: Jam/Toolbars.py:217
+msgid "10 Beats"
+msgstr "१० बिट"
+
+#: Jam/Toolbars.py:218
+msgid "11 Beats"
+msgstr "११ बिट"
+
+#: Jam/Toolbars.py:219
+msgid "12 Beats"
+msgstr "१२ बिट"
+
+#: Jam/Toolbars.py:284
+msgid "Desktop 1"
+msgstr "डेस्कटप १"
+
+#: Jam/Toolbars.py:292
+#, python-format
+msgid "Desktop %d"
+msgstr "डेस्कटप %d"
+
+#: Jam/Toolbars.py:333 Mini/miniToolbars.py:98 common/Tooltips.py:155
+msgid "Record microphone into slot 1"
+msgstr "माइक्रोफोन पहिलो स्लटमा रेकर्ड गर"
+
+#: Jam/Toolbars.py:339 Mini/miniToolbars.py:104 common/Tooltips.py:155
+msgid "Record microphone into slot 2"
+msgstr "माइक्रोफोन दोस्रो स्लटमा रेकर्ड गर"
+
+#: Jam/Toolbars.py:345 Mini/miniToolbars.py:110 common/Tooltips.py:155
+msgid "Record microphone into slot 3"
+msgstr "माइक्रोफोन तेस्रो स्लटमा रेकर्ड गर"
+
+#: Jam/Toolbars.py:357 Mini/miniToolbars.py:141
+msgid "Add new Sound"
+msgstr "नयाँ आवाज थप"
+
+#: Jam/Toolbars.py:392 Mini/miniToolbars.py:172
+msgid "Sound: "
+msgstr "आवाज: "
+
+#: Jam/Toolbars.py:413 Mini/miniToolbars.py:192
+msgid "Register: "
+msgstr "दर्ता: "
+
+#: Mini/miniTamTamMain.py:173 common/Tooltips.py:40
+#, fuzzy
+msgid "Play"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाउ"
+
+#: Mini/miniTamTamMain.py:187
+msgid "TamTam"
+msgstr "ट्यामट्याम"
+
+#: Mini/miniToolbars.py:53 common/Tooltips.py:144
+#, fuzzy
+msgid "Balance"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ब्यालेन्स\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"सन्तुलन\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"सन्तुलन\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ब्यालेन्स"
+
+#: Mini/miniToolbars.py:124
+msgid "Click to record a loop"
+msgstr "लुप रेकर्ड गर्न थिच"
+
+#: Mini/miniToolbars.py:130
+msgid "Click to add a loop"
+msgstr "लुप थप्न थिच"
+
+#: Mini/miniToolbars.py:137
+msgid "Click to clear all loops"
+msgstr "सबै लुप हटाउन थिच"
+
+#: SynthLab/SynthLabConstants.py:148
+msgid "Source"
+msgstr "श्रोत"
+
+#: SynthLab/SynthLabConstants.py:149
+msgid "Effect"
+msgstr "प्रभाव"
+
+#: SynthLab/SynthLabConstants.py:150
+msgid "Control"
+msgstr "नियन्त्रण"
+
+#: SynthLab/SynthLabConstants.py:151
+msgid "Sound Output"
+msgstr "ध्वनी निकास"
+
+#. TRANS: http://en.wikipedia.org/wiki/Low_frequency_oscillator
+#: SynthLab/SynthLabConstants.py:155
+msgid "LFO"
+msgstr "एल.एफ.ओ"
+
+#: SynthLab/SynthLabConstants.py:156
+msgid "Amplitude"
+msgstr "मान"
+
+#: SynthLab/SynthLabConstants.py:157
+msgid "Frequency"
+msgstr "आवृत्ति"
+
+#: SynthLab/SynthLabConstants.py:158 SynthLab/SynthLabConstants.py:313
+msgid "Waveform"
+msgstr "तरङ्गरेखा"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sine"
+msgstr "साइन"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Triangle_%28instrument%29
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+#: common/Util/Instruments.py:304
+msgid "Triangle"
+msgstr "त्रिभुज"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Bi-Square"
+msgstr "द्वि-वर्ग"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Uni-Square"
+msgstr "एक-वर्ग"
+
+#: SynthLab/SynthLabConstants.py:159 SynthLab/SynthLabConstants.py:242
+msgid "Sawtooth"
+msgstr "आरीदाँते"
+
+#: SynthLab/SynthLabConstants.py:159
+msgid "Sawtooth-down"
+msgstr "उल्टो आरीदाँते"
+
+#: SynthLab/SynthLabConstants.py:160
+msgid "Offset"
+msgstr "प्ररोह"
+
+#: SynthLab/SynthLabConstants.py:161
+msgid ""
+"A low frequency oscillation (LFO) is an inaudible, pulsing wave used to "
+"change another sound."
+msgstr ""
+"एल.एफ.ओ तरङ्ग भनेको नसुनिने,पल्सिङ तरङ्ग हो यसलाई अरु आवाज परिवर्तन गर्न "
+"प्रयोग गरिन्छ ।"
+
+#: SynthLab/SynthLabConstants.py:162
+msgid "The volume of the LFO wave. More volume means more effect."
+msgstr "एल.एफ.ओ तरङको आवाज । ठुलो आवाज भयो भने धेरै प्रभाव हुन्छ।"
+
+#: SynthLab/SynthLabConstants.py:163 SynthLab/SynthLabConstants.py:260
+#: SynthLab/SynthLabConstants.py:296
+msgid "The speed of the wave."
+msgstr "तरङ्गको गति"
+
+#: SynthLab/SynthLabConstants.py:164
+msgid "The type of wave that will be used for the LFO."
+msgstr "एल.एफ.ओलाई प्रयोग हुने तरङको किसिम"
+
+#: SynthLab/SynthLabConstants.py:165
+msgid "The value added to the amplitude of the LFO."
+msgstr "एल.एफ.ओको मानमा थपिने मात्रा"
+
+#: SynthLab/SynthLabConstants.py:171
+msgid "Seed"
+msgstr "बिऊ"
+
+#: SynthLab/SynthLabConstants.py:172
+msgid "A sequence of numbers without repetition chosen by the computer."
+msgstr "कम्प्युटरद्वारा छानिएका नदोहोरिने अङ्कको अनुक्रम"
+
+#: SynthLab/SynthLabConstants.py:173
+msgid "The smallest number allowed"
+msgstr "प्रयोग गर्न मिल्ने न्युनत्तम अङ्क"
+
+#: SynthLab/SynthLabConstants.py:174
+msgid "The biggest number allowed."
+msgstr "प्रयोग गर्न मिल्ने अधिकतम अङ्क"
+
+#: SynthLab/SynthLabConstants.py:175
+msgid "The speed of the sequence."
+msgstr "अनुक्रमको गति"
+
+#: SynthLab/SynthLabConstants.py:176
+msgid "The number to initialize the number generator"
+msgstr "अङ्क उत्पादक क्रियाशील गर्ने अङ्क"
+
+#: SynthLab/SynthLabConstants.py:178
+msgid "Envelope"
+msgstr "खाम"
+
+#: SynthLab/SynthLabConstants.py:179
+msgid "Attack"
+msgstr "संक्रमण"
+
+#: SynthLab/SynthLabConstants.py:180
+msgid "Decay"
+msgstr "मत्थर"
+
+#: SynthLab/SynthLabConstants.py:181
+msgid "Sustain"
+msgstr "पालन"
+
+#: SynthLab/SynthLabConstants.py:182
+msgid "Release"
+msgstr "फुकुवा"
+
+#: SynthLab/SynthLabConstants.py:183
+msgid "An ADSR envelope is the shape of the sound's volume over time."
+msgstr "ए.डि.एस.आर खाम भनेको समयसंगै बदलिने आवाजको मात्राको आकार हो ।"
+
+#: SynthLab/SynthLabConstants.py:184
+msgid "(A) how quickly the sound reaches full volume."
+msgstr "(ए) अावाज कति छिटो पुरा मात्रामा पुग्छ"
+
+#: SynthLab/SynthLabConstants.py:185
+msgid "(D) how quickly the sound drops after the attack."
+msgstr "(डी) संक्रमणपछि अावाज कति छिटो पुरै झर्छ"
+
+#: SynthLab/SynthLabConstants.py:186
+msgid "(S) the volume of the sound until the note is released."
+msgstr "(एस) स्वर फुकुवा हुँदासम्म आवाजको मात्रा"
+
+#: SynthLab/SynthLabConstants.py:187
+msgid "(R) how quickly the sound goes away."
+msgstr "(आर) अावाज कति छिटो हराउँछ"
+
+#: SynthLab/SynthLabConstants.py:189
+msgid "Trackpad X"
+msgstr "ट्रयाकप्याड X"
+
+#: SynthLab/SynthLabConstants.py:192
+msgid "Scaling"
+msgstr "परिमाण परिवर्तन"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Linear"
+msgstr "रैखिक"
+
+#: SynthLab/SynthLabConstants.py:193
+msgid "Logarithmic"
+msgstr "घातांकिय"
+
+#: SynthLab/SynthLabConstants.py:194
+msgid "Poll time"
+msgstr "मत समय"
+
+#: SynthLab/SynthLabConstants.py:195
+msgid ""
+"The trackpad can be used to modify the sound. This is from left to right."
+msgstr "दाँयाबाट बाँयातर्फ आवाज परिवर्तन गर्न ट्रयाकप्याड प्रयोग गर्न सकिन्छ"
+
+#: SynthLab/SynthLabConstants.py:196 SynthLab/SynthLabConstants.py:208
+msgid "The minimum value the trackpad will send."
+msgstr "ट्रयाकप्याडले पठाउने न्युनत्तम अङ्क"
+
+#: SynthLab/SynthLabConstants.py:197 SynthLab/SynthLabConstants.py:209
+msgid "The maximum value the trackpad will send."
+msgstr "ट्रयाकप्याडले पठाउने अधिक्त्तम अङ्क"
+
+#: SynthLab/SynthLabConstants.py:198 SynthLab/SynthLabConstants.py:210
+msgid ""
+"The shape of the value repartition. In a straight line (linear) or a curved "
+"line (logarithmic)."
+msgstr ""
+"मान अनुसार आकार बाँडिनेछ। सिधा रेखामा (एकारुपमा) या चाप अनुसार (लघु गुणक)"
+
+#: SynthLab/SynthLabConstants.py:199 SynthLab/SynthLabConstants.py:211
+msgid "The time interval between each event coming from the trackpad."
+msgstr "ट्रयाकप्याडबाट आउने प्रत्येक घटनाबिचको समय"
+
+#: SynthLab/SynthLabConstants.py:201
+msgid "Trackpad Y"
+msgstr "ट्रयाकप्याड Y"
+
+#: SynthLab/SynthLabConstants.py:207
+msgid ""
+"The trackpad can be used to modify the sound. This is from top to bottom."
+msgstr "माथिबाट तलतिर आवाज परिवर्तन गर्न यो ट्रयाकप्याड प्रयोग गर्न सकिन्छ"
+
+#. TRANS: http://en.wikipedia.org/wiki/Frequency_modulation_synthesis
+#: SynthLab/SynthLabConstants.py:215
+msgid "FM"
+msgstr "एफ एम"
+
+#. TRANS: http://en.wikipedia.org/wiki/Carrier_wave
+#: SynthLab/SynthLabConstants.py:217
+msgid "Carrier Frequency"
+msgstr "क्यरिएर आवृत्ति"
+
+#: SynthLab/SynthLabConstants.py:218
+msgid "Modulator Frequency"
+msgstr "मोडुलेटर आवृत्ति"
+
+#: SynthLab/SynthLabConstants.py:219 SynthLab/SynthLabConstants.py:302
+msgid "Index"
+msgstr "सुचि"
+
+#: SynthLab/SynthLabConstants.py:220
+msgid "Gain"
+msgstr "लाभ"
+
+#: SynthLab/SynthLabConstants.py:221
+msgid ""
+"Frequency modulation synthesis (FM) creates an electronic sound by combining "
+"the frequency of two waves (the carrier and the modulator)."
+msgstr ""
+"आवृत्ती मोडुलेसन संयोजन (एफ एम) ले दुई तरङ्गको आवृत्ती (क्यारियर र मोडुलेटर) "
+"मिलाई विद्धुतिय ध्वनि सिर्जना गर्दछ।"
+
+#: SynthLab/SynthLabConstants.py:222
+msgid "The main wave frequency."
+msgstr "मुख्य तरङ्ग आवृत्ति"
+
+#: SynthLab/SynthLabConstants.py:223
+msgid "The frequency of the wave that will modify the Carrier wave."
+msgstr "तरङ्गको आवृत्ति जसले क्यारियर तरङ्गमा परिर्वतन ल्याँउछ।"
+
+#: SynthLab/SynthLabConstants.py:224
+msgid "The variation in frequency of the Carrier wave."
+msgstr "क्यारियर तरङ्गको आवृत्तिमा आएको परिवर्तन"
+
+#: SynthLab/SynthLabConstants.py:225 SynthLab/SynthLabConstants.py:236
+#: SynthLab/SynthLabConstants.py:249 SynthLab/SynthLabConstants.py:261
+#: SynthLab/SynthLabConstants.py:273 SynthLab/SynthLabConstants.py:285
+#: SynthLab/SynthLabConstants.py:297 SynthLab/SynthLabConstants.py:308
+#: SynthLab/SynthLabConstants.py:319 SynthLab/SynthLabConstants.py:330
+#: SynthLab/SynthLabConstants.py:342 SynthLab/SynthLabConstants.py:353
+#: SynthLab/SynthLabConstants.py:365 SynthLab/SynthLabConstants.py:378
+#: SynthLab/SynthLabConstants.py:389 SynthLab/SynthLabConstants.py:400
+#: SynthLab/SynthLabConstants.py:423
+msgid "The volume of the sound."
+msgstr "आवाजको मात्रा"
+
+#: SynthLab/SynthLabConstants.py:227
+msgid "Buzz"
+msgstr "गुनगुन"
+
+#: SynthLab/SynthLabConstants.py:229
+msgid "Number of harmonics"
+msgstr "समस्वरको संख्या"
+
+#: SynthLab/SynthLabConstants.py:230
+msgid "Filter Slope"
+msgstr "झुकाव छनोट गर"
+
+#: SynthLab/SynthLabConstants.py:232
+msgid "A buzz is a very bright sound with many harmonics."
+msgstr "गुनगुन धेरै समस्वर भएको एउटा चहकिलो आवाज हो ।"
+
+#: SynthLab/SynthLabConstants.py:233
+msgid "The pitch of the buzz sound."
+msgstr "गुनगुन आवाजको राग"
+
+#: SynthLab/SynthLabConstants.py:234
+msgid "The harmonic thickness of the sound."
+msgstr "आवाजको समस्वर मोटाई ।"
+
+#: SynthLab/SynthLabConstants.py:235 SynthLab/SynthLabConstants.py:248
+#: SynthLab/SynthLabConstants.py:259 SynthLab/SynthLabConstants.py:271
+#: SynthLab/SynthLabConstants.py:284 SynthLab/SynthLabConstants.py:340
+msgid "The brightness of the sound."
+msgstr "आवाजको चमक ।"
+
+#. TRANS: http://en.wikipedia.org/wiki/Voltage-controlled_oscillator
+#: SynthLab/SynthLabConstants.py:239
+msgid "VCO"
+msgstr "भि सि ओ (भोल्टेज कन्ट्रोलड ओसिलेटर)"
+
+#: SynthLab/SynthLabConstants.py:242
+msgid "Square"
+msgstr "वर्ग"
+
+#: SynthLab/SynthLabConstants.py:245
+msgid ""
+"A voltage-controlled oscillator (VCO) creates an electronic sound by "
+"combining the shape of two waves."
+msgstr ""
+"भि सि ओ (भोल्टेज कन्ट्रोलड ओसिलेटर) ले दुई तरङ्गको आकार मिलाई बिद्युतिय "
+"ध्वनि सिर्जना गर्दछ।"
+
+#: SynthLab/SynthLabConstants.py:246
+msgid "The wave that will be modified by the VCO."
+msgstr "भि सि ओ ले परिवर्तन गर्ने तरङ्ग"
+
+#: SynthLab/SynthLabConstants.py:247
+msgid "The shape of the VCO's wave."
+msgstr "भि सि ओ तरङ्गको आकार।"
+
+#: SynthLab/SynthLabConstants.py:251
+msgid "Pluck"
+msgstr "तान"
+
+#. TRANS: http://en.wikipedia.org/wiki/Vibrato
+#: SynthLab/SynthLabConstants.py:255
+msgid "Vibrato"
+msgstr "भिब्रेटो"
+
+#: SynthLab/SynthLabConstants.py:257
+msgid "An electronic string instrument (like a guitar)."
+msgstr "एउटा विद्युतिय तारे बाजा (गितार जस्तै) ।"
+
+#: SynthLab/SynthLabConstants.py:258
+msgid "The pitch of the instrument."
+msgstr "बाजाको चाप ।"
+
+#: SynthLab/SynthLabConstants.py:263
+msgid "Noise"
+msgstr "हल्ला"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "White"
+msgstr "सेतो"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Pink"
+msgstr "गुलाफि"
+
+#: SynthLab/SynthLabConstants.py:265
+msgid "Gauss"
+msgstr "गस्"
+
+#: SynthLab/SynthLabConstants.py:267
+msgid "Bandwidth"
+msgstr "ब्यानविइथ"
+
+#: SynthLab/SynthLabConstants.py:269
+msgid "Noise is a sound with energy on every frequency."
+msgstr "सबै आवृत्तिमा शक्ति भएको ध्वनि।"
+
+#: SynthLab/SynthLabConstants.py:270
+msgid ""
+"The shape of noise to be used (white = bright, pink = dark, gauss = colored)."
+msgstr "प्रयोग गरिने हल्ला (सेतो = चम्किलो, गुलाबी = मधुरो, गस = रङ्गिन) ।"
+
+#: SynthLab/SynthLabConstants.py:272
+msgid "The thickness of the sound."
+msgstr "ध्वनिको मोटाई ।"
+
+#: SynthLab/SynthLabConstants.py:275
+msgid "Sound Sample"
+msgstr "नमुना ध्वनि"
+
+#: SynthLab/SynthLabConstants.py:277
+msgid "Sample Number"
+msgstr "नमुना संख्या"
+
+#: SynthLab/SynthLabConstants.py:278
+msgid "Sample name"
+msgstr "नामुना नाम"
+
+#: SynthLab/SynthLabConstants.py:281
+msgid ""
+"A sample is a real sound that has been recorded and that can be played back."
+msgstr "नमुना एउटा साँच्चैको ध्वनि हो जसलाई रेकर्ड गर्न र फेरि बजाउन सकिन्छ।"
+
+#: SynthLab/SynthLabConstants.py:282
+msgid "The pitch of the sample."
+msgstr "नमुनाको चाप ।"
+
+#: SynthLab/SynthLabConstants.py:283 SynthLab/SynthLabConstants.py:306
+msgid "The sample to be used."
+msgstr "प्रयोग गरिने नमुना ।"
+
+#. TRANS: A synthesized voice sound
+#: SynthLab/SynthLabConstants.py:287 common/Util/Instruments.py:325
+msgid "Voice"
+msgstr "आवाज"
+
+#: SynthLab/SynthLabConstants.py:289
+msgid "Vowel"
+msgstr "स्वरवर्ण"
+
+#: SynthLab/SynthLabConstants.py:293
+msgid "An electronic voice."
+msgstr "एउटा विद्युतिय आवाज ।"
+
+#: SynthLab/SynthLabConstants.py:294 SynthLab/SynthLabConstants.py:316
+msgid "The pitch of the sound."
+msgstr "आवाजको चाप ।"
+
+#: SynthLab/SynthLabConstants.py:295
+msgid "The shape of the sound based on vowels."
+msgstr "स्वरवर्णमा आधारित आवाजको आकार ।"
+
+#: SynthLab/SynthLabConstants.py:299
+msgid "Grain"
+msgstr "कण"
+
+#: SynthLab/SynthLabConstants.py:304
+msgid ""
+"The grain effect splits the sound in tiny bits which can be rearranged in "
+"time."
+msgstr ""
+"कण प्रभावले ध्वनिलाई सानो टुक्रामा टुक्राउछ जसलाई समय अनुसार पुन: समायोजन "
+"गर्न सकिन्छ ।"
+
+#: SynthLab/SynthLabConstants.py:305
+msgid "The pitch of grains."
+msgstr "कणको चाप।"
+
+#: SynthLab/SynthLabConstants.py:307
+msgid "The variation in pitch of grains."
+msgstr "कणको चापमा घटबढ ।"
+
+#: SynthLab/SynthLabConstants.py:310
+msgid "Additive Synthesis"
+msgstr "जोड्न मिल्ने रचना"
+
+#: SynthLab/SynthLabConstants.py:312
+msgid "Spread"
+msgstr "विस्तार"
+
+#: SynthLab/SynthLabConstants.py:315
+msgid "Additive synthesis creates musical timbre by combining different waves."
+msgstr "जोड्न मिल्ने रचनाले विभिन्न तरङ्गहरु जोडेर उत्कृष्ट सङ्गीत बनाउँछ ।"
+
+#: SynthLab/SynthLabConstants.py:317
+msgid "The separation between the different waves."
+msgstr "भिन्न तरंग विचको फरक"
+
+#: SynthLab/SynthLabConstants.py:318
+msgid "The shape of the wave."
+msgstr "तरङ्गको आकार"
+
+#: SynthLab/SynthLabConstants.py:321
+msgid "Microphone input"
+msgstr "माइक निक्षेप"
+
+#: SynthLab/SynthLabConstants.py:322 SynthLab/SynthLabConstants.py:327
+msgid "Length of the memory"
+msgstr "स्मृतिको लम्बाइ"
+
+#: SynthLab/SynthLabConstants.py:323
+msgid "memory number"
+msgstr "स्मृति नम्बर"
+
+#: SynthLab/SynthLabConstants.py:324
+msgid "Playback speed"
+msgstr "बजाउने गति"
+
+#: SynthLab/SynthLabConstants.py:326
+#, fuzzy
+msgid ""
+"Microphone input is record into a buffer for playback (right-click on the "
+"object to record sound)"
+msgstr "माइकको आवाज बफरमा रेकर्ड गरिन्छ (रेकर्ड गर्न दायाँ क्लिक गर)"
+
+#: SynthLab/SynthLabConstants.py:328
+msgid "This parameter can not be modified"
+msgstr "यस परिमाणलाई परिवर्तन गर्न सकिएन"
+
+#: SynthLab/SynthLabConstants.py:329
+msgid "Speed playback changes duration and pitch of the sound"
+msgstr "ध्वनिको गति परिवर्तन गर्दा समय र चाप पनि परिवर्तन हुन्छ"
+
+#: SynthLab/SynthLabConstants.py:333 SynthLab/SynthLabConstants.py:417
+msgid "Delay"
+msgstr "ढिलाइ"
+
+#: SynthLab/SynthLabConstants.py:336
+msgid "Feedback"
+msgstr "प्रतिक्रिया"
+
+#: SynthLab/SynthLabConstants.py:338
+msgid "Delay is an audio effect that repeats the sound over and over."
+msgstr "ढिलाइ प्रयोग गर्दा आवाज दोहोरिन्छ"
+
+#: SynthLab/SynthLabConstants.py:339
+msgid "The speed of the delay."
+msgstr "ढिलाइको गति"
+
+#: SynthLab/SynthLabConstants.py:341
+msgid "The time it takes for the sound to go away."
+msgstr "आवाज सकिन लाग्ने समय"
+
+#: SynthLab/SynthLabConstants.py:344
+msgid "Distortion"
+msgstr "बिकार"
+
+#: SynthLab/SynthLabConstants.py:346
+msgid "Resonance"
+msgstr "प्रतिध्वनि"
+
+#: SynthLab/SynthLabConstants.py:347
+msgid "Distortion Level"
+msgstr "बिकारको मात्रा"
+
+#: SynthLab/SynthLabConstants.py:349
+msgid "Distortion is the deformation of a wave which creates harsh sounds."
+msgstr "बिकारले आवाजको तरङ्गलाई बिगार गरी नराम्रो आवाज निकाल्ने गर्छ।"
+
+#: SynthLab/SynthLabConstants.py:350
+msgid "The pitch of the distorted sound."
+msgstr "बिकार गरिएको आवाजको चाप।"
+
+#: SynthLab/SynthLabConstants.py:351
+msgid "The amount of vibration the instrument has against itself."
+msgstr "आफै विरुद्ध हुने कम्पनको मात्रा।"
+
+#: SynthLab/SynthLabConstants.py:352
+msgid "The volume of the distorted sound."
+msgstr "विकारयुक्त ध्वनिको मात्रा।"
+
+#: SynthLab/SynthLabConstants.py:355
+msgid "Filter"
+msgstr "छान्ने"
+
+#: SynthLab/SynthLabConstants.py:361
+msgid "An audio filter is designed to brighten, darken or color a sound."
+msgstr ""
+"ध्वनि छनौटको बिकास आवाजलाई तिखार्न, मधुरो पार्न वा प्रकार परिवर्तन गर्नका "
+"निम्ति गरिन्छ।"
+
+#: SynthLab/SynthLabConstants.py:362
+msgid "The point in the sound to be filtered."
+msgstr "आवाजमा छनौट गर्नु पर्ने विन्दु।"
+
+#: SynthLab/SynthLabConstants.py:363
+msgid "The size of the region affected by the filter."
+msgstr "छनौटले प्रभाव पार्ने क्षेत्रको आकार।"
+
+#: SynthLab/SynthLabConstants.py:364
+msgid ""
+"The type of filter used: lowpass = dark, highpass = bright, bandpass = "
+"colored."
+msgstr "छनौटको प्रकार: लो-पास ‍‍= धोद्रो, हाइ-पास = तिखो, ब्यान्ड-पास = रङ्गिन"
+
+#. TRANS: http://en.wikipedia.org/wiki/Ring_modulation
+#: SynthLab/SynthLabConstants.py:368
+msgid "Ring Modulator"
+msgstr "चक्रिय परिवर्तक"
+
+#: SynthLab/SynthLabConstants.py:370
+msgid "Mix"
+msgstr "मिसाउनु"
+
+#: SynthLab/SynthLabConstants.py:374
+msgid "Ring modulation is an audio effect that creates metallic sounds."
+msgstr "चक्रिय परिवर्तकले आवाजलाई तिखो बनाउछ।"
+
+#: SynthLab/SynthLabConstants.py:375
+msgid "The pitch of the ring modulator."
+msgstr "चक्रिय परिवर्तकको चाप।"
+
+#: SynthLab/SynthLabConstants.py:376
+msgid "The volume of the modulated sound."
+msgstr "परिवर्तित ध्वनिको मात्रा।"
+
+#: SynthLab/SynthLabConstants.py:377
+msgid "The shape of the wave used for modulation."
+msgstr "परिवर्तन गर्न प्रयोग हुने तरङ्गको आकार।"
+
+#: SynthLab/SynthLabConstants.py:381
+msgid "Length"
+msgstr "लम्बाई"
+
+#: SynthLab/SynthLabConstants.py:383
+msgid "Reverb Level"
+msgstr "कम्पायमानको स्तर"
+
+#: SynthLab/SynthLabConstants.py:385
+msgid "Reverberation is the length a sound stays in a room."
+msgstr "कम्पायमानको लम्बाइ आवाज रहुन्जेल हुन्छ।"
+
+#: SynthLab/SynthLabConstants.py:386
+msgid "The size of the room."
+msgstr "कोठाको आकार।"
+
+#: SynthLab/SynthLabConstants.py:387
+msgid "The brightness of the reverberated sound."
+msgstr "कम्पायमान आवाजको तिखोपना।"
+
+#: SynthLab/SynthLabConstants.py:388
+msgid "The amount of reverb to be applied."
+msgstr "लागु गर्नुपर्ने कम्पन।"
+
+#: SynthLab/SynthLabConstants.py:391
+msgid "Harmonizer"
+msgstr "स्वरयोजक"
+
+#: SynthLab/SynthLabConstants.py:393
+msgid "Dry delay"
+msgstr "सुख्खा ढिलाई"
+
+#: SynthLab/SynthLabConstants.py:396
+msgid "A harmonizer doubles the sound musically."
+msgstr "स्वरयोजकले आवाजलाई दुइगुणा बढाउँछ।"
+
+#: SynthLab/SynthLabConstants.py:397
+msgid "The pitch of the doubled sound."
+msgstr "दुइगुणा बढेको आवाजको चाप"
+
+#: SynthLab/SynthLabConstants.py:398
+msgid "The start time of the original sound."
+msgstr "मौलिक आवाजको सुरुवात समय।"
+
+#: SynthLab/SynthLabConstants.py:399
+msgid "The balance between the original and the doubled sound."
+msgstr "मौलिक आवाज र दुइगुणा बढेको आवाजको तालमेल।"
+
+#: SynthLab/SynthLabConstants.py:402
+msgid "Equalizer 4 bands"
+msgstr "इक्युलाइजर ४ बयान्डको"
+
+#: SynthLab/SynthLabConstants.py:403
+msgid "Band one gain"
+msgstr "बयान्ड १ को गेन"
+
+#: SynthLab/SynthLabConstants.py:404
+msgid "Band two gain"
+msgstr "बयान्ड २ को गेन"
+
+#: SynthLab/SynthLabConstants.py:405
+msgid "Band three gain"
+msgstr "बयान्ड ३ को गेन"
+
+#: SynthLab/SynthLabConstants.py:406
+msgid "Band four gain"
+msgstr "बयान्ड ४ को गेन"
+
+#: SynthLab/SynthLabConstants.py:407
+msgid ""
+"A 4 band equalizer chooses slices (bands) in the sound and makes them louder "
+"or softer."
+msgstr "४ बयान्डको इक्युलाइजरले प्रत्येक बयान्डको आवाज ठुलो वा सानो बनाउँछ।"
+
+#: SynthLab/SynthLabConstants.py:408
+msgid "The volume of band 1 (low)."
+msgstr "बयान्डको १ को आवाज(सानो)"
+
+#: SynthLab/SynthLabConstants.py:409
+msgid "The volume of band 2 (mid-low)."
+msgstr "बयान्डको २ को आवाज(मध्यम-सानो)"
+
+#: SynthLab/SynthLabConstants.py:410
+msgid "The volume of band 3 (mid-high)."
+msgstr "बयान्डको ३ को आवाज(मध्यम-ठुलो)"
+
+#: SynthLab/SynthLabConstants.py:411
+msgid "The volume of band 4 (high)."
+msgstr "बयान्डको ४ को आवाज(ठुलो)"
+
+#. TRANS: http://en.wikipedia.org/wiki/Chorus_effect
+#: SynthLab/SynthLabConstants.py:414
+msgid "Chorus"
+msgstr "कोरस्"
+
+#: SynthLab/SynthLabConstants.py:415
+msgid "LFO Depth"
+msgstr "एल.एफ.ओ गहिराई"
+
+#: SynthLab/SynthLabConstants.py:416
+msgid "LFO Frequency"
+msgstr "एल.एफ.ओ आवृति"
+
+#: SynthLab/SynthLabConstants.py:419
+msgid ""
+"The chorus effect plays copies of the same sound with a slight variation."
+msgstr "कोरसले एकै आवाजका प्रतिलिपीहरु हलुका फरकमा बजाउँछ।"
+
+#: SynthLab/SynthLabConstants.py:420
+msgid "The volume of the LFO signal."
+msgstr "एल.एफ.ओ संकेतको आवाज।"
+
+#: SynthLab/SynthLabConstants.py:421
+msgid "The pitch of the LFO signal."
+msgstr "एल.एफ.ओ संकेतको चाप।"
+
+#: SynthLab/SynthLabConstants.py:422
+msgid "The amount of delay between the two signals."
+msgstr "दुई संकेतबिचको ढिलाइ।"
+
+#: SynthLab/SynthLabMain.py:95 SynthLab/SynthLabMain.py:111
+msgid "Presets"
+msgstr "पुर्वनिर्धारित"
+
+#: SynthLab/SynthLabMain.py:105
+msgid "Main"
+msgstr "मुख्य"
+
+#: SynthLab/SynthLabMain.py:879
+msgid ": controller output"
+msgstr ": नियन्त्रकको नतिजा"
+
+#: SynthLab/SynthLabMain.py:891
+msgid ": sound output"
+msgstr ": आवाजको नतिजा"
+
+#: SynthLab/SynthLabMain.py:894
+msgid ": sound input"
+msgstr ": आवाजको निक्षेप"
+
+#: SynthLab/SynthLabMain.py:896
+msgid "Send sound to the speakers"
+msgstr "स्पिकरमा आवाज पठाऊ"
+
+#: SynthLab/SynthLabToolbars.py:66
+msgid "Duration:  "
+msgstr "अवधि:  "
+
+#: SynthLab/SynthLabToolbars.py:73
+msgid " s."
+msgstr " स."
+
+#: SynthLab/SynthLabToolbars.py:82
+msgid "Reset the worktable"
+msgstr "कार्यतालिकालाई सुरुको जस्तो बनाऊ"
+
+#: SynthLab/SynthLabToolbars.py:137
+#, fuzzy
+msgid "Record Synth sound into slot"
+msgstr "Synth आवाजलाई \"lab1\" मा राख"
+
+#: SynthLab/SynthLabToolbars.py:190 SynthLab/SynthLabToolbars.py:198
+#, fuzzy
+msgid "Preset"
+msgstr "पुर्वनिर्धारित"
+
+#: common/Tooltips.py:9
+msgid "Draw tool"
+msgstr "कोर्ने औजार"
+
+#: common/Tooltips.py:10
+msgid "Paint tool"
+msgstr "रङ्गाउने औजार"
+
+#: common/Tooltips.py:12
+#, fuzzy
+msgid "Generate new tune"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नयाँ धुन निकाल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नयाँ धुन उत्पन्न गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नयाँ धुन उत्पन्न गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नयाँ धुन निकाल"
+
+#: common/Tooltips.py:14
+#, fuzzy
+msgid "Generate page"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"धुन सहित पाना थप\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पेज उत्पन्न गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पेज उत्पन्न गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"धुन सहित पाना थप"
+
+#: common/Tooltips.py:15
+#, fuzzy
+msgid "Page properties"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पानाको विषेशता\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पेज गुणहरु\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पेज गुणहरु\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पानाको विषेशता"
+
+#: common/Tooltips.py:16
+#, fuzzy
+msgid "Delete page(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पाना(हरु) हटाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पाना(हरु) हटाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पाना(हरु) हटाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पाना(हरु) हटाउ"
+
+#: common/Tooltips.py:17
+#, fuzzy
+msgid "Duplicate page(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै पाना(हरु) थप\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नक्कल पाना(हरु) थप\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नक्कल पाना(हरु) थप\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै पाना(हरु) थप"
+
+#: common/Tooltips.py:18
+msgid "Add page"
+msgstr "पाना थप"
+
+#: common/Tooltips.py:19
+msgid "Beats per page"
+msgstr "बिट प्रति पाना"
+
+#: common/Tooltips.py:20
+msgid "Save tune"
+msgstr "धुन बचत गर"
+
+#: common/Tooltips.py:21
+msgid "Load tune"
+msgstr "धुन खोल"
+
+#: common/Tooltips.py:23
+#, fuzzy
+msgid "Generate track"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक सिर्जना गर\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक उत्पन्न गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक उत्पन्न गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक सिर्जना गर"
+
+#: common/Tooltips.py:24
+#, fuzzy
+msgid "Track properties"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाकको बिषेशता\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाकको गुणहरु\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाकको गुणहरु\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाकको बिषेशता"
+
+#: common/Tooltips.py:25
+msgid "Clear track"
+msgstr "ट्रयाक खाली गर"
+
+#: common/Tooltips.py:26
+#, fuzzy
+msgid "Duplicate track"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै ट्रयाक बनाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक नक्कल गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ट्रयाक नक्कल गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै ट्रयाक बनाउ"
+
+#: common/Tooltips.py:28
+#, fuzzy
+msgid "Note(s) properties"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेत(हरु)को बिषेशता\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु)को गुणहरु\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु)को गुणहरु\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेत(हरु)को बिषेशता"
+
+#: common/Tooltips.py:29
+#, fuzzy
+msgid "Delete note(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेत(हरु) हटाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु) मेट\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु) मेट\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेत(हरु) हटाउ"
+
+#: common/Tooltips.py:30
+#, fuzzy
+msgid "Duplicate note(s)"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै संकेत बनाऊ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु) नक्कल गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोट(हरु) नक्कल गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"उस्तै संकेत बनाऊ"
+
+#: common/Tooltips.py:31 common/Tooltips.py:32
+#, fuzzy
+msgid "Move note in time"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेतलाइ सार\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोटलाई समय अनुसार सार\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोटलाई समय अनुसार सार\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"संकेतलाइ सार"
+
+#: common/Tooltips.py:33
+#, fuzzy
+msgid "Lower pitch"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग घटाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग घटाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग घटाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग घटाउ"
+
+#: common/Tooltips.py:34
+#, fuzzy
+msgid "Raise pitch"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग बढाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग बढाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग बढाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"राग बढाउ"
+
+#: common/Tooltips.py:35 common/Tooltips.py:36
+msgid "Modify duration"
+msgstr "अवधि बदल"
+
+#: common/Tooltips.py:37
+#, fuzzy
+msgid "Lower volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि घटाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि घटाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि घटाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि घटाउ"
+
+#: common/Tooltips.py:38
+#, fuzzy
+msgid "Raise volume"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि बढाउ\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि बढाऊ\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि बढाऊ\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ध्वनि बढाउ"
+
+#: common/Tooltips.py:41
+msgid "Pause"
+msgstr "रोक"
+
+#: common/Tooltips.py:43
+msgid "Keyboard recording"
+msgstr "किबोर्ड रेकर्डीङ्ग"
+
+#: common/Tooltips.py:44
+msgid "Save as .ogg"
+msgstr ".ogg मा बचत गर"
+
+#: common/Tooltips.py:45
+msgid "Rewind"
+msgstr "अगाडि लैजाउ"
+
+#: common/Tooltips.py:46
+#, fuzzy
+msgid "Save to journal and quit"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"जर्नलमा बचत गरी बन्द गर\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"खातामा बचत गरि बन्द गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"खातामा बचत गरि बन्द गर\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"जर्नलमा बचत गरी बन्द गर"
+
+#: common/Tooltips.py:58
+#, fuzzy
+msgid "-- Rhythm density, | Rhythm regularity"
+msgstr "-- Rhythm density, | Rhythm regularity"
+
+#: common/Tooltips.py:59
+#, fuzzy
+msgid "-- Pitch regularity, | Pitch maximum step"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- पिच नियामितता, | अधिकतम पिच खुडकिलो\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"- पिच नियामितता, | अधिकतम पिच खुडकिलो\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"- पिच नियामितता, | अधिकतम पिच खुडकिलो\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"-- पिच नियामितता, | अधिकतम पिच खुडकिलो"
+
+#: common/Tooltips.py:60
+msgid "-- Average duration, | Silence probability"
+msgstr "-- औसत अवधि, | मौन हुने सम्भावना"
+
+#. TRANS: http://en.wikipedia.org/wiki/Major_scale
+#: common/Tooltips.py:66
+#, fuzzy
+msgid "Major scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मेजर स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मुख्य ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मेजर स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Harmonic_and_melodic_minor
+#: common/Tooltips.py:68
+#, fuzzy
+msgid "Harmonic minor scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हार्मोनिक माइनर स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हार्मोनिक माइनर ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हार्मोनिक माइनर ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हार्मोनिक माइनर स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Minor_scale#Natural_minor
+#: common/Tooltips.py:70
+#, fuzzy
+msgid "Natural minor scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"प्राकृतिक माइनर स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"प्राकृतिक माइनर ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"प्राकृतिक माइनर ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"प्राकृतिक माइनर स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Phrygian_mode
+#: common/Tooltips.py:72
+#, fuzzy
+msgid "Phrygian scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फ्राइजियन स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फ्राइजियन ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फ्राइजियन ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फ्राइजियन स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Dorian_mode
+#: common/Tooltips.py:74
+#, fuzzy
+msgid "Dorian scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"डोरियन स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"डोरियन ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"डोरियन ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"डोरियन स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lydian_mode
+#: common/Tooltips.py:76
+#, fuzzy
+msgid "Lydian scale"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लाइडियन स्केल\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लाइडियन ईस्केल\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लाइडियन ईस्केल\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लाइडियन स्केल"
+
+#. TRANS: http://en.wikipedia.org/wiki/Mixolydian_mode
+#: common/Tooltips.py:78
+msgid "Mixolydian scale"
+msgstr "मिक्जोलाइडियन स्केल"
+
+#: common/Tooltips.py:79
+msgid "Save preset"
+msgstr "पुर्वनिर्धारण बचत गर"
+
+#: common/Tooltips.py:80
+msgid "Load preset"
+msgstr "पुर्वनिर्धारण खोल"
+
+#: common/Tooltips.py:82
+#, fuzzy
+msgid "Close"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द गर\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द गर\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बन्द गर"
+
+#: common/Tooltips.py:85
+msgid "Transpose up"
+msgstr "माथी स्थानानतरण गर"
+
+#: common/Tooltips.py:86
+msgid "Transpose down"
+msgstr "तल स्थानानतरण गर"
+
+#: common/Tooltips.py:87
+msgid "Volume up"
+msgstr "आवाज बढाऊ"
+
+#: common/Tooltips.py:88
+msgid "Volume down"
+msgstr "आवाज धटाऊ"
+
+#: common/Tooltips.py:89
+msgid "Panoramization"
+msgstr "पानोरामैजेसन"
+
+#. TRANS: http://en.wikipedia.org/wiki/Lowpass_filter
+#: common/Tooltips.py:94
+msgid "Lowpass filter"
+msgstr "लो-पास छनोट"
+
+#. TRANS: http://en.wikipedia.org/wiki/Highpass_filter
+#: common/Tooltips.py:96
+msgid "Highpass filter"
+msgstr "हाइ-पास छनोट"
+
+#. TRANS: http://en.wikipedia.org/wiki/Bandpass_filter
+#: common/Tooltips.py:98
+msgid "Bandpass filter"
+msgstr "व्यान्ड-पास छनोट"
+
+#. TRANS: http://en.wikipedia.org/wiki/Cutoff_frequency
+#: common/Tooltips.py:100
+msgid "Filter cutoff"
+msgstr "छनोट कांटछांट"
+
+#: common/Tooltips.py:101 common/Tooltips.py:102 common/Tooltips.py:103
+#: common/Tooltips.py:104 common/Tooltips.py:105 common/Tooltips.py:106
+#: common/Tooltips.py:107
+msgid "Open algorithmic generator"
+msgstr "खुला बिधि सृजना"
+
+#: common/Tooltips.py:113
+msgid "Minimum value"
+msgstr "न्युनतम मान"
+
+#: common/Tooltips.py:114
+#, fuzzy
+msgid "Maximum value"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"अधिकतम मान\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"अधिकतमत मान\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"धिकतमत मान\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"अधिकतम मान"
+
+#: common/Tooltips.py:115
+msgid "Specific parameter"
+msgstr "बिशेष परिमाण"
+
+#: common/Tooltips.py:116
+msgid "Apply generator"
+msgstr "सृजना गर"
+
+#: common/Tooltips.py:117
+#, fuzzy
+msgid "Cancel"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रद्द गर्नुहोस्\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रद्द\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रद्द गर्नुहोस्\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रद्द गर्नुहोस्"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:121
+msgid "All"
+msgstr "सबै"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:123
+msgid "Animals"
+msgstr "जनावरहरु"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:125
+msgid "Objects"
+msgstr "वस्तुहरु"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Keyboard_instrument
+#: common/Tooltips.py:128
+msgid "Keyboard"
+msgstr "कीबोर्ड"
+
+#. TRANS: Instrument category
+#: common/Tooltips.py:130
+msgid "People"
+msgstr "मानिस"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Percussion_instrument
+#: common/Tooltips.py:133
+msgid "Percussions"
+msgstr "आघातहरु"
+
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/String_instrument
+#: common/Tooltips.py:136
+msgid "Strings"
+msgstr "डोरीहरु"
+
+# #-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#
+# अनिल  or हावा
+#. TRANS: Instrument category
+#. TRANS: http://en.wikipedia.org/wiki/Wind_instrument
+#: common/Tooltips.py:139
+#, fuzzy
+msgid "Winds"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"विइन्ड\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हावा\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"विइन्ड\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"विइन्ड"
+
+#: common/Tooltips.py:146
+#, fuzzy
+msgid "Play / Stop"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ/रोक\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ / रोक\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ / रोक\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बजाऊ/रोक"
+
+#: common/Tooltips.py:148
+msgid "Left click to record, right click to record on top"
+msgstr "रेकर्ड गर्न दायां क्लिक, त्यसैमा रेकर्ड गर्न वायां क्लिक"
+
+#: common/Tooltips.py:150
+msgid "Complexity of beat"
+msgstr "बिटको जटिलता"
+
+#: common/Tooltips.py:151
+msgid "Beats per bar"
+msgstr "बिट प्रति खण्ड"
+
+#: common/Tooltips.py:153
+msgid "Record with the microphone"
+msgstr "माइक वाट रेकर्ड गर"
+
+#: common/Tooltips.py:154
+msgid "Open SynthLab to create noise"
+msgstr "हल्ला थप्न SynthLab खोल"
+
+#: common/Tooltips.py:155
+msgid "Record microphone into slot 4"
+msgstr "माइक्रोफोन चैथो स्लटमा रेकर्ड गर"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Guinea_pig
+#: common/Util/Instruments.py:48
+msgid "Guinea Pig"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Gamelan
+#: common/Util/Instruments.py:53
+msgid "Gamelan"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
+#: common/Util/Instruments.py:58 common/Util/Instruments.py:63
+#: common/Util/Instruments.py:68 common/Util/Instruments.py:520
+msgid "Electric Guitar"
+msgstr "इलेक्ट्रिक गिटार"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
+#: common/Util/Instruments.py:73
+msgid "Koto"
+msgstr "कोटो"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Banjo
+#: common/Util/Instruments.py:78
+msgid "Banjo"
+msgstr "बैनजो"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ukulele
+#: common/Util/Instruments.py:83
+msgid "Ukulele"
+msgstr "उकुलेले"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harpsichord
+#: common/Util/Instruments.py:88
+msgid "Harpsichord"
+msgstr "हार्पसीकर्ड"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clarinet
+#: common/Util/Instruments.py:93
+#, fuzzy
+msgid "Clarinet"
+msgstr "क्लेविनेट"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flute
+#: common/Util/Instruments.py:98
+#, fuzzy
+msgid "Flute"
+msgstr ""
+"#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बांसुरी\n"
+"#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बांसुरी\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बांसुरी\n"
+"#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बासुरी"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Piano
+#: common/Util/Instruments.py:127
+msgid "Piano"
+msgstr "पियानो"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Dog
+#: common/Util/Instruments.py:132
+msgid "Dog"
+msgstr "कुकुर"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Chicken
+#: common/Util/Instruments.py:137
+msgid "Chicken"
+msgstr "चल्लो"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Duck
+#: common/Util/Instruments.py:142 common/Util/Instruments.py:235
+msgid "Duck"
+msgstr "हाँस"
+
+#. TRANS: The sound made by a person doing this
+#. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
+#: common/Util/Instruments.py:147
+msgid "Raspberry"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonica
+#: common/Util/Instruments.py:202
+msgid "Harmonica"
+msgstr "हार्मोनिका"
+
+#. TRANS: The sound of an alarm bell
+#: common/Util/Instruments.py:206
+msgid "Alarm"
+msgstr "चेतावनी"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Bird
+#: common/Util/Instruments.py:211
+msgid "Bird"
+msgstr "चरो"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Frog
+#: common/Util/Instruments.py:216
+msgid "Frog"
+msgstr "भ्यागुतो"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cat
+#: common/Util/Instruments.py:221
+msgid "Cat"
+msgstr "बिरालो"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cow
+#: common/Util/Instruments.py:225
+msgid "Cow"
+msgstr "गाई"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
+#: common/Util/Instruments.py:230
+msgid "Cricket"
+msgstr "फटयाङ्गो"
+
+#. TRANS: The sound of a bottle being hit
+#. TRANS: http://en.wikipedia.org/wiki/Bottle
+#: common/Util/Instruments.py:240
+msgid "Bottle"
+msgstr "बोतल"
+
+#. TRANS: The sound of a garbage can
+#: common/Util/Instruments.py:244
+msgid "Dump"
+msgstr "डम्प्"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cymbal
+#: common/Util/Instruments.py:249
+msgid "Cymbal"
+msgstr ""
+
+#. TRANS: The sound of a person being hit
+#: common/Util/Instruments.py:253
+msgid "Ow"
+msgstr "औ"
+
+#. TRANS: A surprised shout
+#: common/Util/Instruments.py:257
+msgid "Hey"
+msgstr "हे"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Sheep
+#: common/Util/Instruments.py:262
+msgid "Sheep"
+msgstr "भेडो"
+
+#. TRANS: The sound of water splashing
+#. TRANS: http://en.wikipedia.org/wiki/Water
+#: common/Util/Instruments.py:267
+msgid "Water"
+msgstr "पानी"
+
+#. TRANS: A science-fiction ray gun sound
+#: common/Util/Instruments.py:271
+msgid "Ray Gun"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Trumpet
+#: common/Util/Instruments.py:276
+msgid "Trumpet"
+msgstr "तुरही"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Clavinet
+#: common/Util/Instruments.py:281
+msgid "Clavinet"
+msgstr "क्लेविनेट"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
+#: common/Util/Instruments.py:286
+msgid "Flugelhorn"
+msgstr ""
+
+#. TRANS: The sound of a fog horn or ship horn
+#: common/Util/Instruments.py:290
+msgid "Foghorn"
+msgstr "फगहर्ण"
+
+#. TRANS: The sound of air bubbling through water
+#: common/Util/Instruments.py:294
+msgid "Bubbles"
+msgstr "बबलहरु"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Marimba
+#: common/Util/Instruments.py:299
+msgid "Marimba"
+msgstr "मारिम्बा"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
+#: common/Util/Instruments.py:309
+msgid "Fingercymbals"
+msgstr "फिंगर्सिमबलस्"
+
+#. TRANS: The sound of a laugh
+#: common/Util/Instruments.py:313
+msgid "Laugh"
+msgstr "हाँस"
+
+#. TRANS: The sound of a baby laughing
+#: common/Util/Instruments.py:317
+msgid "Baby Laugh"
+msgstr "बेबी लाफ्"
+
+#. TRANS: The sound of a child making a mistake
+#: common/Util/Instruments.py:321
+msgid "Baby Uh-oh"
+msgstr ""
+
+#. TRANS: A tinkling sound
+#: common/Util/Instruments.py:329
+msgid "Cling"
+msgstr "क्लिंग्"
+
+#. TRANS: The sound of a bicycle bell
+#. TRANS: http://en.wikipedia.org/wiki/Bicycle
+#: common/Util/Instruments.py:334
+msgid "Bicycle bell"
+msgstr ""
+
+#. TRANS: The sound of a door slamming shut
+#: common/Util/Instruments.py:338
+msgid "Door"
+msgstr "ढोका"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Electric_bass
+#: common/Util/Instruments.py:343
+msgid "Electric Bass"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Acoustic_guitar
+#: common/Util/Instruments.py:348
+msgid "Acoustic Guitar"
+msgstr "एकोस्टिक गिटार"
+
+#. TRANS: The sound of tumbling
+#. TRANS: http://en.wikipedia.org/wiki/Dice
+#: common/Util/Instruments.py:353
+msgid "Dice"
+msgstr "डाइस"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Didjeridu
+#: common/Util/Instruments.py:358
+msgid "Didjeridu"
+msgstr "डिडजेरिडु"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Harmonium
+#: common/Util/Instruments.py:363
+msgid "Harmonium"
+msgstr "हरमोनियम"
+
+#. TRANS: The sound made by this animal
+#. TRANS: http://en.wikipedia.org/wiki/Horse
+#: common/Util/Instruments.py:368
+msgid "Horse"
+msgstr "घोडा"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
+#: common/Util/Instruments.py:373
+msgid "Kalimba"
+msgstr "कालिमबा"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Mandolin
+#: common/Util/Instruments.py:378
+msgid "Mandolin"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Ocarina
+#: common/Util/Instruments.py:383
+msgid "Ocarina"
+msgstr "आकारीना"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
+#: common/Util/Instruments.py:388
+msgid "Rhodes"
+msgstr "रोड्स"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Saxophone
+#: common/Util/Instruments.py:393
+msgid "Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
+#: common/Util/Instruments.py:398
+msgid "Soprano Saxophone"
+msgstr ""
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Shehnai
+#: common/Util/Instruments.py:403
+#, fuzzy
+msgid "Shehnai"
+msgstr "शीनाइ"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sitar
+#: common/Util/Instruments.py:408
+msgid "Sitar"
+msgstr "सीटार"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Tuba
+#: common/Util/Instruments.py:413
+msgid "Tuba"
+msgstr "ट्यूवा"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Violin
+#: common/Util/Instruments.py:418
+msgid "Violin"
+msgstr "वाइलिन"
+
+#. TRANS: The sound of a camera shutter
+#. TRANS: http://en.wikipedia.org/wiki/Camera
+#: common/Util/Instruments.py:493
+msgid "Camera"
+msgstr "भाचित्रणयन्त्र"
+
+#. TRANS: The sound of a car starting
+#: common/Util/Instruments.py:497
+msgid "Car"
+msgstr "गाडी"
+
+#. TRANS: The sound of a car horn honking
+#: common/Util/Instruments.py:501
+msgid "Car Horn"
+msgstr "गाडीको हर्ण"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Cello
+#: common/Util/Instruments.py:506
+msgid "Cello"
+msgstr "सेलो"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Chimes
+#: common/Util/Instruments.py:511
+msgid "Chimes"
+msgstr "चाइमस्"
+
+#. TRANS: The sound of glass breaking
+#: common/Util/Instruments.py:515
+msgid "Crash"
+msgstr "टक्कर"
+
+#. TRANS: The sound of this vehicle
+#. TRANS: http://en.wikipedia.org/wiki/Airplane
+#: common/Util/Instruments.py:525
+msgid "Plane"
+msgstr "वायुयान"
+
+#. TRANS: The sound of something being hit
+#: common/Util/Instruments.py:529
+msgid "Slap"
+msgstr "लबटा"
+
+#. TRANS: The sound made by a bell
+#: common/Util/Instruments.py:533
+msgid "Temple Bell"
+msgstr "मन्दिरको घण्टी"
+
+#. TRANS: The sound made by this instrument
+#. TRANS: http://en.wikipedia.org/wiki/Sarangi
+#: common/Util/Instruments.py:538
+msgid "Sarangi"
+msgstr "सारंगी"
+
+#. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
+#. TRANS: http://www.jstor.org/pss/851365
+#: common/Util/Instruments.py:569
+msgid "'au tahana"
+msgstr ""
+
+#. TRANS: http://en.wikipedia.org/wiki/Drum_set
+#: common/Util/Instruments.py:668
+msgid "Jazz / Rock Kit"
+msgstr "ज्याज/रक किट"
+
+#: common/Util/Instruments.py:670
+msgid "African Kit"
+msgstr "अफ्रिकी किट"
+
+#: common/Util/Instruments.py:672
+msgid "Arabic Kit"
+msgstr "अरबी किट"
+
+#: common/Util/Instruments.py:674
+msgid "Electronic Kit"
+msgstr "विद्धुतिय किट"
+
+#: common/Util/Instruments.py:676
+msgid "South American Kit"
+msgstr "दक्षिण अमेरिकी किट"
+
+#: common/Util/Instruments.py:678
+msgid "Nepali"
+msgstr "नेपाली"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:32
+msgid "TamTamEdit"
+msgstr "ट्याम ट्याम एडिट"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:34
+msgid "TamTamJam"
+msgstr "ट्याम ट्याम जाम"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:36
+msgid "TamTamMini"
+msgstr "ट्यामट्याम_मिनी"
+
+#. TRANS: Full activity name that will be used in Sugar Shell
+#: setup.py:38
+msgid "TamTamSynthLab"
+msgstr "ट्यामट्यामसिन्थल्याब"
+
+#~ msgid "Ounk"
+#~ msgstr "ओङ्क"
+
+#~ msgid "Gam"
+#~ msgstr "गम"
+
+#~ msgid "Clarinette"
+#~ msgstr "क्ल्यारिनेट"
+
+#~ msgid "Armbone"
+#~ msgstr "आर्मबोन"
+
+#~ msgid "Clang"
+#~ msgstr "क्लैंग्"
+
+#~ msgid "Zap"
+#~ msgstr "जाप"
+
+#~ msgid "Baby Yuhoh"
+#~ msgstr "बेबी युहो"
+
+#~ msgid "Voix"
+#~ msgstr "वाइस"
+
+#~ msgid "Bike"
+#~ msgstr "बाइक"
+
+#~ msgid "Basse"
+#~ msgstr "बास"
+
+#~ msgid "Mando"
+#~ msgstr "मैन्डो"
+
+#~ msgid "Saxo"
+#~ msgstr "सेक्सो"
+
+#~ msgid "Saxo Soprano"
+#~ msgstr "सेक्सो सोप्रानो"
+
+#, fuzzy
+#~ msgid "Drone and jump"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "झर्केर उफ्रनु  \n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "झर्केर उफ्रनु\n"
+#~ "#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "झर्केर उफ्रनु\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "झर्केर उफ्रनु"
+
+#, fuzzy
+#~ msgid "Record mic into slot 1"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन पहिलो स्लटमा रेकर्ड गर  \n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन पहिलो स्लटमा रेकर्ड गर\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन पहिलो स्लटमा रेकर्ड गर"
+
+#, fuzzy
+#~ msgid "Record mic into slot 2"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन दोस्रो स्लटमा रेकर्ड गर  \n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन दोस्रो स्लटमा रेकर्ड गर\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन दोस्रो स्लटमा रेकर्ड गर"
+
+#, fuzzy
+#~ msgid "Record mic into slot 3"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन तेस्रो स्लटमा रेकर्ड गर  \n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन तेस्रो स्लटमा रेकर्ड गर\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन तेस्रो स्लटमा रेकर्ड गर"
+
+#, fuzzy
+#~ msgid "Record mic into slot 4"
+#~ msgstr ""
+#~ "#-#-#-#-#  TamTamJam.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन चौथो स्लटमा रेकर्ड गर  \n"
+#~ "#-#-#-#-#  TamTamEdit.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन चैथो स्लटमा रेकर्ड गर\n"
+#~ "#-#-#-#-#  TamTamMini.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "माइक्रोफोन पहिलो स्लटमा रेकर्ड गर"
+
+#~ msgid "Chiken"
+#~ msgstr "चल्लो"
+
+#~ msgid "Select Tool"
+#~ msgstr "औजार छान"
+
+#~ msgid "Loop Segments"
+#~ msgstr "सुर्को अंश"
+
+#~ msgid "Volume: "
+#~ msgstr "आवाज "
+
+#~ msgid "Reverb: "
+#~ msgstr "रिभर्ब "
+
+#~ msgid "Attack duration: "
+#~ msgstr "संक्रमण अबधि "
+
+#~ msgid "Decay duration: "
+#~ msgstr "मत्थर अबधि "
+
+#~ msgid "Filter cutoff: "
+#~ msgstr "छनोट कांटछांट "
+
+#~ msgid "Type: "
+#~ msgstr "प्रकार "
+
+#~ msgid "Minimum: "
+#~ msgstr "न्युनतम "
+
+#~ msgid "Maximum: "
+#~ msgstr "अधिकतम "
+
+#~ msgid "Random: "
+#~ msgstr "जथाभावी "
+
+#~ msgid "Record Synth sound into slot \"lab2\""
+#~ msgstr "Synth आवाजलाई \"lab2\" मा राख"
+
+#~ msgid "Record Synth sound into slot \"lab3\""
+#~ msgstr "Synth आवाजलाई \"lab3\" मा राख"
+
+#~ msgid "Record Synth sound into slot \"lab4\""
+#~ msgstr "Synth आवाजलाई \"lab4\" मा राख"
+
+#~ msgid "Record Synth sound into slot \"lab5\""
+#~ msgstr "Synth आवाजलाई \"lab5\" मा राख"
+
+#~ msgid "Record Synth sound into slot \"lab6\""
+#~ msgstr "Synth आवाजलाई \"lab6\" मा राख"
+
+#~ msgid "Preset 1"
+#~ msgstr "पुर्वनिर्धारित १"
+
+#~ msgid "Preset 2"
+#~ msgstr "पुर्वनिर्धारित २"
+
+#~ msgid "Preset 3"
+#~ msgstr "पुर्वनिर्धारित ३"
+
+#~ msgid "Preset 4"
+#~ msgstr "पुर्वनिर्धारित ४"
+
+#~ msgid "Preset 5"
+#~ msgstr "पुर्वनिर्धारित ५"
+
+#~ msgid "Preset 6"
+#~ msgstr "पुर्वनिर्धारित ६"
+
+#~ msgid "Preset 7"
+#~ msgstr "पुर्वनिर्धारित ७"
+
+#~ msgid "Preset 8"
+#~ msgstr "पुर्वनिर्धारित ८"
+
+#~ msgid "Preset 9"
+#~ msgstr "पुर्वनिर्धारित ९"
+
+#~ msgid "Preset 10"
+#~ msgstr "पुर्वनिर्धारित १०"
+
+#~ msgid "Volume:"
+#~ msgstr "आवाज:"
+
+#~ msgid "Reverb:"
+#~ msgstr "प्रतिध्वनी:"
+
+#~ msgid "Master Volume"
+#~ msgstr "प्रमुख आवाज"
+
+#~ msgid "Myxolidian scale"
+#~ msgstr "मिक्जोलाइडियन ईस्केल"
+
+#~ msgid "Lin"
+#~ msgstr "लिन"
+
+#~ msgid "Log"
+#~ msgstr "लग"
+
+#~ msgid ""
+#~ "The shape of the value reapartition. In a straight line (linear) or a "
+#~ "curved line (logarithmic)."
+#~ msgstr "सिधा अथवा धुमउरो रेखामा, खण्डिकृत मानको आकार"
+
+#~ msgid "The maximum value de trackpad will send."
+#~ msgstr "ट्रयाकप्याडले पठाउने अधिकतम अङ्क"
+
+#~ msgid "Lowpass Filter"
+#~ msgstr "लो-पास छनोट"
+
+#~ msgid "The sample to be used"
+#~ msgstr "प्रयोग गर्ने नमुना"
+
+#~ msgid "The volume of the sound"
+#~ msgstr "आवाजको मात्रा"
+
+#~ msgid "lfo"
+#~ msgstr "एल.एफ.ओ"
+
+#~ msgid "rand"
+#~ msgstr "रयान्ड(जथाभाबि)"
+
+#~ msgid "adsr"
+#~ msgstr "एडिएसआर"
+
+#~ msgid "trackpadX"
+#~ msgstr "ट्रयाकप्याडX"
+
+#~ msgid "trackpadY"
+#~ msgstr "ट्रयाकप्याडY"
+
+#~ msgid "fm"
+#~ msgstr "एफ एम"
+
+#~ msgid "buzz"
+#~ msgstr "गुण घुण"
+
+#~ msgid "vco"
+#~ msgstr "भि सि ओ"
+
+#~ msgid "pluck"
+#~ msgstr "प्ल्क"
+
+#~ msgid "noise"
+#~ msgstr "हल्ला"
+
+#~ msgid "sample"
+#~ msgstr "नमुना"
+
+#~ msgid "voice"
+#~ msgstr "आवाज"
+
+#~ msgid "grain"
+#~ msgstr "दाना"
+
+#~ msgid "addSynth"
+#~ msgstr "रचना जोड्नुहोस"
+
+#~ msgid "mic"
+#~ msgstr "माइक"
+
+#~ msgid "wguide"
+#~ msgstr "wनिर्देशक"
+
+#~ msgid "distort"
+#~ msgstr "विकार"
+
+#~ msgid "filter"
+#~ msgstr "छान्ने"
+
+#~ msgid "ring"
+#~ msgstr "चक्र"
+
+#~ msgid "reverb"
+#~ msgstr "रिभ्रब"
+
+#~ msgid "harmon"
+#~ msgstr "समस्वर"
+
+#~ msgid "eq4band"
+#~ msgstr "इक्यु४व्यान्ड"
+
+#~ msgid "chorus"
+#~ msgstr "कोरस"
